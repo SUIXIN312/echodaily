@@ -106,6 +106,44 @@ def media_urls(filename: str) -> tuple[str, str, str]:
     return page, base + ".vtt", base
 
 
+STOPWORDS = {
+    "the", "a", "an", "and", "or", "but", "of", "in", "on", "to", "for", "from",
+    "with", "how", "why", "what", "this", "that", "these", "those", "its", "is",
+    "are", "was", "were", "be", "been", "as", "at", "by", "into", "after", "before",
+    "america", "american", "world", "news", "new", "year", "years", "day", "days",
+}
+
+
+def title_keywords(title: str) -> list[str]:
+    words = re.findall(r"[a-z0-9][a-z0-9'-]+", title.lower())
+    cleaned = [word[:-2] if word.endswith("'s") else word for word in words]
+    return [word for word in cleaned if len(word) > 3 and word not in STOPWORDS]
+
+
+def choose_clip(cues: list[dict], title: str) -> tuple[float, float]:
+    keywords = title_keywords(title)
+    chosen = None
+    if keywords:
+        best_hits = 0
+        for cue in cues:
+            if cue["start"] < 20:
+                continue
+            text = cue["text"].lower()
+            hits = sum(1 for keyword in keywords if keyword in text)
+            if hits > best_hits:
+                best_hits = hits
+                chosen = cue
+                if hits >= min(2, len(keywords)):
+                    break
+    if chosen is None:
+        chosen = next((cue for cue in cues if cue["start"] >= 24), cues[0])
+    start = max(25.0, chosen["start"] - 1.5)
+    end = min(start + 125.0, cues[-1]["end"])
+    if end - start < 75:
+        end = min(cues[-1]["end"], start + 90.0)
+    return start, end
+
+
 def transcript_words(cues: list[dict], clip_start: float, clip_end: float) -> list[dict]:
     words = []
     for cue in cues:
@@ -419,13 +457,7 @@ def build_episode(meta: dict, issue: int, mock: bool) -> tuple[dict, list[dict]]
     cues = parse_vtt(fetch(vtt_url).decode("utf-8", "replace"))
     if not cues:
         raise RuntimeError(f"No VTT cues for {episode_date}")
-    candidates = [cue for cue in cues if cue["start"] >= 24.0]
-    clip_start = candidates[0]["start"] if candidates else cues[0]["start"]
-    clip_start = max(25.0, clip_start)
-    clip_end = min(clip_start + 175.0, cues[-1]["end"])
-    if clip_end - clip_start < 60:
-        clip_start = max(0.0, cues[-1]["end"] - 150.0)
-        clip_end = cues[-1]["end"]
+    clip_start, clip_end = choose_clip(cues, title)
     words = transcript_words(cues, clip_start, clip_end)
     chunks = chunk_words(words)
     if len(chunks) < 6:
