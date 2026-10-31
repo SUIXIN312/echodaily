@@ -17,6 +17,7 @@ import os
 import re
 import sys
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 from datetime import date, datetime, timedelta
@@ -184,8 +185,6 @@ def deepseek(messages: list[dict], json_mode: bool = True, retries: int = 3) -> 
         "temperature": 0.2,
         "max_tokens": 2200,
     }
-    if json_mode:
-        payload["response_format"] = {"type": "json_object"}
     data = json.dumps(payload).encode("utf-8")
     last_error: Exception | None = None
     for attempt in range(retries):
@@ -203,6 +202,12 @@ def deepseek(messages: list[dict], json_mode: bool = True, retries: int = 3) -> 
             with urllib.request.urlopen(request, timeout=120) as response:
                 body = json.loads(response.read().decode("utf-8"))
             return body["choices"][0]["message"]["content"]
+        except urllib.error.HTTPError as error:  # type: ignore[attr-defined]
+            detail = error.read().decode("utf-8", "replace")[:600]
+            last_error = RuntimeError(f"HTTP {error.code}: {detail}")
+            if error.code in (400, 401, 403, 404):
+                break
+            time.sleep(2 + attempt * 3)
         except Exception as error:  # noqa: BLE001
             last_error = error
             time.sleep(2 + attempt * 3)
