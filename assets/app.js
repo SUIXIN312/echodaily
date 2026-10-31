@@ -258,6 +258,17 @@
   function buildSentenceCues(ep) {
     if (!ep) return [];
     if (ep._sentenceCues) return ep._sentenceCues;
+    const supplied = window.SUBTITLE_CUES && window.SUBTITLE_CUES[ep.id];
+    if (Array.isArray(supplied) && supplied.length) {
+      // Cues are cut from the original VTT, so their starts match the audio.
+      // A tiny lead-in avoids the “subtitle arrives after the voice” feeling.
+      ep._sentenceCues = supplied.map((cue, index) => Object.assign({}, cue, {
+        start: Math.max(0, Number(cue.start) - 0.12),
+        end: Number(cue.end) + 0.05,
+        sentenceIndex: index
+      }));
+      return ep._sentenceCues;
+    }
     const cues = [];
     ep.segments.forEach((seg, segIndex) => {
       const ens = splitSentences(seg.en, 'en');

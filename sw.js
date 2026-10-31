@@ -1,13 +1,14 @@
 /* EchoDaily app-shell cache. Media is always fetched from the network.
    Network-first for app files so content updates are picked up immediately;
    the cache is the offline fallback. */
-const CACHE = 'echodaily-shell-v2';
+const CACHE = 'echodaily-shell-v3';
 const ASSETS = [
   './',
   './index.html',
   './assets/styles.css',
   './assets/app.js',
   './data.js',
+  './assets/subtitles.js',
   './assets/icon.svg',
   './manifest.webmanifest'
 ];
