@@ -8,8 +8,8 @@ window.EPISODES = [
     "dateLabel": "10月30日",
     "title": "The spooktacular history behind Halloween, explained",
     "zhTitle": "万圣节背后的惊悚历史",
-    "deck": "This CNN 10 clip explains the spooktacular history behind Halloween. It traces how the holiday's traditions and customs developed over time.",
-    "zhDeck": "CNN 10 带你追溯万圣节的起源与演变。",
+    "deck": "Halloween has much more history behind the mask than people might expect. The Oregon Zoo shared a video of rescue otters playing with miniature pumpkins as part of their regular training and enrichment program.",
+    "zhDeck": "CNN 10 带你了解万圣节面具背后鲜为人知的历史，并看看俄勒冈动物园的水獭如何玩转迷你南瓜。",
     "source": "CNN 10",
     "sourceUrl": "https://edition.cnn.com/audio/podcasts/cnn-10",
     "transcriptUrl": "https://www.listeningexpress.com/cnn10/2026-10-30%20The%20spooktacular%20history%20behind%20Halloween,%20explained.html",
@@ -18,72 +18,65 @@ window.EPISODES = [
     "format": "video",
     "accent": "American",
     "level": "B1–B2",
-    "duration": 175.0,
+    "duration": 71.1,
     "fullDuration": 600,
-    "clipStart": 25.6,
-    "clipEnd": 200.6,
+    "clipStart": 469.115,
+    "clipEnd": 540.177,
     "media": {
       "video": "https://www.listeningexpress.com/cnn10/cnn10%202026-10-30%20The%20spooktacular%20history%20behind%20Halloween,%20explained.mp4",
       "audio": "https://www.listeningexpress.com/cnn10/cnn10%202026-10-30%20The%20spooktacular%20history%20behind%20Halloween,%20explained.mp3"
     },
     "topics": [
       "Halloween history",
-      "Holiday traditions"
+      "Animal enrichment"
     ],
-    "summary": "This CNN 10 clip explains the spooktacular history behind Halloween. It traces how the holiday's traditions and customs developed over time.",
-    "zhSummary": "这段 CNN 10 视频讲解了万圣节背后的惊悚历史。它追溯了这一节日的传统与习俗是如何随时间发展演变的。",
+    "summary": "Halloween has much more history behind the mask than people might expect. The Oregon Zoo shared a video of rescue otters playing with miniature pumpkins as part of their regular training and enrichment program.",
+    "zhSummary": "万圣节面具背后有着比人们想象中更丰富的历史。俄勒冈动物园分享了一段救助水獭玩迷你南瓜的视频，这是它们日常训练和丰富活动项目的一部分。",
     "takeaways": [
-      "The clip explores the history behind Halloween.",
-      "Halloween has a spooktacular origin story.",
-      "Traditions and customs shaped the holiday over time."
+      "Halloween has a surprising history behind the mask.",
+      "Rescue otters at the Oregon Zoo played with miniature pumpkins.",
+      "The pumpkin activity is part of the otters' training and enrichment."
     ],
     "zhTakeaways": [
-      "视频探讨了万圣节背后的历史。",
-      "万圣节有着惊悚的起源故事。",
-      "传统与习俗随时间塑造了这一节日。"
+      "万圣节面具背后有着令人惊讶的历史。",
+      "俄勒冈动物园的救助水獭玩起了迷你南瓜。",
+      "玩南瓜是水獭训练和丰富活动的一部分。"
     ],
     "segments": [
       {
-        "start": 25.6,
-        "end": 55.729,
+        "start": 469.115,
+        "end": 484.209,
         "section": "01 · 新闻片段",
-        "en": "Election Day just around the corner. On Tuesday, Americans will head to the polls to make their voices heard in this year's midterm elections. Many already have. A whopping 40 million ballots have already been cast during early voting. This election will not only give many voters a chance to choose their new governor or decide control of the US Senate and House of Representatives, but to voice concerns on key issues impacting their everyday lives as well. From affordability to healthcare, immigration, ongoing wars, there is a lot to consider on this",
-        "zh": "选举日即将来临。周二，美国人将前往投票站进行在今年的中期选举中让他们的声音被听到。许多人已经这样做了。已有高达4000万张选票在……期间投出提前投票。这次选举不仅会让许多选民有机会来选择他们的新州长或决定……的控制权美国参议院和众议院，而是就影响日常生活的关键问题表达关切以及生活。从生活成本到医疗保健、移民、持续不断的战争，今年的选票上有很多"
+        "en": "celebrate being alive. Turns out Halloween has a whole lot more behind the mask. Today's story getting a 10 out of 10, adorable otters giving the WME's Gabby Williams and Ryan Howard",
+        "zh": "庆祝活着。原来万圣节背后还有更多秘密。今天的故事满分十分，可爱的水獭让WME的Gabby Williams和Ryan Howard"
       },
       {
-        "start": 55.729,
-        "end": 85.448,
+        "start": 484.209,
+        "end": 498.198,
         "section": "02 · 新闻片段",
-        "en": "year's ballots. What a better way to find out what's on voters'minds than with an epic pre-election road trip. Our Omar Jimenez crisscrossing key battleground states all week to hear directly from voters and he's livestreaming the whole thing. Omar and team took a quick break from their marathon reporting to let us know what he's seeing, hearing, and most importantly, eating. What's up, Omar? What a road trip this has been. We are at Ohio State's campus right now, as you can see, in Columbus, Ohio, which is the state capital of Ohio and we've",
-        "zh": "需要考虑的事项。还有什么比一场史诗般的选前公路之旅更能了解选民的想法呢？我们的奥马尔·希门尼斯整周穿梭于关键摇摆州直接听取选民的声音，并且全程直播这一过程。奥马尔和团队在马拉松式的行程中稍作休息报道让我们了解他所见、所闻，最重要的是所吃。怎么了，奥马尔？这真是一趟公路旅行。我们现在在俄亥俄州立大学的校园里，如你所见，在哥伦布，俄亥俄州，这是俄亥俄州的首府，我们"
+        "en": "a run for their money. The Oregon Zoo just shared this slamming video of their rescue otters getting into the fall spirit by hooping it up with miniature pumpkins instead of basketballs. It's part of their regular training and enrichment program to",
+        "zh": "相形见绌。俄勒冈动物园刚刚分享了这段超赞的视频，他们的救助水獭融入秋日氛围，用迷你南瓜代替篮球玩起了投篮。这是它们日常训练和丰富活动项目的一部分，旨在"
       },
       {
-        "start": 85.448,
-        "end": 115.893,
+        "start": 498.198,
+        "end": 511.607,
         "section": "03 · 新闻片段",
-        "en": "been on this road trip starting in eastern Pennsylvania. We hit Philadelphia, some of the suburbs, and a place called Allentown, as well. Moved west towards the state capital of Pennsylvania in Harrisburg, west then to Pittsburgh, and even further west into Ohio, where we are now. Some of the issues that we've been hearing about from basically everyone is about affordability. Things are just really expensive and they've been that way for a while, but especially so over the past year and change, even when you look at gas prices.",
-        "zh": "这趟公路旅行从宾夕法尼亚州东部开始。我们去了费城、一些郊区，还有一个叫阿伦敦的地方，也是如此。向西前往宾夕法尼亚州首府哈里斯堡，再向西到匹兹堡，甚至更西进入俄亥俄州，我们现在就在这里。我们一直听到的一些问题，来自基本上每个人，都是关于负担能力。东西真的很贵，而且这种情况已经持续有一段时间了，但过去一年多以来尤其如此，甚至看看油价也是如此。"
+        "en": "keep the furry friends healthy and active. Hooped it is. These motor skills ought to come as no surprise to us. Sea otters are known to use rocks as tools to open hard shelled prey. That is a clam dunk.",
+        "zh": "让毛茸茸的朋友们保持健康活泼。确实如此。这些运动技能应该不会让我们感到意外。海獭已知会使用石头作为工具来打开硬壳猎物。那是在水里泡蛤蜊。"
       },
       {
-        "start": 115.893,
-        "end": 147.497,
+        "start": 511.617,
+        "end": 524.986,
         "section": "04 · 新闻片段",
-        "en": "A lot of the gas stations where we've stopped have had above national average worth of gas and the prices of diesel have been just around record levels for about a month now. So, it's been really difficult for a lot of people to deal with that and we've heard that from a lot of the folks we've talked to, from farmers, from students. We've been talking to people on campus here and even they said affordability was probably the top issue for them right now. Now, as part of this trip, we've also seen some pretty cool places because the best",
-        "zh": "我们停过的很多加油站都天然气储量及价格高于全国平均水平柴油价格一直处于接近历史高位的水平约已经一个月了。所以，这对很多人来说真的很难。为了应对这一点，我们已经从一位……那里听说了我们交谈过的很多人，来自农民，来自学生。我们一直在和校园里的人交谈，甚至他们表示，负担能力可能是他们最关心的问题。现在。现在，作为这次旅行的一部分，我们还看到了一些非常酷的地方，因为公路旅行最棒的"
+        "en": "All right, sunshine. I've got a time for one shoutout today. This Friday goes to Mr. Mascara at Delmar Middle School in Delmar, Delaware. Thank you for making us a part of your day. I see you, Ava Lynn. You all are what makes this show the best 10",
+        "zh": "好了，阳光。今天我有时间做一次点名。这个周五属于……先生。特拉华州德尔马市德尔马中学的睫毛膏，特拉华州。感谢你让我们成为你一天的一部分。我看到你了，艾娃·林恩。你们所有人正是让这档节目成为新闻界最佳10"
       },
       {
-        "start": 147.497,
-        "end": 178.362,
+        "start": 524.986,
+        "end": 540.177,
         "section": "05 · 新闻片段",
-        "en": "part road trip is stopping to see what makes some of these places unique. So, we stopped at Gettysburg, which is one of the pivotal places in the Civil War and we got some perspective from a historian there, heard from a Ulysses S. Grant impersonator who he told us Grant wasn't at that battle, but he gave us some broader perspective on the war. We stopped in Pittsburgh at this old steel mill that they've fought hard to preserve because they want it to stand as a symbol of what's possible, but also how quickly things can change.",
-        "zh": "部分就是停下来看看是什么让其中一些地方独一无二。于是，我们停在了葛底斯堡，这是内战中的关键地点之一，我们从当地一位历史学家那里获得了一些视角，还听到了尤利西斯·S·格兰特模仿者的讲述，他告诉我们格兰特并不在那场战役中，但他给了我们一些更宏观的视角，关于战争。我们在匹兹堡停留在这座古老的钢铁厂，他们努力保护它，因为他们希望它成为可能性的象征，但也象征着事物变化之快。"
-      },
-      {
-        "start": 178.372,
-        "end": 200.6,
-        "section": "06 · 新闻片段",
-        "en": "And the last thing, of course, is we've been eating. We've been eating a lot of food. Philly cheesesteak or cheesesteak in Philly was unreal. But also, we've been just getting There's a place called Wawa in Pennsylvania. We got a nice hoagie from there, which was incredible. We stopped at a shack on the side of the road when we were leaving a farm to eat a footlong hot dog, which I'm still thinking about and was lighter than",
-        "zh": "当然，最后一件事，是我们一直在吃。我们吃了很多食物。费城奶酪牛排或费城的奶酪牛排太棒了。但我们也一直在去一个叫宾夕法尼亚州的Wawa便利店。我们从那儿买了个好吃的潜艇三明治。这太不可思议了。我们在路边的一个小屋前停了下来我们离开农场去吃饭时的那条路比…更轻"
+        "en": "minutes in news. Play that Friday music, Nader. Hope you have a whole lot of fun this Halloween. Send us some pictures on the socials at Coy Wire at CNN 10. Stay safe, stay warm, and dominate some candy. I'm Coy Wire. We are CNN 10.",
+        "zh": "分钟的原因。放起那首周五音乐吧，纳德尔。希望你在这个万圣节玩得非常开心。在社交媒体上给我们发些照片，@Coy Wire@CNN 10。注意安全，注意保暖，然后去征服一些糖果吧。我是Coy Wire。这里是CNN 10。"
       }
     ],
     "vocab": [
@@ -91,84 +84,84 @@ window.EPISODES = [
         "word": "spooktacular",
         "phonetic": "/spuːkˈtækjələr/",
         "pos": "adj.",
-        "zh": "惊悚又精彩的",
-        "example": "The clip explores the spooktacular history behind Halloween.",
-        "exampleZh": "这段视频探讨了万圣节惊悚又精彩的历史。"
+        "zh": "万圣节主题的精彩绝伦的",
+        "example": "The zoo shared a spooktacular video of otters with pumpkins.",
+        "exampleZh": "动物园分享了一段水獭玩南瓜的万圣节精彩视频。"
       },
       {
-        "word": "history",
-        "phonetic": "/ˈhɪstəri/",
+        "word": "enrichment",
+        "phonetic": "/ɪnˈrɪtʃmənt/",
         "pos": "n.",
-        "zh": "历史",
-        "example": "The history behind Halloween is explained in the clip.",
-        "exampleZh": "视频讲解了万圣节背后的历史。"
+        "zh": "丰富活动；充实",
+        "example": "The pumpkin play is part of the otters' enrichment program.",
+        "exampleZh": "玩南瓜是水獭丰富活动项目的一部分。"
       },
       {
-        "word": "Halloween",
-        "phonetic": "/ˌhæləˈwiːn/",
+        "word": "rescue",
+        "phonetic": "/ˈreskjuː/",
+        "pos": "adj.",
+        "zh": "救助的；救援的",
+        "example": "The Oregon Zoo shared a video of their rescue otters.",
+        "exampleZh": "俄勒冈动物园分享了一段他们救助的水獭的视频。"
+      },
+      {
+        "word": "miniature",
+        "phonetic": "/ˈmɪnətʃər/",
+        "pos": "adj.",
+        "zh": "微型的；小型的",
+        "example": "The otters played with miniature pumpkins instead of basketballs.",
+        "exampleZh": "水獭们玩的是迷你南瓜而不是篮球。"
+      },
+      {
+        "word": "motor skills",
+        "phonetic": "/ˈmoʊtər skɪlz/",
         "pos": "n.",
-        "zh": "万圣节",
-        "example": "Halloween has a long and interesting history.",
-        "exampleZh": "万圣节有着悠久而有趣的历史。"
+        "zh": "运动技能",
+        "example": "Sea otters' motor skills help them use rocks as tools.",
+        "exampleZh": "海獭的运动技能帮助它们把石头当作工具。"
       },
       {
-        "word": "explain",
-        "phonetic": "/ɪkˈspleɪn/",
-        "pos": "v.",
-        "zh": "解释",
-        "example": "The video explains the history behind Halloween.",
-        "exampleZh": "视频解释了万圣节背后的历史。"
-      },
-      {
-        "word": "behind",
-        "phonetic": "/bɪˈhaɪnd/",
-        "pos": "prep.",
-        "zh": "在……背后",
-        "example": "We learn about the story behind Halloween.",
-        "exampleZh": "我们了解了万圣节背后的故事。"
-      },
-      {
-        "word": "tradition",
-        "phonetic": "/trəˈdɪʃən/",
+        "word": "prey",
+        "phonetic": "/preɪ/",
         "pos": "n.",
-        "zh": "传统",
-        "example": "Halloween traditions have developed over time.",
-        "exampleZh": "万圣节的传统随时间发展演变。"
+        "zh": "猎物",
+        "example": "Sea otters use rocks to open hard-shelled prey.",
+        "exampleZh": "海獭用石头打开有硬壳的猎物。"
       }
     ],
     "questions": [
       {
-        "q": "What is the clip mainly about?",
+        "q": "What did the Oregon Zoo share a video of?",
         "options": [
-          "The history behind Halloween",
-          "The US midterm elections",
-          "A road trip across battleground states",
-          "Gas prices in Ohio"
+          "Rescue otters playing with miniature pumpkins",
+          "Otters playing basketball",
+          "Sea otters using rocks as tools",
+          "A Halloween costume contest"
         ],
         "answer": 0,
-        "explain": "The title states the clip is about the spooktacular history behind Halloween."
+        "explain": "The clip says the Oregon Zoo shared a video of their rescue otters getting into the fall spirit by hooping it up with miniature pumpkins."
       },
       {
-        "q": "According to the title, what kind of history does Halloween have?",
+        "q": "Why do the otters play with miniature pumpkins?",
         "options": [
-          "A spooktacular history",
-          "A political history",
-          "An economic history",
-          "A sports history"
+          "To prepare for a basketball game",
+          "As part of their regular training and enrichment program",
+          "To learn how to open hard-shelled prey",
+          "To celebrate Halloween with visitors"
         ],
-        "answer": 0,
-        "explain": "The title calls it 'The spooktacular history behind Halloween.'"
+        "answer": 1,
+        "explain": "The clip states it is part of their regular training and enrichment program to keep the furry friends healthy and active."
       },
       {
-        "q": "What does the clip explain?",
+        "q": "According to the clip, what are sea otters known to use as tools?",
         "options": [
-          "The history behind Halloween",
-          "How to carve pumpkins",
-          "The results of the midterm elections",
-          "How to make a Philly cheesesteak"
+          "Miniature pumpkins",
+          "Basketballs",
+          "Rocks",
+          "Clams"
         ],
-        "answer": 0,
-        "explain": "The title says the clip explains the history behind Halloween."
+        "answer": 2,
+        "explain": "The clip says sea otters are known to use rocks as tools to open hard-shelled prey."
       }
     ]
   },
@@ -180,8 +173,8 @@ window.EPISODES = [
     "dateLabel": "10月29日",
     "title": "Spain investigates deadly collision between two high-speed trains",
     "zhTitle": "西班牙调查两列高速列车致命相撞事故",
-    "deck": "Two high-speed trains collided in Toledo Province, Spain, killing dozens and injuring dozens more, with over 500 passengers believed on board. A communication fault caused the signal control system at Erdis Station to fail, halting trains a",
-    "zhDeck": "西班牙托莱多省两列高速列车相撞，造成数十人死亡、数十人受伤，信号控制系统故障被指为原因。",
+    "deck": "Two high-speed trains collided in Toledo Province, Spain, killing dozens and injuring dozens more, with over 500 passengers believed on board. A communication fault caused the signal control system at Erdis Station to fail, automatically ha",
+    "zhDeck": "西班牙托莱多省两列高速列车相撞，造成数十人死亡、数十人受伤，信号系统故障疑为原因。",
     "source": "CNN 10",
     "sourceUrl": "https://edition.cnn.com/audio/podcasts/cnn-10",
     "transcriptUrl": "https://www.listeningexpress.com/cnn10/2026-10-29%20Spain%20investigates%20deadly%20collision%20between%20two%20high-speed%20trains.html",
@@ -190,72 +183,72 @@ window.EPISODES = [
     "format": "video",
     "accent": "American",
     "level": "B1–B2",
-    "duration": 175.0,
+    "duration": 125.0,
     "fullDuration": 600,
-    "clipStart": 26.0,
-    "clipEnd": 201.0,
+    "clipStart": 28.34,
+    "clipEnd": 153.34,
     "media": {
       "video": "https://www.listeningexpress.com/cnn10/cnn10%202026-10-29%20Spain%20investigates%20deadly%20collision%20between%20two%20high-speed%20trains.mp4",
       "audio": "https://www.listeningexpress.com/cnn10/cnn10%202026-10-29%20Spain%20investigates%20deadly%20collision%20between%20two%20high-speed%20trains.mp3"
     },
     "topics": [
-      "Rail disaster",
-      "Spain investigation"
+      "Rail accident",
+      "Signal failure"
     ],
-    "summary": "Two high-speed trains collided in Toledo Province, Spain, killing dozens and injuring dozens more, with over 500 passengers believed on board. A communication fault caused the signal control system at Erdis Station to fail, halting trains automatically along a 63 km stretch, and investigators are working to determine exactly what happened.",
-    "zhSummary": "西班牙托莱多省两列高速列车相撞，造成数十人死亡、数十人受伤，据信车上有500多名乘客。通信故障导致埃尔迪斯站的信号控制系统失灵，使63公里路段上的列车自动停驶，调查人员正在查明确切原因。",
+    "summary": "Two high-speed trains collided in Toledo Province, Spain, killing dozens and injuring dozens more, with over 500 passengers believed on board. A communication fault caused the signal control system at Erdis Station to fail, automatically halting trains along a 63 km stretch.",
+    "zhSummary": "西班牙托莱多省两列高速列车相撞，造成数十人死亡、数十人受伤，据信车上共有500多名乘客。通信故障导致埃尔迪斯站的信号控制系统失灵，使该63公里路段上的列车自动停运。",
     "takeaways": [
       "Two high-speed trains collided in Toledo Province, Spain, killing and injuring dozens.",
-      "A communication fault caused the signal control system to fail and trains to halt automatically.",
-      "It is Spain's third rail disaster this year; service between Madrid and southern Spain is suspended."
+      "A communication fault caused the signal control system to fail, halting trains automatically.",
+      "This is Spain's third rail disaster this year; service on the Madrid-southern Spain line is suspended."
     ],
     "zhTakeaways": [
       "西班牙托莱多省两列高速列车相撞，造成数十人死伤。",
-      "通信故障导致信号控制系统失灵，列车自动停驶。",
-      "这是西班牙今年第三起铁路灾难；马德里与西班牙南部之间的线路服务已暂停。"
+      "通信故障导致信号控制系统失灵，列车自动停运。",
+      "这是西班牙今年第三起铁路灾难；马德里至西班牙南部线路服务暂停。"
     ],
     "segments": [
       {
-        "start": 26.0,
-        "end": 55.998,
+        "start": 28.34,
+        "end": 49.413,
         "section": "01 · 新闻片段",
-        "en": "some very serious news in Spain where rescuers are working through the aftermath of a deadly collision involving two high-speed trains south of Madrid. At the time of this recording, dozens of people have been killed, dozens more injured after the trains collided in Toledo Province with more than 500 passengers believed to have been on board. The signal control system at Erdis Station failed as a result of a communication fault in the computers. Three computers relying on the network were affected and automatically",
-        "zh": "西班牙传来一些非常严重的消息，救援人员正在开展工作在一场涉及两辆高速列车的致命相撞事故后马德里南部的火车。录制此时，数十人遇难，列车在托莱多省相撞后，另有数十人受伤据信机上载有500多名乘客董事会。埃尔多斯站的信号控制系统发生故障，当时一计算机通信故障的结果。三台依赖网络的计算机受到影响并自动"
+        "en": "rescuers are working through the aftermath of a deadly collision involving two high-speed trains south of Madrid. At the time of this recording, dozens of people have been killed, dozens more injured after the trains collided in Toledo Province with more than 500 passengers believed to have been on board. The signal control system at Erdis Station failed as a",
+        "zh": "救援人员正在处理一场致命相撞事故的善后工作事故涉及马德里以南的两列高速列车。截至本录音时，已有数十人死亡，另有数十人在托莱多省列车相撞中受伤据信有超过500名乘客在车上。埃尔迪斯站的信号控制系统因"
       },
       {
-        "start": 55.998,
-        "end": 87.021,
+        "start": 49.413,
+        "end": 72.39,
         "section": "02 · 新闻片段",
-        "en": "over a 63 km stretch. The system lost the LZB safety network. This caused all trains traveling along that stretch at the time to come to a halt automatically. Emergency crews, firefighters, medical teams, and Spain's military emergency unit have all been deployed while service on the highspeed line connecting Madrid with southern Spain has been suspended. Investigators working to determine exactly what happened. This is Spain's third rail disaster this year. In January, two high-speed trains collided near Cordoba,",
-        "zh": "在63公里长的路段上。系统失去了LZB安全网络。这导致当时行驶在该路段的所有列车自动停了下来。应急人员、消防员、医疗队，以及西班牙军事应急单位均已部署，同时连接马德里与西班牙南部的高铁线路已暂停运营。调查人员正在努力查明究竟发生了什么。这是西班牙今年发生的第三起铁路灾难。今年1月，两列高速列车在科尔多瓦附近相撞，"
+        "en": "result of a communication fault in the computers. Three computers relying on the network were affected and automatically over a 63 km stretch. The system lost the LZB safety network. This caused all trains traveling along that stretch at the time to come to a halt automatically. Emergency crews, firefighters, medical teams, and Spain's military emergency unit have all been deployed while",
+        "zh": "计算机通信故障而失灵。三台依赖该网络的计算机受到影响并自动在长达63公里的路段上。该系统失去了LZB安全网络。这导致当时行驶在该路段的所有列车自动停了下来。应急人员、消防员、医疗队，以及西班牙军事应急单位均已部署，同时"
       },
       {
-        "start": 87.021,
-        "end": 116.544,
+        "start": 72.4,
+        "end": 95.252,
         "section": "03 · 新闻片段",
-        "en": "killing more than 40 people. For now, the focus is on this tragedy, on the victims, their families, and the rescuers still working at the scene. Here's something I did not have on my bingo card today. Cooking dinner can help create air pollution. Learn something new every day on this show. Noah researchers found that chemicals released while cooking food called VOCC's or volatile organic compounds account for about 26% of the ozone produced from human generated VOCC's in the LA basin.",
-        "zh": "造成40多人死亡。目前，焦点集中在这场悲剧上，集中在遇难者及其家属身上，以及仍在现场救援的人员身上。有件事我完全没料到今天会发生。做饭也会造成空气污染。在本节目中每天学点新知识。诺亚研究人员发现，烹饪食物时释放的化学物质称为VOCC或挥发性有机化合物，约占人类产生的VOCC在洛杉矶盆地所生成臭氧的26%。"
+        "en": "service on the highspeed line connecting Madrid with southern Spain has been suspended. Investigators working to determine exactly what happened. This is Spain's third rail disaster this year. In January, two high-speed trains collided near Cordoba, killing more than 40 people. For now, the focus is on this tragedy, on the victims, their families, and the rescuers still working at the scene.",
+        "zh": "连接马德里与西班牙南部的高铁线路已暂停运营。调查人员正在努力查明究竟发生了什么。这是西班牙今年发生的第三起铁路事故。一月份，两列高铁在科尔多瓦附近相撞。造成40多人死亡。目前，焦点在于这起悲剧。关于受害者及其家属，救援人员仍在现场工作。"
+      },
+      {
+        "start": 95.252,
+        "end": 116.544,
+        "section": "04 · 新闻片段",
+        "en": "Here's something I did not have on my bingo card today. Cooking dinner can help create air pollution. Learn something new every day on this show. Noah researchers found that chemicals released while cooking food called VOCC's or volatile organic compounds account for about 26% of the ozone produced from human generated VOCC's in the LA basin.",
+        "zh": "这是我之前完全没想到的事今天。烹饪晚餐可能造成空气污染。在这个节目中，每天学点新知识。诺亚研究人员发现烹饪食物时释放的化学物质被称为VOC或挥发性有机化合物，约占26%在洛杉矶盆地由人类产生的VOC所形成的臭氧中洛杉矶盆地。"
       },
       {
         "start": 116.544,
-        "end": 146.39,
-        "section": "04 · 新闻片段",
-        "en": "That's comparable to the contribution from cars, trucks, and other fuel burning vehicles. Now, Californians probably shouldn't start suddenly declaring frying pans as public enemy number one. Ground level ozone forms through a whole chain of chemical reactions involving sunlight, VOCC's, and nitrogen oxides. Point is, as cars get cleaner, scientists are discovering that sources we once overlooked, like cooking oils, paints, cleaners, and personal care products matter more than they'd originally thought.",
-        "zh": "这与汽车、卡车和其他燃油车辆的贡献相当。现在，加州人可能不该突然把煎锅宣布为头号公敌。地面臭氧通过一系列化学反应形成，涉及阳光、VOCC和氮氧化物。关键是，随着汽车变得更清洁，科学家们发现，那些我们曾经忽视的来源，比如食用油、油漆、清洁剂，以及个人护理产品，其重要性超出他们最初的想象。"
-      },
-      {
-        "start": 146.4,
-        "end": 178.882,
+        "end": 139.019,
         "section": "05 · 新闻片段",
-        "en": "Pop quiz hot shot. NFL players have had a union for decades. What year was the NFL Players Association founded? 1936, 1956,76, or 96. If you said 1956, touchdown. The NFL Players Association was formed nearly 70 years ago to give players a collective voice over things like pay, working conditions, benefits, and safety. Now, another group on an NFL sideline is making labor history of its own. The Dallas Cowboys cheerleaders have become the first NFL cheerleading",
-        "zh": "突击测验，高手。NFL球员成立工会已有数十年。NFL球员协会是哪一年成立的？1936年、1956年、76年还是96年。如果你说1956年，达阵得分。NFL球员协会成立于近70年前让球员在薪资等问题上拥有集体发声渠道，工作条件、福利和安全。如今，NFL场边的另一个群体也在创造劳工属于自己的历史。达拉斯牛仔队啦啦队成为首支获得正式工会代表的NFL啦啦队"
+        "en": "That's comparable to the contribution from cars, trucks, and other fuel burning vehicles. Now, Californians probably shouldn't start suddenly declaring frying pans as public enemy number one. Ground level ozone forms through a whole chain of chemical reactions involving sunlight, VOCC's, and nitrogen oxides. Point is, as cars get cleaner, scientists are discovering that sources we once overlooked,",
+        "zh": "这与汽车、卡车和其他燃烧燃料的车辆的贡献相当。现在，加州人可能不应该突然开始宣称煎锅是头号公敌。地面臭氧通过一系列化学反应形成涉及阳光、VOC和氮氧化物。关键是，随着汽车变得更清洁，科学家们发现，那些我们曾忽视的来源，"
       },
       {
-        "start": 178.882,
-        "end": 201.0,
+        "start": 139.019,
+        "end": 153.34,
         "section": "06 · 新闻片段",
-        "en": "squad to gain official union representation. The Cowboys voluntarily recognized the Dallas Cowboys Cheerleaders Association, meaning the two sides can now begin negotiating a collective bargaining agreement. It's basically a contract negotiated by workers as a group, covering things like pay, hours, benefits, and working conditions. Publish reports say some cheerleaders have earned",
-        "zh": "队伍。牛仔队自愿承认达拉斯牛仔队啦啦队协会，意味着双方现在可以开始谈判集体谈判协议。这基本上是由工人作为一个群体协商达成的合同，涵盖薪酬、工时、福利和工作条件等方面。有报道称一些啦啦队员已赚得"
+        "en": "like cooking oils, paints, cleaners, and personal care products matter more than they'd originally thought. Pop quiz hot shot. NFL players have had a union for decades. What year was the NFL Players Association founded?",
+        "zh": "如食用油、油漆、清洁剂，和个人护理产品，其重要性超出他们最初的预想。突击测验，高手。NFL球员成立工会已有数十年。NFL球员协会是哪一年成立的？"
       }
     ],
     "vocab": [
@@ -265,23 +258,23 @@ window.EPISODES = [
         "pos": "n.",
         "zh": "后果；灾后余波",
         "example": "Rescuers are working through the aftermath of the collision.",
-        "exampleZh": "救援人员正在处理相撞事故的灾后余波。"
+        "exampleZh": "救援人员正在处理碰撞事故的灾后余波。"
       },
       {
         "word": "collision",
         "phonetic": "/kəˈlɪʒən/",
         "pos": "n.",
-        "zh": "相撞；碰撞",
+        "zh": "碰撞；相撞",
         "example": "The collision involved two high-speed trains.",
-        "exampleZh": "这起相撞事故涉及两列高速列车。"
+        "exampleZh": "这起碰撞涉及两列高速列车。"
       },
       {
         "word": "signal",
         "phonetic": "/ˈsɪɡnəl/",
         "pos": "n.",
         "zh": "信号",
-        "example": "The signal control system at the station failed.",
-        "exampleZh": "车站的信号控制系统失灵了。"
+        "example": "The signal control system failed due to a communication fault.",
+        "exampleZh": "信号控制系统因通信故障而失灵。"
       },
       {
         "word": "fault",
@@ -289,7 +282,7 @@ window.EPISODES = [
         "pos": "n.",
         "zh": "故障；过错",
         "example": "A communication fault affected three computers.",
-        "exampleZh": "一个通信故障影响了三台电脑。"
+        "exampleZh": "一个通信故障影响到了三台电脑。"
       },
       {
         "word": "suspend",
@@ -297,50 +290,50 @@ window.EPISODES = [
         "pos": "v.",
         "zh": "暂停；中止",
         "example": "Service on the high-speed line has been suspended.",
-        "exampleZh": "这条高速线路的服务已暂停。"
+        "exampleZh": "高速线路的服务已暂停。"
       },
       {
-        "word": "investigator",
-        "phonetic": "/ɪnˈvestɪɡeɪtər/",
-        "pos": "n.",
-        "zh": "调查人员",
-        "example": "Investigators are working to determine what happened.",
-        "exampleZh": "调查人员正在努力查明发生了什么。"
+        "word": "deploy",
+        "phonetic": "/dɪˈplɔɪ/",
+        "pos": "v.",
+        "zh": "部署；调派",
+        "example": "Emergency crews and firefighters have been deployed.",
+        "exampleZh": "应急人员和消防员已被调派。"
       }
     ],
     "questions": [
       {
-        "q": "Where did the deadly collision between two high-speed trains happen?",
+        "q": "Where did the deadly collision between two high-speed trains occur?",
         "options": [
           "In Toledo Province, Spain",
           "Near Cordoba, Spain",
-          "South of Madrid, in France",
-          "At Erdis Station in Madrid"
+          "South of Madrid, in Madrid Province",
+          "In the LA basin"
         ],
         "answer": 0,
-        "explain": "The clip says the trains collided in Toledo Province, south of Madrid."
+        "explain": "The transcript states the trains collided in Toledo Province, south of Madrid."
       },
       {
         "q": "What caused the signal control system at Erdis Station to fail?",
         "options": [
           "A power outage",
           "A communication fault in the computers",
-          "Heavy rain",
-          "A driver error"
+          "A derailment on the track",
+          "Heavy rainfall"
         ],
         "answer": 1,
-        "explain": "The transcript states the signal control system failed as a result of a communication fault in the computers."
+        "explain": "The transcript says the signal control system failed as a result of a communication fault in the computers."
       },
       {
         "q": "What happened to trains traveling along the 63 km stretch when the system lost the LZB safety network?",
         "options": [
-          "They sped up to clear the track",
           "They were rerouted to Cordoba",
+          "They continued at reduced speed",
           "They came to a halt automatically",
-          "They continued without signals"
+          "They were evacuated immediately"
         ],
         "answer": 2,
-        "explain": "The clip says this caused all trains traveling along that stretch at the time to come to a halt automatically."
+        "explain": "The transcript states that all trains traveling along that stretch at the time came to a halt automatically."
       }
     ]
   },
@@ -351,9 +344,9 @@ window.EPISODES = [
     "availableFrom": "2026-10-29",
     "dateLabel": "10月28日",
     "title": "How a student-led movement ousted Serbia's long-term president",
-    "zhTitle": "自由女神像：从法国礼物到美国象征",
-    "deck": "The Statue of Liberty, a gift from France, was dedicated on October 28, 1886 by President Grover Cleveland. It took over two decades to design, build, and transport, and Joseph Pulitzer started a crowdfunding campaign to pay for the pedesta",
-    "zhDeck": "CNN 10 带我们回顾自由女神像的由来、建造与工程奇迹。",
+    "zhTitle": "学生运动如何推翻塞尔维亚长期执政的总统",
+    "deck": "A student-led protest movement in Serbia has defeated long-term President Alexander Vučić in the parliamentary election, ending his 14-year reign. Projections show the group known as the Student List won between 135 and 140 seats in the 250",
+    "zhDeck": "一场由学生主导的抗议运动在塞尔维亚议会选举中击败了执政14年的总统武契奇。",
     "source": "CNN 10",
     "sourceUrl": "https://edition.cnn.com/audio/podcasts/cnn-10",
     "transcriptUrl": "https://www.listeningexpress.com/cnn10/2026-10-28%20How%20a%20student-led%20movement%20ousted%20Serbia%27s%20long-term%20president.html",
@@ -362,157 +355,157 @@ window.EPISODES = [
     "format": "video",
     "accent": "American",
     "level": "B1–B2",
-    "duration": 175.0,
+    "duration": 125.0,
     "fullDuration": 600,
-    "clipStart": 25.0,
-    "clipEnd": 200.0,
+    "clipStart": 228.42,
+    "clipEnd": 353.42,
     "media": {
       "video": "https://www.listeningexpress.com/cnn10/cnn10%202026-10-28%20How%20a%20student-led%20movement%20ousted%20Serbia%27s%20long-term%20president.mp4",
       "audio": "https://www.listeningexpress.com/cnn10/cnn10%202026-10-28%20How%20a%20student-led%20movement%20ousted%20Serbia%27s%20long-term%20president.mp3"
     },
     "topics": [
-      "Statue of Liberty",
-      "American history"
+      "Student-led protests",
+      "Serbian politics"
     ],
-    "summary": "The Statue of Liberty, a gift from France, was dedicated on October 28, 1886 by President Grover Cleveland. It took over two decades to design, build, and transport, and Joseph Pulitzer started a crowdfunding campaign to pay for the pedestal.",
-    "zhSummary": "自由女神像是法国赠送的礼物，于1886年10月28日由克利夫兰总统正式揭幕。它的设计、建造和运输耗时超过二十年，约瑟夫·普利策还发起众筹来支付基座费用。",
+    "summary": "A student-led protest movement in Serbia has defeated long-term President Alexander Vučić in the parliamentary election, ending his 14-year reign. Projections show the group known as the Student List won between 135 and 140 seats in the 250-member parliament, after months of protests that began with a roof collapse at a central train station and called for an end to government corruption.",
+    "zhSummary": "塞尔维亚一场由学生主导的抗议运动在议会选举中击败了长期执政的总统亚历山大·武契奇，结束了他14年的统治。预测显示，这个名为“学生名单”的团体在250个席位的议会中赢得135至140个席位，此前数月的抗议始于中央火车站屋顶坍塌事件，并呼吁终结政府腐败。",
     "takeaways": [
-      "The Statue of Liberty was a gift from France.",
-      "It was dedicated on October 28, 1886.",
-      "Joseph Pulitzer crowdfunded the pedestal."
+      "A student-led movement defeated Serbia's 14-year president in parliamentary elections.",
+      "The Student List won an estimated 135 to 140 of 250 parliament seats.",
+      "Protests began after a train station roof collapse and demanded an end to corruption."
     ],
     "zhTakeaways": [
-      "自由女神像是法国赠送的礼物。",
-      "它于1886年10月28日正式揭幕。",
-      "约瑟夫·普利策通过众筹修建基座。"
+      "一场学生主导的运动在议会选举中击败了塞尔维亚执政14年的总统。",
+      "“学生名单”在250个议会席位中预计赢得135至140席。",
+      "抗议始于火车站屋顶坍塌事件，并要求终结腐败。"
     ],
     "segments": [
       {
-        "start": 25.0,
-        "end": 56.245,
+        "start": 228.42,
+        "end": 249.457,
         "section": "01 · 新闻片段",
-        "en": "years ago. Today, America welcomed one of its most iconic symbols, the Statue of Liberty. The landmark was a gift of friendship from the people of France. It was officially dedicated on October 28th, 1886 by President Grover Cleveland. Nearly 150 years later, Lady Liberty still stands tall in New York Harbor as an enduring symbol of America's storied past. But her origin is no overnight success story. It took more than two decades to design, build, and transport the Green Goddess across the Atlantic Ocean. Though technically copper than oxidized goddess,",
-        "zh": "多年前。今天，美国迎来了其最具标志性的象征之一，自由女神像。这座地标是来自法国人民的友谊赠礼。来自法国。它于10月28日正式落成，1886年，由格罗弗·克利夫兰总统主持。近150年后，自由女神依然高耸矗立在纽约港，作为美国传奇历史的持久象征，过去。但她的出身并非一夜成名的故事。设计耗时二十余年，建造“绿色女神”号并横渡大西洋进行运输。虽然严格来说比氧化女神更铜"
+        "en": "that brings us to this. In Serbia, a studentled protest movement has just pulled off a stunning political upset. Serbian President Alexander Vusk conceded defeat to the group known as the student list in the nation's parliamentary election, marking the end of a 14-year reign. Projections indicate that the studentled group won between 135",
+        "zh": "这就引出了我们接下来要说的。在塞尔维亚，一场由学生领导的抗议运动刚刚取得一场惊人的政治逆转。塞尔维亚总统亚历山大·武斯克承认败给这个被称为“学生名单”的团体，在该国议会选举中，标志着14年统治的结束。预测显示，这个由学生领导的团体在250个议席的议会中赢得了135"
       },
       {
-        "start": 56.245,
-        "end": 86.541,
+        "start": 249.457,
+        "end": 274.29,
         "section": "02 · 新闻片段",
-        "en": "our Richard Quest takes us behind the scenes for more on Lady Liberty's past and the ingenious engineering making her possible. The Statue of Liberty is a universal symbol. So I think the thing that fascinates me the most is that it means so many things to so many different people. The aura was not immediately recognized when the statue arrived here from France in 1885. The French sculptor Frederick Ugust Batldi designed the statue",
-        "zh": "我们的理查德·奎斯特带我们深入幕后了解更多关于自由女神像的过往以及造就她的巧妙工程有可能。自由女神像是普世象征。所以我觉得最让我着迷的是这就是它对这么多人意味着这么多事情的原因吗不同的人。这座雕像1885年从法国运抵这里时，其光环并未立即被人们所认识。法国雕塑家弗雷德里克·奥古斯特·巴托尔迪设计了这座雕像，"
+        "en": "and 140 seats in the 250 member parliament. The movement has deliberately avoided having a clear leader. So, what happens next? Our Sebastian Shukla walks us through. We've been all looking and seeing the protest coming in other parts of Europe, in Italy, in particular in France. What has happened in Serbia is really the showing of what a group and united voice behind a political idea",
+        "zh": "至140个席位。该运动刻意避免设立明确的领导人。那么，接下来会发生什么？我们的塞巴斯蒂安·舒克拉为我们详细讲解。我们一直在观察和关注抗议活动的到来在欧洲其他地区，在意大利，特别是在法国。塞尔维亚发生的情况真正展示了一个群体和团结的声音在政治理念背后"
       },
       {
-        "start": 86.541,
-        "end": 116.303,
+        "start": 274.29,
+        "end": 297.276,
         "section": "03 · 新闻片段",
-        "en": "and sent it to the United States as a gift from his country. Oh, the pedestal, by the way, that wasn't included. It had to be built and paying for it was a typical American problem. Many Americans were like, \"Wait, France wants to give us what?\" So, there was this idea that we need to get Americans excited about the project. And there's a newspaperman, Joseph Pulitzer, who owns a number of papers, including here in New York City. And he said, \"This is kind of a disgrace. Our the only thing we were supposed to do was",
-        "zh": "并把它作为礼物送给了美国，来自他的国家。哦，顺便说一下，那个基座，并不包含在内。它必须被建造，而支付费用是一个典型的美国问题。许多美国人的反应是：“等等，法国想送我们什么？”于是，有人提出一个想法：我们需要让美国人对这个项目兴奋起来。有一位报人约瑟夫·普利策，他拥有多家报纸，包括纽约市这里的报纸。他说：“这有点丢人。我们唯一该做的事就是"
+        "en": "and movement can really achieve. They have managed to remove the long-standing 14 years uh as president Vuchic in Serbia and have replaced him with this group that is known as the students list. and they have won an overwhelming majority. And it all began for something that was a a a roof collapsing at a central train station that then",
+        "zh": "和运动能够真正实现什么。他们成功罢免了长期执政14年的呃塞尔维亚总统武契奇，并用这个被称为学生名单的团体取代了他。他们赢得了压倒性多数。而这一切始于一件……中央火车站屋顶坍塌，随后"
       },
       {
-        "start": 116.303,
-        "end": 146.39,
+        "start": 297.276,
+        "end": 319.83,
         "section": "04 · 新闻片段",
-        "en": "build a pedestal for her.\" And when all of the copper pieces arrive here on this island, the pedestal was not ready. So he starts a crowdfunding campaign to get people to donate money so that we can raise funds and put the pedestal up. Over time, Lady Liberty, of course, was embraced by New York. As more and more immigrants arrived on their way to Ellis Island, seeing its neocclassical design, it was a sign they'd made it to the new",
-        "zh": "为她建一个底座。”当所有铜片运抵这座岛时，基座却还没准备好。于是他发起众筹活动，让人们捐款，以便我们筹集资金并把基座建起来。随着时间的推移，自由女神像当然被纽约所接纳。随着越来越多移民在前往埃利斯岛的途中看到它的新古典主义设计，这标志着他们已抵达新大陆"
+        "en": "elicited these months of protests which were calling for an end to corruption within the government and for them to be able to listen to what the people of Serbia really wanted. And those images that we're seeing coming from Belgrade and other parts of Serbia are really the culmination of this monthslong effort. Take a listen to some of the euphoria that was simply uh un in you could not miss it.",
+        "zh": "引发了这几个月的抗议，要求终结政府内部的腐败，并让他们能够倾听塞尔维亚人民真正想要的东西。我们从贝尔格莱德和塞尔维亚其他地区看到的这些画面，确实是这场持续数月努力的最终结果。来听听一些那种狂喜的声音简直，呃，你不可能错过它。"
       },
       {
-        "start": 146.4,
-        "end": 177.589,
+        "start": 319.84,
+        "end": 341.612,
         "section": "05 · 新闻片段",
-        "en": "world. The elegance of its engineering evident as I made my way to the crown. Oh, look at this. You can see the folds of the cloaks now from the inside. This is where the technical majesty really becomes apparent that that really is that thin of copper. And it's really all just being held together by these iron support systems that reach this big central iron pylon. Almost like a dress maker's dummy.",
-        "zh": "世界。当我走向顶部时，其工程的优雅显而易见。哦，看看这个。现在从内部可以看到斗篷的褶皱。这里才是技术壮丽真正显现的地方，那真的就是那么薄的铜。而这一切真的只是由这些铁支撑系统固定在一起，它们延伸到那根巨大的中央铁柱。几乎就像裁缝的人体模型。"
+        "en": "This is amazing feeling. The feeling is surreal. Um I laughed, I cried, I screamed, I jumped. It's just unbelievable. After so many years of this tyranny and dictatorship, we are finally free.",
+        "zh": "这感觉太棒了。这种感觉超现实。嗯，我笑了，我哭了，我尖叫了，我跳了起来。简直难以置信。经过这么多年的暴政和独裁，我们终于自由了。"
       },
       {
-        "start": 177.599,
-        "end": 200.0,
+        "start": 341.612,
+        "end": 353.42,
         "section": "06 · 新闻片段",
-        "en": "And the co the copper is the dress. Oh wow. When they said it was narrow. Off we go. Continuing up. Oh my goodness. Oh. Oh my goodness. This isn't what I expected at all. This is very interesting. I did not expect it to be like this. As I look out at New York Harbor as the",
-        "zh": "而铜的部分就是那条裙子。哦哇。当他们说它很窄的时候。我们出发了。继续往上。哦我的天哪。哦。哦我的天哪。这完全不是我所预料的。这非常有趣。我没想到会是这样。当我眺望纽约港，正如"
+        "en": "I think that this is really a seminal moment for Serbia. For a long time, it has been slipping towards a more authoritarian regime under President Vuchic, who's slowly been clawing the powers",
+        "zh": "我认为这真是一个开创性的时刻塞尔维亚。长期以来，它一直在滑向武契奇总统领导下的更威权政权，他一直在慢慢攫取权力"
       }
     ],
     "vocab": [
       {
-        "word": "dedicated",
-        "phonetic": "/ˈdedɪkeɪtɪd/",
+        "word": "concede",
+        "phonetic": "/kənˈsiːd/",
+        "pos": "v.",
+        "zh": "承认（失败）",
+        "example": "Serbian President Alexander Vučić conceded defeat to the Student List.",
+        "exampleZh": "塞尔维亚总统亚历山大·武契奇向“学生名单”承认败选。"
+      },
+      {
+        "word": "upset",
+        "phonetic": "/ˈʌpset/",
+        "pos": "n.",
+        "zh": "意外胜利；冷门",
+        "example": "The student-led movement pulled off a stunning political upset.",
+        "exampleZh": "这场学生主导的运动取得了惊人的政治逆袭。"
+      },
+      {
+        "word": "parliamentary",
+        "phonetic": "/ˌpɑːrləˈmentəri/",
         "pos": "adj.",
-        "zh": "正式揭幕的",
-        "example": "It was officially dedicated on October 28th, 1886.",
-        "exampleZh": "它于1886年10月28日正式揭幕。"
+        "zh": "议会的",
+        "example": "The group won in the nation's parliamentary election.",
+        "exampleZh": "该团体在该国议会选举中获胜。"
       },
       {
-        "word": "enduring",
-        "phonetic": "/ɪnˈdʊrɪŋ/",
+        "word": "overwhelming",
+        "phonetic": "/ˌoʊvərˈwelmɪŋ/",
         "pos": "adj.",
-        "zh": "持久的",
-        "example": "Lady Liberty stands as an enduring symbol of America's storied past.",
-        "exampleZh": "自由女神像作为美国悠久历史的持久象征矗立着。"
+        "zh": "压倒性的",
+        "example": "They have won an overwhelming majority.",
+        "exampleZh": "他们赢得了压倒性多数。"
       },
       {
-        "word": "sculptor",
-        "phonetic": "/ˈskʌlptər/",
+        "word": "corruption",
+        "phonetic": "/kəˈrʌpʃn/",
         "pos": "n.",
-        "zh": "雕塑家",
-        "example": "The French sculptor Frederic Auguste Bartholdi designed the statue.",
-        "exampleZh": "法国雕塑家弗雷德里克·奥古斯特·巴托尔迪设计了这座雕像。"
+        "zh": "腐败",
+        "example": "The protests called for an end to corruption within the government.",
+        "exampleZh": "抗议活动呼吁终结政府内部的腐败。"
       },
       {
-        "word": "pedestal",
-        "phonetic": "/ˈpedɪstl/",
-        "pos": "n.",
-        "zh": "基座",
-        "example": "The pedestal had to be built and paid for.",
-        "exampleZh": "基座必须被建造并支付费用。"
-      },
-      {
-        "word": "crowdfunding",
-        "phonetic": "/ˈkraʊdfʌndɪŋ/",
-        "pos": "n.",
-        "zh": "众筹",
-        "example": "Joseph Pulitzer started a crowdfunding campaign to raise funds.",
-        "exampleZh": "约瑟夫·普利策发起了一场众筹活动来筹集资金。"
-      },
-      {
-        "word": "immigrants",
-        "phonetic": "/ˈɪmɪɡrənts/",
-        "pos": "n.",
-        "zh": "移民",
-        "example": "More and more immigrants arrived on their way to Ellis Island.",
-        "exampleZh": "越来越多的移民在前往埃利斯岛的途中抵达。"
+        "word": "authoritarian",
+        "phonetic": "/əˌθɔːrɪˈteriən/",
+        "pos": "adj.",
+        "zh": "威权的",
+        "example": "Serbia had been slipping towards a more authoritarian regime.",
+        "exampleZh": "塞尔维亚一直在滑向更加威权的政权。"
       }
     ],
     "questions": [
       {
-        "q": "Who officially dedicated the Statue of Liberty?",
+        "q": "Who conceded defeat in Serbia's parliamentary election?",
         "options": [
-          "President Grover Cleveland",
-          "Frederic Auguste Bartholdi",
-          "Joseph Pulitzer",
-          "Richard Quest"
+          "President Alexander Vučić",
+          "Sebastian Shukla",
+          "The Student List leader",
+          "The mayor of Belgrade"
         ],
         "answer": 0,
-        "explain": "The clip says it was officially dedicated by President Grover Cleveland."
+        "explain": "The clip states that Serbian President Alexander Vučić conceded defeat to the Student List."
       },
       {
-        "q": "What did Joseph Pulitzer do to help build the pedestal?",
+        "q": "How many seats did the student-led group win, according to projections?",
         "options": [
-          "He designed the statue.",
-          "He started a crowdfunding campaign.",
-          "He donated the copper.",
-          "He built the iron pylon."
+          "Between 14 and 40",
+          "Between 135 and 140",
+          "Exactly 250",
+          "Between 100 and 120"
         ],
         "answer": 1,
-        "explain": "The clip states that Pulitzer started a crowdfunding campaign to raise funds for the pedestal."
+        "explain": "Projections indicate the student-led group won between 135 and 140 seats in the 250-member parliament."
       },
       {
-        "q": "According to the clip, what did immigrants see as a sign they had made it to the New World?",
+        "q": "What event began the months of protests in Serbia?",
         "options": [
-          "The iron support systems",
-          "The copper folds",
-          "The neoclassical design of the statue",
-          "The crown"
+          "A parliamentary election",
+          "A speech by President Vučić",
+          "A roof collapsing at a central train station",
+          "A protest in Italy"
         ],
         "answer": 2,
-        "explain": "The clip says immigrants saw its neoclassical design as a sign they'd made it to the new world."
+        "explain": "The clip says it all began with a roof collapsing at a central train station, which then elicited months of protests."
       }
     ]
   },
@@ -524,8 +517,8 @@ window.EPISODES = [
     "dateLabel": "10月27日",
     "title": "America welcomes its 64th National Park in Arizona",
     "zhTitle": "美国迎来第64座国家公园，位于亚利桑那州",
-    "deck": "Venezuelan opposition leader Maria Corina Machado returns home after months abroad, while Brazil's President Lula wins an unprecedented fourth non-consecutive term. NASA also announces that Artemis 3 astronauts will practice spacecraft oper",
-    "zhDeck": "本期CNN 10聚焦委内瑞拉反对派领袖回国、巴西总统卢拉赢得连任，以及NASA阿尔忒弥斯3号任务的复杂筹备。",
+    "deck": "President Donald Trump signed the Chiricahua National Park Act into law, creating America's 64th national park in Wilcox, Arizona. The park protects cultural history tied to Apache indigenous people, Buffalo Soldiers, and ranchers, along wi",
+    "zhDeck": "特朗普总统签署法案，将亚利桑那州一处隐藏瑰宝设立为美国第64座国家公园。",
     "source": "CNN 10",
     "sourceUrl": "https://edition.cnn.com/audio/podcasts/cnn-10",
     "transcriptUrl": "https://www.listeningexpress.com/cnn10/2026-10-27%20America%20welcomes%20its%2064th%20National%20Park%20in%20Arizona.html",
@@ -534,157 +527,157 @@ window.EPISODES = [
     "format": "video",
     "accent": "American",
     "level": "B1–B2",
-    "duration": 175.0,
+    "duration": 125.0,
     "fullDuration": 600,
-    "clipStart": 26.0,
-    "clipEnd": 201.0,
+    "clipStart": 223.54,
+    "clipEnd": 348.54,
     "media": {
       "video": "https://www.listeningexpress.com/cnn10/cnn10%202026-10-27%20America%20welcomes%20its%2064th%20National%20Park%20in%20Arizona.mp4",
       "audio": "https://www.listeningexpress.com/cnn10/cnn10%202026-10-27%20America%20welcomes%20its%2064th%20National%20Park%20in%20Arizona.mp3"
     },
     "topics": [
-      "World Politics",
-      "Space Exploration"
+      "National Parks",
+      "US News"
     ],
-    "summary": "Venezuelan opposition leader Maria Corina Machado returns home after months abroad, while Brazil's President Lula wins an unprecedented fourth non-consecutive term. NASA also announces that Artemis 3 astronauts will practice spacecraft operations in low Earth orbit before heading to the moon.",
-    "zhSummary": "委内瑞拉反对派领袖玛丽亚·科里纳·马查多在国外数月后回国，巴西总统卢拉赢得史无前例的第四个非连续任期。NASA还宣布，阿尔忒弥斯3号宇航员将在前往月球前于近地轨道练习航天器操作。",
+    "summary": "President Donald Trump signed the Chiricahua National Park Act into law, creating America's 64th national park in Wilcox, Arizona. The park protects cultural history tied to Apache indigenous people, Buffalo Soldiers, and ranchers, along with wildlife in volcanic rock formations formed nearly 27 million years ago.",
+    "zhSummary": "唐纳德·特朗普总统签署了奇里卡瓦国家公园法案，在亚利桑那州威尔科克斯设立美国第64座国家公园。该公园保护与阿帕奇原住民、水牛士兵和牧场主相关的文化历史，以及近2700万年前火山喷发形成的岩石地貌中的野生动物。",
     "takeaways": [
-      "Machado returns to Venezuela as a key opposition figure.",
-      "Lula wins re-election but his opponent is challenging the result.",
-      "Artemis 3 astronauts will rehearse docking and living in low Earth orbit."
+      "Chiricahua is America's 64th national park, located in Wilcox, Arizona.",
+      "It protects cultural history tied to Apache people, Buffalo Soldiers, and ranchers.",
+      "Congress or presidential authority under the Antiquities Act of 1906 can create national parks."
     ],
     "zhTakeaways": [
-      "马查多作为关键反对派人物返回委内瑞拉。",
-      "卢拉赢得连任，但对手正对结果提出挑战。",
-      "阿尔忒弥斯3号宇航员将在近地轨道演练对接与生活。"
+      "奇里卡瓦是美国第64座国家公园，位于亚利桑那州威尔科克斯。",
+      "它保护与阿帕奇人、水牛士兵和牧场主相关的文化历史。",
+      "国会或1906年《文物法》授权的总统权力可以设立国家公园。"
     ],
     "segments": [
       {
-        "start": 26.0,
-        "end": 57.433,
+        "start": 223.54,
+        "end": 246.027,
         "section": "01 · 新闻片段",
-        "en": "world. Let's rise up. We begin in Venezuela where huge crowds packed the streets welcoming opposition leader Maria Corina Machado back home for the first time since December. Machado had been outside Venezuela since leaving to accept the Nobel Peace Prize. Before that, she spent months in hiding after Venezuela's disputed 2024 presidential election in which she was barred from running. Former President Nicholas Maduro won that election,",
-        "zh": "世界。让我们奋起。我们从委内瑞拉开始，那里大批人群挤满街头欢迎反对派领袖玛丽亚·科里纳·马查多回国，这是她自去年12月以来首次回国。马查多此前一直在委内瑞拉境外，因为她离开去接受诺贝尔和平奖。在那之前，她在委内瑞拉备受争议的2024年总统选举后躲藏了数月，她被禁止参选。前总统尼古拉斯·马杜罗赢得了那场选举，"
+        "en": "Just south of Miami, Biscane National Park is 95% water, protecting mangroves, islands, shipwrecks, and it's home to over 500 species of marine life. I didn't even know national parks could be mostly underwater. learn something new on this show every day. Well, America, we just got a new national park. This past week, President Donald Trump signed the Cherikawa National",
+        "zh": "在迈阿密以南，比斯坎国家公园95%是水域，保护着红树林、岛屿、沉船，并且是超过500种海洋生物的栖息地。我甚至不知道国家公园可以大部分在水下。在这个节目上每天都能学到新东西。好了，美国，我们刚刚有了一个新的国家公园。上周，唐纳德·特朗普总统签署了奇里卡瓦国家"
       },
       {
-        "start": 57.433,
-        "end": 88.641,
+        "start": 246.027,
+        "end": 268.192,
         "section": "02 · 新闻片段",
-        "en": "but a lot has changed since then. Maduro was removed in a US military operation in January and is now facing criminal charges in the United States. His former vice president, Deli Rodriguez, is serving as acting president with backing from the US during the country's transition. Machado says Venezuela needs a new presidential election. She posted videos of her arrival in Karacas with the message, \"Together we will achieve freedom.\" So far, the US backed negotiations transitioning the Venezuelan",
-        "zh": "但自那以后，情况发生了很大变化。马杜罗在1月的一次美国军事行动中被移除目前正在美国面临刑事指控。他的前副总统德利·罗德里格斯，在美国的支持下担任代理总统在该国过渡期间。马查多表示，委内瑞拉需要举行新的总统选举。她发布了抵达加拉加斯的视频，并附上信息：“我们将共同实现自由。”到目前为止，美国支持的谈判正在推进委内瑞拉"
+        "en": "Park Act into law. A hidden gem according to the National Park Service in Wilcox, Arizona, rising between the Sonoran and Chihuahuan deserts, protecting a rich cultural history tied to Apache indigenous people, the Buffalo Soldiers, and ranchers. And there's a wide range of wildlife within the towering rock formations and mountain landscapes formed by a volcanic eruption",
+        "zh": "公园法案成为法律。据国家公园管理局称，这是亚利桑那州威尔科克斯的一个隐藏瑰宝，耸立在索诺兰和奇瓦瓦沙漠之间，保护与阿帕奇原住民、布法罗士兵和牧场主相关的丰富文化历史。在巍峨的岩层和约2700万年前火山喷发形成的山地景观中，"
       },
       {
-        "start": 88.641,
-        "end": 119.156,
+        "start": 268.192,
+        "end": 290.492,
         "section": "03 · 新闻片段",
-        "en": "government toward a democracy have not included her. So, her return raises a big question. What role will Venezuela's most prominent opposition figure play in what comes next? Now to Brazil in a political comeback for the history books. President Luis Inasio Lula Dilva has won re-election, securing an unprecedented fourth non-consecutive term. The 80-year-old leftist president defeated right-wing Senator Flavio Bossaro, son of former President Jaier Bossaro,",
-        "zh": "政府迈向民主的进程并未包括她。所以，她的回归引出了一个大问题。委内瑞拉最著名的反对派人物将扮演什么角色接下来会发生什么？现在转向巴西，一次历史性的政治回归书籍。路易斯·伊纳西奥·卢拉·达席尔瓦总统赢得连任。80岁的左翼总统击败了右翼参议员弗拉维奥博萨罗，前总统雅伊尔·博萨罗之子"
+        "en": "nearly 27 million years ago. So what does constitute a national park here in the US? Well, two things according to the National Park Service. Congress passing legislation authorizing their creation or by presidential authority under the Antiquities Act of 1906. Generally, Congress creates them after studying whether a place contains nationally significant natural, cultural,",
+        "zh": "有种类繁多的野生动物。那么，在美国，什么才构成国家公园？嗯，根据国家公园管理局的说法，有两点。国会通过立法授权设立，或依据1906年《古迹法》由总统授权设立。通常，国会在研究某地是否拥有具有全国意义的自然、文化"
       },
       {
-        "start": 119.156,
-        "end": 150.102,
+        "start": 290.492,
+        "end": 312.992,
         "section": "04 · 新闻片段",
-        "en": "in a runoff. Bossaro is not conceding. He's challenging the results, saying he will ask Brazil's electoral authorities to annull the runoff. Why? His campaign is objecting to a Supreme Court justice's decision to extend voting nationwide by two hours. Bolsinaro calls that unacceptable. Brazil's electoral court has declared Lula the winner. So now one election may be over, but the legal and political fight may be just beginning. NASA is calling Artemis 3 one of the most complicated",
-        "zh": "进入第二轮决选。博索纳罗不认输。他质疑结果，称将要求巴西选举当局宣布决选无效。为什么？他的竞选团队反对最高法院一名法官的决定，将全国投票时间延长两小时。博索纳罗称这不可接受。巴西选举法院已宣布卢拉获胜。所以现在一场选举可能结束了，但法律和政治上的争斗可能才刚刚开始。NASA称阿尔忒弥斯3号是其尝试过的"
+        "en": "or historic resources. Now, the nation's 64th park, Chiikawa, is reigniting talks about where the next national park might emerge. Georgia, Pennsylvania, New Jersey, and Idaho, all have natural sites or state parks under consideration. There's a saying, the mind is everything. What we think, we become. And the women's lacrosse team at Boston College knows even",
+        "zh": "或历史资源后设立它们。如今，美国第64座国家公园，吉伊卡哇，再次引发了关于下一座国家公园可能在哪里出现的讨论。佐治亚州、宾夕法尼亚州、新泽西州和爱达荷州，都有自然遗址或州立公园正在考虑之中。有句话说，心即一切。我们所想，即我们所成。波士顿学院女子长曲棍球队深知，即便是"
       },
       {
-        "start": 150.102,
-        "end": 180.855,
+        "start": 312.992,
+        "end": 335.678,
         "section": "05 · 新闻片段",
-        "en": "spaceflight campaigns it has ever attempted. Why? It's not just one spacecraft. It's like an orbital team project. NASA plans to launch four astronauts aboard Orian in 2027, while two competing companies, SpaceX and Blue Origin, launch test versions of their lunar landers separately. And now NASA just announced that the astronauts will practice meeting, docking, living aboard, and operating those spacecraft in low Earth orbit. Why rehearse all this just a few hundred miles above",
-        "zh": "最复杂的太空飞行任务之一。为什么？这不仅仅是一艘航天器。这就像一个轨道团队项目。NASA计划于2027年用猎户座飞船搭载四名宇航员发射，而两家竞争公司——SpaceX和蓝色起源——则分别发射其月球着陆器的测试版本。而现在NASA刚刚宣布，宇航员将练习会合、对接、在航天器上生活并操作这些航天器在近地轨道上。为什么要在离我们星球仅几百英里的地方"
+        "en": "elite athletes can crack under pressure. So alongside working on speed, strength, and stick skills, they're training something you can't see, their minds. They're using a program called Bet on You. Their coach told our Bin Jingrass, \"Things are a lot different now. Pass out of it. Pass out of it.\" Boston College women's lacrosse team is a powerhouse in the",
+        "zh": "顶尖运动员也会在压力下崩溃。因此，除了训练速度、力量和球杆技术，她们还在训练一种看不见的东西——心智。她们在使用一个名为“Bet on You”的项目。她们的教练告诉我们的Bin Jingrass：“现在情况大不相同了。传出去。传出去。”波士顿学院女子长曲棍球队是该运动的强队。"
       },
       {
-        "start": 180.855,
-        "end": 201.0,
+        "start": 335.678,
+        "end": 348.54,
         "section": "06 · 新闻片段",
-        "en": "our planet? Because NASA wants to work out the bugs before astronauts go approximately 240,000 miles away around the moon. The lessons from Artemis 3 are designed to help NASA decide how to pull off Artemis 4. Currently planned for 2028, which could return humans to the lunar surface for the first time since 1972. Apparently",
-        "zh": "演练这一切？因为NASA希望在宇航员前往约24万英里外的月球周围之前排除故障。阿尔忒弥斯3号的经验旨在帮助NASA决定如何完成阿尔忒弥斯4号任务。该任务目前计划于2028年进行，可能让人类自1972年以来首次重返月球表面。显然"
+        "en": "sport. If she overplays, then you roll back. led by Acasia Walker, who's adopted a critical new approach to coaching, prioritizing her players mental health. You told me one time, you're a therapist and a coach.",
+        "zh": "运动。如果她过度发挥，那你就回撤。在阿卡西亚·沃克的带领下，她采用了一种关键的新方法来执教，优先考虑球员的心理健康。你曾告诉我一次，你既是治疗师又是教练。"
       }
     ],
     "vocab": [
       {
-        "word": "opposition",
-        "phonetic": "/ˌɒpəˈzɪʃn/",
+        "word": "mangroves",
+        "phonetic": "/ˈmæŋɡroʊvz/",
         "pos": "n.",
-        "zh": "反对派；反对",
-        "example": "Huge crowds welcomed the opposition leader back home.",
-        "exampleZh": "大批人群欢迎反对派领袖回国。"
+        "zh": "红树林",
+        "example": "Biscayne National Park protects mangroves and islands.",
+        "exampleZh": "比斯坎国家公园保护红树林和岛屿。"
       },
       {
-        "word": "disputed",
-        "phonetic": "/dɪˈspjuːtɪd/",
+        "word": "indigenous",
+        "phonetic": "/ɪnˈdɪdʒənəs/",
         "pos": "adj.",
-        "zh": "有争议的",
-        "example": "She spent months in hiding after Venezuela's disputed 2024 presidential election.",
-        "exampleZh": "在委内瑞拉有争议的2024年总统选举后，她躲藏了数月。"
+        "zh": "土著的；原住民的",
+        "example": "The park protects cultural history tied to Apache indigenous people.",
+        "exampleZh": "该公园保护与阿帕奇原住民相关的文化历史。"
       },
       {
-        "word": "transition",
-        "phonetic": "/trænˈzɪʃn/",
+        "word": "legislation",
+        "phonetic": "/ˌledʒɪsˈleɪʃn/",
         "pos": "n.",
-        "zh": "过渡；转变",
-        "example": "The US is backing the country's transition.",
-        "exampleZh": "美国正支持该国的过渡进程。"
+        "zh": "立法；法律",
+        "example": "Congress passing legislation can authorize the creation of a national park.",
+        "exampleZh": "国会通过立法可以授权设立国家公园。"
       },
       {
-        "word": "unprecedented",
-        "phonetic": "/ʌnˈpresɪdentɪd/",
+        "word": "authority",
+        "phonetic": "/əˈθɔːrəti/",
+        "pos": "n.",
+        "zh": "权力；授权",
+        "example": "A national park can be created by presidential authority under the Antiquities Act.",
+        "exampleZh": "根据《文物法》，国家公园可由总统权力设立。"
+      },
+      {
+        "word": "significant",
+        "phonetic": "/sɪɡˈnɪfɪkənt/",
         "pos": "adj.",
-        "zh": "史无前例的",
-        "example": "Lula secured an unprecedented fourth non-consecutive term.",
-        "exampleZh": "卢拉赢得了史无前例的第四个非连续任期。"
+        "zh": "重要的；显著的",
+        "example": "Congress studies whether a place contains nationally significant resources.",
+        "exampleZh": "国会研究一个地方是否拥有具有国家重要性的资源。"
       },
       {
-        "word": "runoff",
-        "phonetic": "/ˈrʌnɒf/",
-        "pos": "n.",
-        "zh": "决胜选举；第二轮投票",
-        "example": "He defeated his opponent in a runoff.",
-        "exampleZh": "他在决胜选举中击败了对手。"
-      },
-      {
-        "word": "annul",
-        "phonetic": "/əˈnʌl/",
+        "word": "reigniting",
+        "phonetic": "/ˌriːɪɡˈnaɪtɪŋ/",
         "pos": "v.",
-        "zh": "废除；取消",
-        "example": "He will ask Brazil's electoral authorities to annul the runoff.",
-        "exampleZh": "他将要求巴西选举当局取消决胜选举。"
+        "zh": "重新点燃；再次引发",
+        "example": "The new park is reigniting talks about where the next national park might emerge.",
+        "exampleZh": "这座新公园再次引发了关于下一座国家公园可能出现在何处的讨论。"
       }
     ],
     "questions": [
       {
-        "q": "Why did Maria Corina Machado leave Venezuela?",
+        "q": "Where is the new national park located?",
         "options": [
-          "To accept the Nobel Peace Prize",
-          "To run for president",
-          "To meet US officials",
-          "To start a new election"
+          "Wilcox, Arizona",
+          "Miami, Florida",
+          "Georgia",
+          "Pennsylvania"
         ],
         "answer": 0,
-        "explain": "The clip says Machado had been outside Venezuela since leaving to accept the Nobel Peace Prize."
+        "explain": "The clip says the new park is in Wilcox, Arizona."
       },
       {
-        "q": "What is Flavio Bolsonaro doing after the runoff?",
+        "q": "What is the new park called?",
         "options": [
-          "Conceding the election",
-          "Challenging the results",
-          "Leaving Brazil",
-          "Running for senator again"
+          "Biscayne National Park",
+          "Chiricahua National Park",
+          "Antiquities National Park",
+          "Sonoran National Park"
         ],
         "answer": 1,
-        "explain": "The clip states Bolsonaro is not conceding and is challenging the results."
+        "explain": "The clip says President Trump signed the Chiricahua National Park Act into law."
       },
       {
-        "q": "Where will Artemis 3 astronauts practice spacecraft operations?",
+        "q": "According to the National Park Service, what can authorize the creation of a national park?",
         "options": [
-          "On the moon's surface",
-          "In low Earth orbit",
-          "At the International Space Station",
-          "Around the moon"
+          "Only a state governor",
+          "Only the National Park Service",
+          "Congress passing legislation or presidential authority under the Antiquities Act of 1906",
+          "A vote by local ranchers"
         ],
-        "answer": 1,
-        "explain": "NASA announced astronauts will practice meeting, docking, living aboard, and operating spacecraft in low Earth orbit."
+        "answer": 2,
+        "explain": "The clip states that Congress passing legislation or presidential authority under the Antiquities Act of 1906 can create a national park."
       }
     ]
   },
@@ -696,8 +689,8 @@ window.EPISODES = [
     "dateLabel": "10月26日",
     "title": "These tiny computer chips could help data centers waste less power",
     "zhTitle": "微型芯片助力数据中心节能",
-    "deck": "A New York-based company is developing tiny power management chips, about the size of a grain of rice, that help servers use electricity more efficiently. As AI data centers create massive demand for electricity, these chips could help data",
-    "zhDeck": "纽约公司研发米粒大小的电源管理芯片，帮助服务器更高效用电，减少数据中心能耗。",
+    "deck": "As AI grows, tech companies are racing to build massive data centers, raising concerns about electricity, water, and neighborhoods. A New York-based company is developing tiny power management chips that help servers use electricity more ef",
+    "zhDeck": "一家纽约公司研发米粒大小的电源管理芯片，帮助数据中心更高效地使用电力。",
     "source": "CNN 10",
     "sourceUrl": "https://edition.cnn.com/audio/podcasts/cnn-10",
     "transcriptUrl": "https://www.listeningexpress.com/cnn10/2026-10-26%20These%20tiny%20computer%20chips%20could%20help%20data%20centers%20waste%20less%20power.html",
@@ -706,72 +699,72 @@ window.EPISODES = [
     "format": "video",
     "accent": "American",
     "level": "B1–B2",
-    "duration": 175.0,
+    "duration": 125.0,
     "fullDuration": 600,
-    "clipStart": 25.76,
-    "clipEnd": 200.76,
+    "clipStart": 132.98,
+    "clipEnd": 257.98,
     "media": {
       "video": "https://www.listeningexpress.com/cnn10/cnn10%202026-10-26%20These%20tiny%20computer%20chips%20could%20help%20data%20centers%20waste%20less%20power.mp4",
       "audio": "https://www.listeningexpress.com/cnn10/cnn10%202026-10-26%20These%20tiny%20computer%20chips%20could%20help%20data%20centers%20waste%20less%20power.mp3"
     },
     "topics": [
-      "Data Centers",
-      "Energy Efficiency"
+      "Data centers and energy",
+      "AI infrastructure"
     ],
-    "summary": "A New York-based company is developing tiny power management chips, about the size of a grain of rice, that help servers use electricity more efficiently. As AI data centers create massive demand for electricity, these chips could help data centers waste less power.",
-    "zhSummary": "一家纽约公司正在研发米粒大小的微型电源管理芯片，帮助服务器更高效地使用电力。随着AI数据中心带来巨大的电力需求，这些芯片有望帮助数据中心减少电力浪费。",
+    "summary": "As AI grows, tech companies are racing to build massive data centers, raising concerns about electricity, water, and neighborhoods. A New York-based company is developing tiny power management chips that help servers use electricity more efficiently, potentially saving enough power to supply a whole community for a year.",
+    "zhSummary": "随着人工智能的发展，科技公司竞相建设大型数据中心，引发了对电力、水资源和社区影响的担忧。一家纽约公司正在研发微型电源管理芯片，帮助服务器更高效地用电，节省的电力可能足以供应整个社区一年。",
     "takeaways": [
-      "Tiny power management chips can help servers use electricity more efficiently.",
-      "AI data centers create massive demand for electricity.",
-      "Communities worry about added demand on electricity, water, and neighborhoods."
+      "AI growth is driving a race to build massive data centers.",
+      "Communities worry about added demand on electricity and water.",
+      "Tiny power management chips can help servers use electricity more efficiently."
     ],
     "zhTakeaways": [
-      "微型电源管理芯片能帮助服务器更高效用电。",
-      "AI数据中心带来巨大的电力需求。",
-      "社区担心电力、水资源和社区承受额外压力。"
+      "人工智能的发展推动大型数据中心的建设竞赛。",
+      "社区担心对电力和水资源的额外需求。",
+      "微型电源管理芯片能帮助服务器更高效地用电。"
     ],
     "segments": [
       {
-        "start": 25.76,
-        "end": 56.736,
+        "start": 132.98,
+        "end": 154.55,
         "section": "01 · 新闻片段",
-        "en": "holding it down while they're away. Birthdays, holidays, ball games, everyday moments, all experienced from a distance. So today, we honor the service overseas and the quiet courage back home. And that makes this a perfect day for another edition of our CNN 10 honor role, where your submissions help us put the spotlight on some very special service members. Our first salute goes to Petty Officer Secondass Dorian Ror, who has been serving since 2020. His mom Heather is a teacher at Southern High School",
-        "zh": "在他们离开时坚守岗位。生日、节日、球赛、日常点滴，都只能远距离经历。所以今天，我们致敬海外服役和默默在家坚守的勇气。这也让今天成为推出另一期CNN 10 荣誉榜的完美日子，你们的投稿帮助我们聚焦一些非常特别的军人。我们的第一个敬礼献给二等士官多里安·罗尔，自2020年起任职。他的母亲Heather是南方高中的一名教师"
+        "en": "let's get you your news. Today we are talking about data centers. As artificial intelligence becomes a bigger part of the economy, tech companies are racing to build massive facilities packed with computers to power all of it. But sometimes communities across the country are pushing back. Worried these facilities can place added demand on electricity, water, and neighborhoods.",
+        "zh": "让我们为你播报新闻。今天我们谈论的是数据中心。随着人工智能在经济中占据更大比重，科技公司正竞相建造大型设施，配备大量计算机来支撑这一切。但有时全国各地的社区正在抵制。担心这些设施会增加对电力、水资源和社区的压力。"
       },
       {
-        "start": 56.736,
-        "end": 87.59,
-        "section": "02 · 新闻片段",
-        "en": "in Graham, North Carolina. And the school posted this video of Dorian surprising mom on the football field a few years ago. Miss Ror tells us Dorian is hardworking, kind, and resilient after some tough deployments so far in his career. Dorian continues to push forward every day. Petty Officer Ror, Mama Ror, we salute you. Next up, chaplain, First Lieutenant Joshua Felra in the US Air Force. His family writes, \"As a chaplain, he helps ensure that all the airmen have religious freedom",
-        "zh": "在北卡罗来纳州格雷厄姆。学校发布了这段Dorian给妈妈惊喜的视频几年前在足球场上。罗尔小姐告诉我们，多里安很勤奋。到目前为止，在经历了一些艰难的部署之后，依然善良且坚韧他的职业生涯。多里安每天都在继续前进。罗尔士官，罗尔妈妈，我们向您致敬。接下来是随军牧师、美国空军中尉约书亚·费尔拉空军。他的家人写道：“作为一名随军牧师，他帮助确保所有飞行员都享有宗教自由"
-      },
-      {
-        "start": 87.6,
-        "end": 117.437,
-        "section": "03 · 新闻片段",
-        "en": "regardless of their background or faith. He provides care for the airmen in many different ways to ensure the spiritual well-being and readiness of every American warrior. Sir, thank you for helping your fellow airmen rise up when they need it most.\" And this next salute goes to US Air Force Senior Airman Dalton Fox. His mother, Mrs. Burkehead Fox teaches at Central Junior High School in Belleville, Illinois. And this salute, a family affair. She also sent us this photo from her time serving",
-        "zh": "无论他们的背景或信仰如何。他以多种不同方式为飞行员提供关怀以确保每一位美国战士的精神福祉和战备状态战士。先生，感谢您帮助您的飞行员同袍奋起在他们最需要的时候。接下来的致敬献给美国空军高级飞行员道尔顿·福克斯。他的母亲，伯克黑德·福克斯女士，在伊利诺伊州贝尔维尔的中央初中任教。伊利诺伊州。而这份致敬，是一场家庭盛事。她还给我们发来了这张她在空军服役"
-      },
-      {
-        "start": 117.437,
-        "end": 148.701,
-        "section": "04 · 新闻片段",
-        "en": "in the Air Force. Two generations, double the service, double the respect. Thanks to everyone who sent us nominations this month. Keep them coming. Send us a photo or a video and a few lines about a hero in your life to cnn10@cn.com. Now, let's get you your news. Today we are talking about data centers. As artificial intelligence becomes a bigger part of the economy, tech companies are racing to build massive facilities packed with computers to power all of it. But sometimes communities across the country are pushing back.",
-        "zh": "期间的照片。两代人，双倍奉献，双倍的敬意。感谢本月所有向我们发送提名的人。继续发来提名。请发送一张照片或一段视频，以及几行关于你生活中英雄的文字，至 cnn10@cn.com。现在，让我们为你带来新闻。今天我们要谈论的是数据中心。随着人工智能在经济中占据越来越大的比重，科技公司正竞相建造大型设施，配备大量计算机来为其提供动力。但有时全国各地的社区正在抵制。"
-      },
-      {
-        "start": 148.701,
+        "start": 154.56,
         "end": 178.869,
-        "section": "05 · 新闻片段",
-        "en": "Worried these facilities can place added demand on electricity, water, and neighborhoods. Now, here's the part that may make you say, \"Wait a minute. What? Something about the size of a grain of rice could help an entire data center waste less power. A New York-based company is developing tiny power management chips that help servers use electricity more efficiently. Tiny chip giant energy bill. CNN got a rare look at how they're being made.",
-        "zh": "担心这些设施会给电力、水资源和社区带来额外需求。现在，接下来的部分可能会让你说，“等等。什么？一个米粒大小的东西可能帮助整个数据中心减少电力浪费。一家总部位于纽约的公司正在开发微型电源管理芯片，帮助服务器更高效地使用电力。微型芯片，巨额电费。CNN罕见获准探访其制造过程。"
+        "section": "02 · 新闻片段",
+        "en": "Now, here's the part that may make you say, \"Wait a minute. What? Something about the size of a grain of rice could help an entire data center waste less power. A New York-based company is developing tiny power management chips that help servers use electricity more efficiently. Tiny chip giant energy bill. CNN got a rare look at how they're being made.",
+        "zh": "现在，这部分可能会让你说，“等一下。什么？一个米粒大小的东西可能帮助整个数据中心减少电力浪费。一家总部位于纽约的公司正在开发微型电源管理芯片帮助服务器更高效地使用电力。微型芯片，巨大能耗账单。CNN罕见地获准探访了它们的制造过程。"
       },
       {
         "start": 178.879,
-        "end": 200.76,
-        "section": "06 · 新闻片段",
+        "end": 201.011,
+        "section": "03 · 新闻片段",
         "en": "This is to make sure nothing gets in the fab and disrupts the chip making process. feel like I could survive the apocalypse in this thing. With more AI data centers comes massive demand for electricity and that's led to a lot of questions. Who is going to pay for that electricity? Can the power grid handle the increase?",
-        "zh": "这是为了确保没有任何东西进入晶圆厂并干扰芯片制造过程。感觉我靠这东西能在末日中活下来。随着更多AI数据中心出现，电力需求巨大这引发了许多疑问。谁来为这些电力买单？电网能承受这种增长吗？"
+        "zh": "这是为了确保没有东西进入晶圆厂并干扰芯片制造过程。感觉我在这东西里能挺过末日。随着AI数据中心增多，电力需求巨大这引发了许多问题。谁来为这些电力买单？电网能承受这种增长吗？"
+      },
+      {
+        "start": 201.011,
+        "end": 223.197,
+        "section": "04 · 新闻片段",
+        "en": "And what about the environmental impacts? The chips made in this facility right behind me could play a role in helping to address some of those questions. So, it's a power conversion and a power delivery is what we do. and we have to do it very very efficiently. Once is one of several companies that makes chips for data centers to be able to harness power from the",
+        "zh": "环境影响又如何？我身后这家工厂生产的芯片可能有助于解决其中一些问题。所以，我们做的是电力转换和电力传输。这就是我们的业务。我们必须非常非常高效地完成这件事。Once是几家为……制造芯片的公司之一数据中心能够利用来自"
+      },
+      {
+        "start": 223.197,
+        "end": 245.509,
+        "section": "05 · 新闻片段",
+        "en": "grid and advancements in these chips could eventually help data centers get more computing power out of all that electricity they're using. If you save 1% you are able to power pretty much the whole community around that uh data center for a year. El Curi explains that the chips help direct power in the same way stop lights help manage the flow of",
+        "zh": "这些芯片的网格和进步最终可能有助于数据中心从这些电力中获得更多算力他们正在使用。如果你节省1%，就能提供相当可观的电力几乎整个围绕那个数据中心的社区一年。El Curi解释说，这些芯片有助于引导能量进入就像红绿灯帮助管理车流一样"
+      },
+      {
+        "start": 245.519,
+        "end": 257.98,
+        "section": "06 · 新闻片段",
+        "en": "traffic. Think about two different cities. One's got a very nice grid with synchronized lights and one is just a free-for-all. Well, you're going to get wherever you want to get to more efficiently in the grid with",
+        "zh": "交通。想想两座不同的城市。一座有非常好的网格和同步信号灯，另一座则是完全无序。那么，你会更快地到达你想去的地方在网格中更高效地到达"
       }
     ],
     "vocab": [
@@ -781,15 +774,7 @@ window.EPISODES = [
         "pos": "n.",
         "zh": "数据中心",
         "example": "Tech companies are racing to build massive data centers.",
-        "exampleZh": "科技公司正竞相建造大型数据中心。"
-      },
-      {
-        "word": "power management",
-        "phonetic": "/ˈpaʊər ˈmænɪdʒmənt/",
-        "pos": "n.",
-        "zh": "电源管理",
-        "example": "The company is developing tiny power management chips.",
-        "exampleZh": "该公司正在研发微型电源管理芯片。"
+        "exampleZh": "科技公司正竞相建设大型数据中心。"
       },
       {
         "word": "efficiently",
@@ -800,14 +785,6 @@ window.EPISODES = [
         "exampleZh": "这些芯片帮助服务器更高效地使用电力。"
       },
       {
-        "word": "electricity",
-        "phonetic": "/ɪˌlekˈtrɪsəti/",
-        "pos": "n.",
-        "zh": "电力",
-        "example": "Data centers create massive demand for electricity.",
-        "exampleZh": "数据中心对电力产生巨大需求。"
-      },
-      {
         "word": "grid",
         "phonetic": "/ɡrɪd/",
         "pos": "n.",
@@ -816,22 +793,38 @@ window.EPISODES = [
         "exampleZh": "电网能承受这种增长吗？"
       },
       {
+        "word": "facility",
+        "phonetic": "/fəˈsɪləti/",
+        "pos": "n.",
+        "zh": "设施",
+        "example": "The chips are made in this facility.",
+        "exampleZh": "这些芯片是在这个设施中制造的。"
+      },
+      {
         "word": "demand",
         "phonetic": "/dɪˈmænd/",
         "pos": "n.",
         "zh": "需求",
-        "example": "These facilities can place added demand on electricity.",
-        "exampleZh": "这些设施可能增加对电力的需求。"
+        "example": "More AI data centers bring massive demand for electricity.",
+        "exampleZh": "更多人工智能数据中心带来巨大的电力需求。"
+      },
+      {
+        "word": "environmental",
+        "phonetic": "/ɪnˌvaɪrənˈmentl/",
+        "pos": "adj.",
+        "zh": "环境的",
+        "example": "What about the environmental impacts?",
+        "exampleZh": "环境影响呢？"
       }
     ],
     "questions": [
       {
         "q": "What is the size of the power management chips mentioned in the clip?",
         "options": [
-          "About the size of a grain of rice",
-          "About the size of a football",
-          "About the size of a computer",
-          "About the size of a building"
+          "The size of a grain of rice",
+          "The size of a coin",
+          "The size of a laptop",
+          "The size of a car"
         ],
         "answer": 0,
         "explain": "The clip says something about the size of a grain of rice could help an entire data center waste less power."
@@ -840,23 +833,23 @@ window.EPISODES = [
         "q": "Where is the company developing the tiny power management chips based?",
         "options": [
           "New York",
-          "North Carolina",
-          "Illinois",
-          "California"
+          "California",
+          "Texas",
+          "Florida"
         ],
         "answer": 0,
         "explain": "The clip states that a New York-based company is developing tiny power management chips."
       },
       {
-        "q": "What concern do some communities have about data centers?",
+        "q": "According to the clip, what can saving 1% of power do?",
         "options": [
-          "Added demand on electricity, water, and neighborhoods",
-          "Too many job opportunities",
-          "Excessive noise from football games",
-          "Lack of religious freedom"
+          "Power the whole community around the data center for a year",
+          "Run the data center for a month",
+          "Charge a single smartphone",
+          "Light a single room"
         ],
         "answer": 0,
-        "explain": "The clip says communities are worried these facilities can place added demand on electricity, water, and neighborhoods."
+        "explain": "The clip says if you save 1% you are able to power pretty much the whole community around that data center for a year."
       }
     ]
   }
