@@ -645,36 +645,37 @@ svg { width: 20px; height: 20px; fill: currentColor; display: block; }
 
 .subtitle-overlay {
   position: absolute;
-  left: 16px; right: 16px; bottom: 62px;
+  left: 14px; right: 14px; bottom: 60px;
   z-index: 2;
   text-align: center;
   pointer-events: none;
   text-shadow: 0 1px 8px rgba(0, 0, 0, 0.8);
 }
-.subtitle-overlay p { margin: 0 auto; max-width: 92%; }
+.subtitle-overlay p { margin: 0 auto; max-width: 96%; }
 .subtitle-overlay .sub-en {
-  font-size: 13px;
-  line-height: 1.42;
+  font-size: 12.5px;
+  line-height: 1.38;
   font-weight: 600;
   color: #fffdf7;
-  background: rgba(8, 7, 6, 0.38);
+  background: rgba(8, 7, 6, 0.52);
   display: inline;
   padding: 2px 6px;
   box-decoration-break: clone;
   -webkit-box-decoration-break: clone;
 }
 .subtitle-overlay .sub-zh {
-  margin-top: 5px;
-  font-size: 11px;
-  line-height: 1.5;
-  color: rgba(255, 247, 232, 0.82);
-  background: rgba(8, 7, 6, 0.32);
+  margin-top: 4px;
+  font-size: 10.5px;
+  line-height: 1.45;
+  color: rgba(255, 247, 232, 0.88);
+  background: rgba(8, 7, 6, 0.45);
   display: inline;
   padding: 2px 6px;
   box-decoration-break: clone;
   -webkit-box-decoration-break: clone;
 }
-.subtitle-overlay.sub-none { display: none; }
+.subtitle-overlay.sub-none,
+.subtitle-overlay.sub-hidden { display: none; }
 .subtitle-overlay.sub-en .sub-zh,
 .subtitle-overlay.sub-zh .sub-en { display: none; }
 .player-shell.no-sub .subtitle-overlay { display: none; }

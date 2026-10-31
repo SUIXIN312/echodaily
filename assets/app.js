@@ -119,6 +119,7 @@
   let currentEpisode = null;
   let media = null;
   let activeIndex = -1;
+  let activeCueIndex = -1;
   let destroyingMedia = false;
   let noteTimer = null;
   let searchTimer = null;
@@ -205,6 +206,91 @@
     const cut = value.slice(0, max);
     const space = cut.lastIndexOf(' ');
     return (space > max * 0.55 ? cut.slice(0, space) : cut).replace(/[.,;:!?，。；：！？]+$/, '') + '…';
+  }
+
+  function splitSentences(text, locale) {
+    const value = String(text || '').replace(/\s+/g, ' ').trim();
+    if (!value) return [];
+    try {
+      if (typeof Intl !== 'undefined' && Intl.Segmenter) {
+        const segmenter = new Intl.Segmenter(locale || 'en', { granularity: 'sentence' });
+        const parts = Array.from(segmenter.segment(value), (item) => item.segment.trim()).filter(Boolean);
+        if (parts.length) return parts;
+      }
+    } catch (err) { /* fall through */ }
+    const parts = value.match(/[^.!?。！？]+[.!?。！？]+["'”’]?|[^.!?。！？]+$/g) || [value];
+    return parts.map((s) => s.trim()).filter(Boolean);
+  }
+
+  function groupParts(parts, count) {
+    if (count <= 0) return [];
+    if (parts.length === count) return parts.slice();
+    if (parts.length < count) {
+      const out = parts.slice();
+      while (out.length < count) out.push(out[out.length - 1] || '');
+      return out;
+    }
+    const out = [];
+    let cursor = 0;
+    for (let i = 0; i < count; i += 1) {
+      const end = i === count - 1 ? parts.length : Math.max(cursor + 1, Math.round(((i + 1) / count) * parts.length));
+      out.push(parts.slice(cursor, end).join(''));
+      cursor = end;
+    }
+    return out;
+  }
+
+  function alignChinese(parts, count) {
+    if (parts.length === count) return parts.slice();
+    if (parts.length > count) return groupParts(parts, count);
+    const clauses = [];
+    parts.forEach((part) => {
+      const pieces = part.split(/(?<=[，；：,;])\s*/).filter(Boolean);
+      if (pieces.length) clauses.push(...pieces);
+      else clauses.push(part);
+    });
+    if (clauses.length >= count) return groupParts(clauses, count);
+    const out = clauses.slice();
+    while (out.length < count) out.push('');
+    return out;
+  }
+
+  function buildSentenceCues(ep) {
+    if (!ep) return [];
+    if (ep._sentenceCues) return ep._sentenceCues;
+    const cues = [];
+    ep.segments.forEach((seg, segIndex) => {
+      const ens = splitSentences(seg.en, 'en');
+      const english = ens.length ? ens : [seg.en];
+      const chinese = alignChinese(splitSentences(seg.zh, 'zh'), english.length);
+      const weights = english.map((sentence) => {
+        const words = sentence.match(/[A-Za-z0-9'’-]+/g);
+        return Math.max(3, words ? words.length : 3);
+      });
+      const totalWeight = weights.reduce((sum, n) => sum + n, 0);
+      let passed = 0;
+      const span = Math.max(1, seg.end - seg.start);
+      english.forEach((sentence, i) => {
+        const start = seg.start + (passed / totalWeight) * span;
+        passed += weights[i];
+        const end = i === english.length - 1 ? seg.end : seg.start + (passed / totalWeight) * span;
+        cues.push({
+          start,
+          end: Math.max(start + 0.4, end),
+          en: sentence,
+          zh: chinese[i] || '',
+          segIndex,
+          sentenceIndex: i,
+          section: seg.section
+        });
+      });
+    });
+    ep._sentenceCues = cues;
+    return cues;
+  }
+
+  function currentCues() {
+    return currentEpisode ? buildSentenceCues(currentEpisode) : [];
   }
 
   function getEpisode(id) {
@@ -503,8 +589,8 @@
                 '<span class="clip-tag" id="clip-tag">精听 ' + clipTag + '</span>' +
                 '<div class="player-center"><button class="big-play" data-action="toggle-play" aria-label="播放">' + icon('play') + '</button></div>' +
                 '<div class="subtitle-overlay sub-' + ui.subtitleMode + '" id="subtitle-overlay">' +
-                  '<p><span class="sub-en" id="overlay-en">' + escapeHTML(shorten(ep.segments[0].en, 92)) + '</span></p>' +
-                  '<p><span class="sub-zh" id="overlay-zh">' + escapeHTML(shorten(ep.segments[0].zh, 38)) + '</span></p>' +
+                  '<p><span class="sub-en" id="overlay-en">' + escapeHTML((buildSentenceCues(ep)[0] || ep.segments[0]).en) + '</span></p>' +
+                  '<p><span class="sub-zh" id="overlay-zh">' + escapeHTML((buildSentenceCues(ep)[0] || ep.segments[0]).zh) + '</span></p>' +
                 '</div>' +
                 '<div class="control-bar">' +
                   '<div class="seek-row">' +
@@ -622,6 +708,7 @@
 
   function mountPlayer(ep) {
     activeIndex = -1;
+    activeCueIndex = -1;
     videoFailed = false;
     const shell = $('#player-shell');
     media = $('#media');
@@ -703,12 +790,15 @@
     const duration = isFinite(media.duration) && media.duration > 0 ? media.duration : ep.fullDuration;
     updateTimeUI(t, duration);
 
-    let index = -1;
-    for (let i = 0; i < ep.segments.length; i += 1) {
-      const seg = ep.segments[i];
-      if (t >= seg.start - 0.15 && t < seg.end + 0.15) { index = i; break; }
+    const cues = buildSentenceCues(ep);
+    let cueIndex = -1;
+    for (let i = 0; i < cues.length; i += 1) {
+      const cue = cues[i];
+      if (t >= cue.start - 0.08 && t < cue.end + 0.08) { cueIndex = i; break; }
     }
-    if (index !== activeIndex) setActiveLine(index, true);
+    if (cueIndex !== activeCueIndex) setActiveCue(cueIndex, true);
+    const segmentIndex = cueIndex >= 0 ? cues[cueIndex].segIndex : -1;
+    if (segmentIndex !== activeIndex) setActiveLine(segmentIndex, true);
 
     if (ui.loopSegment && activeIndex >= 0) {
       const seg = ep.segments[activeIndex];
@@ -766,6 +856,7 @@
     try { media.removeAttribute('src'); media.load(); } catch (err) { /* ignore */ }
     media = null;
     activeIndex = -1;
+    activeCueIndex = -1;
     setTimeout(() => { destroyingMedia = false; }, 30);
   }
 
@@ -818,7 +909,20 @@
     if (!seg) return;
     seekTo(seg.start + 0.01, true);
     setActiveLine(index, false);
-    updatePlayerStatus('正在播放第 ' + (index + 1) + ' 句 · ' + formatTime(seg.start));
+    const cues = buildSentenceCues(currentEpisode);
+    const firstCue = cues.findIndex((cue) => cue.segIndex === index);
+    if (firstCue >= 0) setActiveCue(firstCue, false);
+    updatePlayerStatus('正在播放第 ' + (index + 1) + ' 段 · ' + formatTime(seg.start));
+  }
+
+  function playCue(index) {
+    if (!currentEpisode || !media) return;
+    const cue = buildSentenceCues(currentEpisode)[index];
+    if (!cue) return;
+    seekTo(cue.start + 0.01, true);
+    setActiveCue(index, false);
+    setActiveLine(cue.segIndex, false);
+    updatePlayerStatus('正在播放当前句 · ' + formatTime(cue.start));
   }
 
   function setActiveLine(index, autoScroll) {
@@ -826,25 +930,46 @@
     $$('.t-item').forEach((el) => {
       el.classList.toggle('active', Number(el.dataset.index) === index);
     });
-    const overlay = $('#subtitle-overlay');
-    if (!currentEpisode || index < 0) {
-      if (overlay) {
-        overlay.classList.add('sub-none');
-      }
-      return;
-    }
-    const seg = currentEpisode.segments[index];
-    const en = $('#overlay-en');
-    const zh = $('#overlay-zh');
-    if (en) en.textContent = shorten(seg.en, 92);
-    if (zh) zh.textContent = shorten(seg.zh, 38);
-    if (overlay) overlay.classList.remove('sub-none');
     if (autoScroll && state.settings.autoScroll) {
       const active = $('.t-item.active');
       const scroll = $('.transcript-scroll');
       if (active && scroll) {
         const top = active.offsetTop - scroll.clientHeight / 2 + active.offsetHeight / 2;
         scroll.scrollTo({ top: Math.max(0, top), behavior: 'smooth' });
+      }
+    }
+  }
+
+  function setActiveCue(index, autoScroll) {
+    activeCueIndex = index;
+    const overlay = $('#subtitle-overlay');
+    if (!overlay) return;
+    if (!currentEpisode || index < 0) {
+      overlay.classList.add('sub-hidden');
+      return;
+    }
+    const cue = buildSentenceCues(currentEpisode)[index];
+    if (!cue) {
+      overlay.classList.add('sub-hidden');
+      return;
+    }
+    const en = $('#overlay-en');
+    const zh = $('#overlay-zh');
+    if (en) en.textContent = cue.en;
+    if (zh) zh.textContent = cue.zh;
+    overlay.classList.remove('sub-hidden');
+    // Keep the active sentence visible in the paragraph list as well.
+    if (autoScroll && state.settings.autoScroll) {
+      const line = $('.t-item.active');
+      if (line) {
+        const current = line.querySelector('.t-current-sentence');
+        if (current) {
+          const scroll = $('.transcript-scroll');
+          if (scroll) {
+            const top = current.offsetTop - scroll.clientHeight / 2 + current.offsetHeight / 2;
+            scroll.scrollTo({ top: Math.max(0, top), behavior: 'smooth' });
+          }
+        }
       }
     }
   }
@@ -859,7 +984,8 @@
     if (overlay) {
       overlay.classList.remove('sub-both', 'sub-en', 'sub-zh', 'sub-none');
       overlay.classList.add('sub-' + ui.subtitleMode);
-      if (activeIndex < 0 && ui.subtitleMode !== 'none') overlay.classList.remove('sub-none');
+      if (activeCueIndex < 0) overlay.classList.add('sub-hidden');
+      else overlay.classList.remove('sub-hidden');
     }
     $$('#subtitle-seg button').forEach((btn) => {
       btn.classList.toggle('active', btn.dataset.mode === ui.subtitleMode);
@@ -1622,8 +1748,13 @@
 
   function focusSentence() {
     if (!currentEpisode || !currentEpisode.segments.length) return { en: '', zh: '' };
-    if (activeIndex >= 0 && currentEpisode.segments[activeIndex]) return currentEpisode.segments[activeIndex];
-    return currentEpisode.segments[0];
+    const cues = buildSentenceCues(currentEpisode);
+    if (activeCueIndex >= 0 && cues[activeCueIndex]) return cues[activeCueIndex];
+    if (activeIndex >= 0) {
+      const first = cues.find((cue) => cue.segIndex === activeIndex);
+      if (first) return first;
+    }
+    return cues[0] || currentEpisode.segments[0];
   }
 
   function renderFocusSentence() {
@@ -1843,7 +1974,7 @@
     else if (action === 'fullscreen') requestFullscreen();
     else if (action === 'toggle-full') toggleFullMode();
     else if (action === 'replay') {
-      if (activeIndex >= 0) playSegment(activeIndex);
+      if (activeCueIndex >= 0) playCue(activeCueIndex);
       else playEpisodeFromStart();
     } else if (action === 'set-subtitle') setSubtitleMode(actionEl.dataset.mode);
     else if (action === 'set-media') setMediaMode(actionEl.dataset.mode);
@@ -1916,12 +2047,12 @@
       ui.focusRunning = !ui.focusRunning;
       updateFocusClocks();
     } else if (action === 'focus-replay') {
-      if (activeIndex >= 0) playSegment(activeIndex);
+      if (activeCueIndex >= 0) playCue(activeCueIndex);
       else playEpisodeFromStart();
     } else if (action === 'focus-next-line') {
-      const current = activeIndex >= 0 ? activeIndex : 0;
-      const next = Math.min(currentEpisode.segments.length - 1, current + 1);
-      playSegment(next);
+      const cues = buildSentenceCues(currentEpisode);
+      const current = activeCueIndex >= 0 ? activeCueIndex : 0;
+      playCue(Math.min(cues.length - 1, current + 1));
     } else if (action === 'record-start') startRecording();
     else if (action === 'record-stop') stopRecording();
     else if (action === 'go-quiz') {
