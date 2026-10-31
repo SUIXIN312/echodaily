@@ -183,7 +183,7 @@ def deepseek(messages: list[dict], json_mode: bool = True, retries: int = 3) -> 
         "model": DEEPSEEK_MODEL,
         "messages": messages,
         "temperature": 0.2,
-        "max_tokens": 2200,
+        "max_tokens": 3000,
     }
     data = json.dumps(payload).encode("utf-8")
     last_error: Exception | None = None
@@ -229,7 +229,7 @@ def translate_chunks(chunks: list[dict], mock: bool) -> list[str]:
     if mock:
         return ["【中文】" + item["en"] for item in chunks]
     translations: list[str] = []
-    batch_size = 14
+    batch_size = 10
     for offset in range(0, len(chunks), batch_size):
         batch = chunks[offset:offset + batch_size]
         prompt = (
@@ -248,13 +248,17 @@ def translate_chunks(chunks: list[dict], mock: bool) -> list[str]:
             if not isinstance(values, list) or len(values) != len(batch):
                 raise ValueError("translation count mismatch")
             translations.extend(str(value).strip() for value in values)
-        except Exception:
+        except Exception as batch_error:
+            print(f"  translation batch fallback: {batch_error}", file=sys.stderr)
             for item in batch:
-                data = json_object(deepseek([
-                    {"role": "system", "content": "Translate one English news subtitle into concise Simplified Chinese. Return {\"translation\":\"...\"}."},
-                    {"role": "user", "content": item["en"]},
-                ]))
-                translations.append(str(data.get("translation", "")).strip())
+                try:
+                    data = json_object(deepseek([
+                        {"role": "system", "content": "Translate one English news subtitle into concise Simplified Chinese. Return {\"translation\":\"...\"}."},
+                        {"role": "user", "content": item["en"]},
+                    ]))
+                    translations.append(str(data.get("translation", "")).strip())
+                except Exception:
+                    translations.append("")
         time.sleep(0.4)
     return translations
 
@@ -308,6 +312,40 @@ Clip transcript:
         if not isinstance(data.get(key), list):
             data[key] = fallback
     return data
+
+
+def fallback_pack(title: str, script: str) -> dict:
+    sentences = [part.strip() for part in re.findall(r"[^.!?]+[.!?]", script) if part.strip()]
+    summary = " ".join(sentences[:2])
+    words = re.findall(r"[A-Za-z][A-Za-z'-]{4,}", script.lower())
+    counts: dict[str, int] = {}
+    for word in words:
+        counts[word] = counts.get(word, 0) + 1
+    common = [word for word, _ in sorted(counts.items(), key=lambda item: (-item[1], item[0]))[:6]]
+    vocab = []
+    for word in common:
+        vocab.append({
+            "word": word,
+            "phonetic": "",
+            "pos": "",
+            "zh": "",
+            "example": sentences[0] if sentences else "",
+            "exampleZh": "",
+        })
+    return {
+        "zhTitle": title,
+        "zhDeck": "",
+        "summary": summary,
+        "zhSummary": "",
+        "takeaways": sentences[:3],
+        "zhTakeaways": [],
+        "topics": ["World", "News"],
+        "vocab": vocab,
+        "questions": [
+            {"q": "What is the main idea of this clip?", "options": ["A", "B", "C", "D"], "answer": 1, "explain": "Listen to the opening sentences."}
+            for _ in range(3)
+        ],
+    }
 
 
 def safe_vocab(items: list, fallback_word: str) -> list[dict]:
@@ -413,7 +451,11 @@ def build_episode(meta: dict, issue: int, mock: bool) -> tuple[dict, list[dict]]
             "zh": "".join(item["zh"] for item in group),
         })
     script = " ".join(item["en"] for item in chunks)
-    pack = study_pack(title, script, mock)
+    try:
+        pack = study_pack(title, script, mock)
+    except Exception as error:  # noqa: BLE001
+        print(f"  metadata fallback: {error}", file=sys.stderr)
+        pack = fallback_pack(title, script)
     episode = {
         "id": episode_date,
         "issue": f"{issue:02d}",
