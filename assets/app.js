@@ -743,7 +743,7 @@
       if (sh) sh.classList.add('playing');
       const btn = $('#btn-play');
       if (btn) btn.innerHTML = icon('pause');
-      updatePlayerStatus('正在播放 · 可以点任意句子跳转');
+      updatePlayerStatus('正在播放 · 字幕按句同步，可点段落跳转');
     });
     media.addEventListener('pause', () => {
       const sh = $('#player-shell');
