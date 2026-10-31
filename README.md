@@ -16,6 +16,26 @@
 
 源码仓库：**https://github.com/SUIXIN312/echodaily**
 
+### 装到手机（PWA）
+
+1. 手机浏览器打开上面的 GitHub Pages 链接；
+2. iPhone Safari：分享 → **添加到主屏幕**；
+3. Android Chrome：右上角菜单 → **安装应用 / 添加到主屏幕**。
+
+装好后有独立图标，全屏运行，不需要电脑。
+
+### 自动更新
+
+GitHub Actions 每周六 09:00（北京时间）自动运行：
+
+- 抓取最新 5 期 CNN 10
+- 用原视频 VTT 生成短句字幕
+- 用 DeepSeek 翻译中文、生成词汇和测验
+- 自动提交到 GitHub
+- GitHub Pages 自动重新部署
+
+不需要你的电脑开着。当前自动更新先接 CNN 10；TED / NASA / NPR 等来源适配器会在这套流程稳定后加入。
+
 ### 电脑上
 
 **http://127.0.0.1:8765/**
