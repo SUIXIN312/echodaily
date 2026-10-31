@@ -10,6 +10,12 @@
 
 ## 立即打开
 
+### 公网链接（GitHub Pages）
+
+**https://suixin312.github.io/echodaily/**
+
+源码仓库：**https://github.com/SUIXIN312/echodaily**
+
 ### 电脑上
 
 **http://127.0.0.1:8765/**
