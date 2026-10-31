@@ -1,0 +1,10 @@
+__pycache__/
+.pyc
+.DS_Store
+Thumbs.db
+.chrome-*/
+.edge-*/
+*.log
+*.zip
+shot-*.png
+tmp-*.png

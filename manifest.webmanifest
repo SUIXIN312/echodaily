@@ -1,0 +1,20 @@
+{
+  "name": "EchoDaily · 回声英语",
+  "short_name": "EchoDaily",
+  "description": "每天 25 分钟，用真实国际新闻练英语听力。双语逐句稿、原声视频、跟读与复述。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f1ece0",
+  "theme_color": "#191813",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

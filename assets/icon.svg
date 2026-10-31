@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="EchoDaily">
+  <rect width="512" height="512" rx="112" fill="#191813"/>
+  <circle cx="256" cy="256" r="172" fill="none" stroke="#f1ece0" stroke-width="5" opacity=".35"/>
+  <circle cx="256" cy="256" r="128" fill="#d24b2b"/>
+  <path d="M146 258h38l26-74 38 166 32-120 25 62h61" fill="none" stroke="#fff8ec" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="388" cy="124" r="14" fill="#f1ece0"/>
+</svg>
