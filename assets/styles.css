@@ -557,6 +557,7 @@ svg { width: 20px; height: 20px; fill: currentColor; display: block; }
 
 .player-shell {
   position: relative;
+  container-type: inline-size;
   aspect-ratio: 16 / 9;
   overflow: hidden;
   border-radius: 14px;
@@ -645,32 +646,34 @@ svg { width: 20px; height: 20px; fill: currentColor; display: block; }
 
 .subtitle-overlay {
   position: absolute;
-  left: 14px; right: 14px; bottom: 60px;
+  left: clamp(12px, 2.2cqw, 40px);
+  right: clamp(12px, 2.2cqw, 40px);
+  bottom: clamp(52px, 9%, 104px);
   z-index: 2;
   text-align: center;
   pointer-events: none;
   text-shadow: 0 1px 8px rgba(0, 0, 0, 0.8);
 }
-.subtitle-overlay p { margin: 0 auto; max-width: 96%; }
+.subtitle-overlay p { margin: 0 auto; max-width: 94%; }
 .subtitle-overlay .sub-en {
-  font-size: 12.5px;
-  line-height: 1.38;
+  font-size: clamp(12.5px, 2.4cqw, 30px);
+  line-height: 1.34;
   font-weight: 600;
   color: #fffdf7;
   background: rgba(8, 7, 6, 0.52);
   display: inline;
-  padding: 2px 6px;
+  padding: 0.12em 0.32em;
   box-decoration-break: clone;
   -webkit-box-decoration-break: clone;
 }
 .subtitle-overlay .sub-zh {
-  margin-top: 4px;
-  font-size: 10.5px;
-  line-height: 1.45;
+  margin-top: 0.25em;
+  font-size: clamp(10.5px, 1.9cqw, 24px);
+  line-height: 1.4;
   color: rgba(255, 247, 232, 0.88);
   background: rgba(8, 7, 6, 0.45);
   display: inline;
-  padding: 2px 6px;
+  padding: 0.1em 0.32em;
   box-decoration-break: clone;
   -webkit-box-decoration-break: clone;
 }
@@ -710,7 +713,18 @@ svg { width: 20px; height: 20px; fill: currentColor; display: block; }
   z-index: 4;
   padding: 26px 12px 10px;
   background: linear-gradient(to top, rgba(5, 4, 3, 0.9), rgba(5, 4, 3, 0.35) 65%, transparent);
+  transition: opacity 0.22s ease;
 }
+.player-top, .clip-tag, .player-center { transition: opacity 0.22s ease; }
+.player-shell.cursor-hidden { cursor: none; }
+.player-shell.controls-hidden .player-top,
+.player-shell.controls-hidden .clip-tag,
+.player-shell.controls-hidden .control-bar,
+.player-shell.controls-hidden .player-center {
+  opacity: 0;
+  pointer-events: none;
+}
+.player-shell.controls-hidden .player-mode-toggle { pointer-events: none; }
 .seek-row { display: flex; align-items: center; gap: 9px; }
 .time-code { font-family: var(--font-mono); font-size: 8px; color: rgba(255, 250, 241, 0.65); min-width: 30px; }
 .time-code.dur { text-align: right; }
@@ -1504,9 +1518,6 @@ input[type="range"].seek::-moz-range-thumb { width: 9px; height: 9px; border: 0;
   .focus-head { padding: 16px 18px 12px; }
   .focus-head h2 { font-size: 23px; }
   .focus-total span { font-size: 15px; }
-  .subtitle-overlay { bottom: 55px; left: 10px; right: 10px; }
-  .subtitle-overlay .sub-en { font-size: 11.5px; }
-  .subtitle-overlay .sub-zh { font-size: 10px; }
   .clip-tag { display: none; }
   .toast-region { bottom: 84px; }
 }

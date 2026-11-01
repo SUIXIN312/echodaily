@@ -145,7 +145,9 @@
     focusNote: '',
     focusAudioUrl: null,
     recording: null,
-    recordingTimer: null
+    recordingTimer: null,
+    controlsTimer: null,
+    fullscreenHandler: null
   };
 
   function parseDate(str) {
@@ -755,18 +757,22 @@
       const btn = $('#btn-play');
       if (btn) btn.innerHTML = icon('pause');
       updatePlayerStatus('正在播放 · 字幕按句同步，可点段落跳转');
+      showControls();
     });
     media.addEventListener('pause', () => {
       const sh = $('#player-shell');
       if (sh) sh.classList.remove('playing');
       const btn = $('#btn-play');
       if (btn) btn.innerHTML = icon('play');
+      clearTimeout(ui.controlsTimer);
+      setControlsVisible(true);
       savePlayback();
     });
     media.addEventListener('waiting', () => {
       const sh = $('#player-shell');
       if (sh) sh.classList.add('loading');
       updatePlayerStatus('正在缓冲…');
+      setControlsVisible(true);
     });
     media.addEventListener('playing', () => {
       const sh = $('#player-shell');
@@ -775,6 +781,8 @@
     media.addEventListener('ended', () => {
       const sh = $('#player-shell');
       if (sh) sh.classList.remove('playing');
+      clearTimeout(ui.controlsTimer);
+      setControlsVisible(true);
     });
     media.addEventListener('error', () => {
       if (!media || destroyingMedia) return;
@@ -792,6 +800,67 @@
     updateTimeUI(ep.clipStart, ep.fullDuration);
     setMediaButtons();
     setSubtitleUI();
+    bindAutoHideControls(shell);
+  }
+
+  function setControlsVisible(visible) {
+    const shell = $('#player-shell');
+    if (!shell) return;
+    shell.classList.toggle('controls-hidden', !visible);
+    if (visible) shell.classList.remove('cursor-hidden');
+    else shell.classList.add('cursor-hidden');
+  }
+
+  function scheduleControlsHide() {
+    clearTimeout(ui.controlsTimer);
+    if (!media || media.paused) {
+      setControlsVisible(true);
+      return;
+    }
+    ui.controlsTimer = setTimeout(() => setControlsVisible(false), 2600);
+  }
+
+  function showControls() {
+    setControlsVisible(true);
+    scheduleControlsHide();
+  }
+
+  function bindAutoHideControls(shell) {
+    clearTimeout(ui.controlsTimer);
+    setControlsVisible(true);
+    scheduleControlsHide();
+
+    const activity = () => showControls();
+    shell.addEventListener('mousemove', activity);
+    shell.addEventListener('pointermove', activity);
+    shell.addEventListener('mouseenter', activity);
+    shell.addEventListener('touchstart', activity, { passive: true });
+    shell.addEventListener('focusin', activity);
+
+    shell.addEventListener('mouseleave', () => {
+      if (media && !media.paused) {
+        clearTimeout(ui.controlsTimer);
+        setControlsVisible(false);
+      }
+    });
+
+    // Clicking the video toggles play/pause, like a normal video player.
+    shell.addEventListener('click', (event) => {
+      if (event.target.closest('button, input, .control-bar, .player-top, .player-mode-toggle')) return;
+      if (shell.classList.contains('controls-hidden')) {
+        showControls();
+        return;
+      }
+      togglePlay();
+    });
+
+    const onFullscreen = () => {
+      setControlsVisible(true);
+      scheduleControlsHide();
+    };
+    if (ui.fullscreenHandler) document.removeEventListener('fullscreenchange', ui.fullscreenHandler);
+    ui.fullscreenHandler = onFullscreen;
+    document.addEventListener('fullscreenchange', onFullscreen);
   }
 
   function onTimeUpdate() {
@@ -868,6 +937,11 @@
     media = null;
     activeIndex = -1;
     activeCueIndex = -1;
+    clearTimeout(ui.controlsTimer);
+    if (ui.fullscreenHandler) {
+      document.removeEventListener('fullscreenchange', ui.fullscreenHandler);
+      ui.fullscreenHandler = null;
+    }
     setTimeout(() => { destroyingMedia = false; }, 30);
   }
 
@@ -2133,6 +2207,7 @@
       return;
     }
     if (!$('#focus-layer').hidden) return;
+    showControls();
     if (event.code === 'Space') {
       event.preventDefault();
       togglePlay();
