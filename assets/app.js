@@ -264,11 +264,24 @@
     if (Array.isArray(supplied) && supplied.length) {
       // VTT times are the source of truth. Do not add a lead-in here: the
       // overlay must change exactly when the caption starts or ends.
-      ep._sentenceCues = supplied.map((cue, index) => Object.assign({}, cue, {
-        start: Number(cue.start),
-        end: Number(cue.end),
-        sentenceIndex: index
-      }));
+      // Some VTT blocks hold a short caption across a long silent pause.
+      // Trim only those obvious outliers so the old line does not sit on
+      // screen through the pause before the next sentence.
+      ep._sentenceCues = supplied.map((cue, index) => {
+        const start = Number(cue.start);
+        const rawEnd = Number(cue.end);
+        const words = (String(cue.en).match(/[A-Za-z0-9'’-]+/g) || []).length;
+        const expected = Math.max(0.8, words / 2.2 + 0.45);
+        let end = rawEnd;
+        if (rawEnd - start > expected * 1.8 && rawEnd - start - expected > 0.7) {
+          end = start + Math.max(0.9, expected * 1.3);
+        }
+        return Object.assign({}, cue, {
+          start,
+          end: Math.min(rawEnd, end),
+          sentenceIndex: index
+        });
+      });
       return ep._sentenceCues;
     }
     const cues = [];
