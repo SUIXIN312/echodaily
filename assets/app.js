@@ -262,11 +262,11 @@
     if (ep._sentenceCues) return ep._sentenceCues;
     const supplied = window.SUBTITLE_CUES && window.SUBTITLE_CUES[ep.id];
     if (Array.isArray(supplied) && supplied.length) {
-      // Cues are cut from the original VTT, so their starts match the audio.
-      // A tiny lead-in avoids the “subtitle arrives after the voice” feeling.
+      // VTT times are the source of truth. Do not add a lead-in here: the
+      // overlay must change exactly when the caption starts or ends.
       ep._sentenceCues = supplied.map((cue, index) => Object.assign({}, cue, {
-        start: Math.max(0, Number(cue.start) - 0.12),
-        end: Number(cue.end) + 0.05,
+        start: Number(cue.start),
+        end: Number(cue.end),
         sentenceIndex: index
       }));
       return ep._sentenceCues;
@@ -874,7 +874,7 @@
     let cueIndex = -1;
     for (let i = 0; i < cues.length; i += 1) {
       const cue = cues[i];
-      if (t >= cue.start - 0.08 && t < cue.end + 0.08) { cueIndex = i; break; }
+      if (t >= cue.start - 0.02 && t < cue.end + 0.02) { cueIndex = i; break; }
     }
     if (cueIndex !== activeCueIndex) setActiveCue(cueIndex, true);
     const segmentIndex = cueIndex >= 0 ? cues[cueIndex].segIndex : -1;

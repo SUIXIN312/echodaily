@@ -166,6 +166,51 @@ def transcript_words(cues: list[dict], clip_start: float, clip_end: float) -> li
     return words
 
 
+def chunks_from_cues(cues: list[dict], clip_start: float, clip_end: float) -> list[dict]:
+    """Keep original VTT cue boundaries; never merge across a pause.
+
+    A long cue is split internally, but its pieces stay inside that cue's
+    start/end, so a subtitle cannot drift into the next caption's pause.
+    """
+    chunks: list[dict] = []
+    for cue in cues:
+        start = max(cue["start"], clip_start)
+        end = min(cue["end"], clip_end)
+        if end - start < 0.12:
+            continue
+        text = re.sub(r"\s+", " ", cue["text"]).strip()
+        if not text:
+            continue
+        parts = text.split()
+        if len(parts) <= 10 and len(text) <= 62:
+            chunks.append({"start": round(start, 3), "end": round(end, 3), "en": text, "words": len(parts)})
+            continue
+        groups: list[list[str]] = []
+        current: list[str] = []
+        for word in parts:
+            current.append(word)
+            if len(current) >= 9 or sum(len(item) + 1 for item in current) > 58:
+                groups.append(current)
+                current = []
+        if current:
+            groups.append(current)
+        total = max(1, sum(len(" ".join(group)) + 1 for group in groups))
+        passed = 0
+        for group in groups:
+            group_text = " ".join(group)
+            weight = len(group_text) + 1
+            group_start = start + (passed / total) * (end - start)
+            passed += weight
+            group_end = start + (passed / total) * (end - start)
+            chunks.append({
+                "start": round(group_start, 3),
+                "end": round(min(end, group_end + 0.02), 3),
+                "en": group_text,
+                "words": len(group),
+            })
+    return chunks
+
+
 def chunk_words(words: list[dict]) -> list[dict]:
     chunks: list[dict] = []
     current: list[dict] = []
@@ -458,8 +503,7 @@ def build_episode(meta: dict, issue: int, mock: bool) -> tuple[dict, list[dict]]
     if not cues:
         raise RuntimeError(f"No VTT cues for {episode_date}")
     clip_start, clip_end = choose_clip(cues, title)
-    words = transcript_words(cues, clip_start, clip_end)
-    chunks = chunk_words(words)
+    chunks = chunks_from_cues(cues, clip_start, clip_end)
     if len(chunks) < 6:
         raise RuntimeError(f"Too few subtitle chunks for {episode_date}")
     translations = translate_chunks(chunks, mock)
