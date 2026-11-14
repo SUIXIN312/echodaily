@@ -1,2504 +1,2387 @@
 /* Generated from the original CNN 10 VTT cues. Do not hand-edit. */
 window.SUBTITLE_CUES = {
- "2026-11-06": [
+ "2026-11-13": [
   {
-   "start": 431.139,
-   "end": 432.629,
-   "en": "a thousand years later, we're looking at",
+   "start": 275.38,
+   "end": 276.87,
+   "en": "and delivered his legendary I have a",
    "words": 7,
-   "zh": "一千年后，我们正在关注",
+   "zh": "并发表了他的传奇演讲“我有一个……”",
    "segIndex": 0,
    "section": "01 · 新闻片段"
   },
   {
-   "start": 432.639,
-   "end": 440.95,
-   "en": "Viking graffiti in Istanbul.",
-   "words": 4,
-   "zh": "伊斯坦布尔的维京涂鸦。",
-   "segIndex": 0,
-   "section": "01 · 新闻片段"
-  },
-  {
-   "start": 440.96,
-   "end": 442.79,
-   "en": "Today's story getting a 10 out of 10. A",
-   "words": 9,
-   "zh": "今天的新闻值得打满分。",
-   "segIndex": 0,
-   "section": "01 · 新闻片段"
-  },
-  {
-   "start": 442.8,
-   "end": 444.79,
-   "en": "student in Arizona taking extra credit",
-   "words": 6,
-   "zh": "亚利桑那州一名学生把额外学分",
-   "segIndex": 0,
-   "section": "01 · 新闻片段"
-  },
-  {
-   "start": 444.8,
-   "end": 446.87,
-   "en": "to a whole new level. 19-year-old",
-   "words": 6,
-   "zh": "提升到了全新高度。19岁的",
-   "segIndex": 0,
-   "section": "01 · 新闻片段"
-  },
-  {
-   "start": 446.88,
-   "end": 450.15,
-   "en": "Sebastian Seb Mata, a student at Arizona",
-   "words": 7,
-   "zh": "塞巴斯蒂安·塞布·马塔是亚利桑那",
-   "segIndex": 0,
-   "section": "01 · 新闻片段"
-  },
-  {
-   "start": 450.16,
-   "end": 452.469,
-   "en": "State University, defeated former state",
+   "start": 276.88,
+   "end": 278.629,
+   "en": "dream speech. For decades, its",
    "words": 5,
-   "zh": "州立大学的学生，他击败了前州",
+   "zh": "梦想的演讲。几十年来，它的",
    "segIndex": 0,
    "section": "01 · 新闻片段"
   },
   {
-   "start": 452.479,
-   "end": 455.27,
-   "en": "lawmaker Jeff Dial to become the next",
-   "words": 7,
-   "zh": "议员杰夫·戴尔，将成为下一任",
-   "segIndex": 1,
-   "section": "02 · 新闻片段"
-  },
-  {
-   "start": 455.28,
-   "end": 457.589,
-   "en": "clerk of the Superior Court in Maricopa",
-   "words": 7,
-   "zh": "马里科帕县高等法院",
-   "segIndex": 1,
-   "section": "02 · 新闻片段"
-  },
-  {
-   "start": 457.599,
-   "end": 459.749,
-   "en": "County. And this isn't just a fancy",
-   "words": 7,
-   "zh": "书记员。而这可不只是花哨的",
-   "segIndex": 1,
-   "section": "02 · 新闻片段"
-  },
-  {
-   "start": 459.759,
-   "end": 462.07,
-   "en": "title on a business card. The office",
-   "words": 7,
-   "zh": "名片上的头衔。该办公室",
-   "segIndex": 1,
-   "section": "02 · 新闻片段"
-  },
-  {
-   "start": 462.08,
-   "end": 464.71,
-   "en": "oversees court records, legal filings,",
-   "words": 5,
-   "zh": "负责监管法院记录、法律文件，",
-   "segIndex": 1,
-   "section": "02 · 新闻片段"
-  },
-  {
-   "start": 464.72,
-   "end": 466.79,
-   "en": "and the financial transactions for one",
+   "start": 278.639,
+   "end": 280.469,
+   "en": "handwritten final draft was thought to",
    "words": 6,
-   "zh": "以及美国最大县之一的",
-   "segIndex": 1,
-   "section": "02 · 新闻片段"
+   "zh": "",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
   },
   {
-   "start": 466.8,
-   "end": 469.189,
-   "en": "of America's largest counties. Matzah",
-   "words": 5,
-   "zh": "财务交易。马扎",
-   "segIndex": 1,
-   "section": "02 · 新闻片段"
-  },
-  {
-   "start": 469.199,
-   "end": 470.95,
-   "en": "says that he plans to keep attending",
-   "words": 7,
-   "zh": "表示他计划在工作的同时",
-   "segIndex": 1,
-   "section": "02 · 新闻片段"
-  },
-  {
-   "start": 470.96,
-   "end": 474.07,
-   "en": "college while on the job. His opponent",
-   "words": 7,
-   "zh": "继续上大学。他的对手",
-   "segIndex": 1,
-   "section": "02 · 新闻片段"
-  },
-  {
-   "start": 474.08,
-   "end": 475.83,
-   "en": "questioned whether someone so young had",
+   "start": 280.479,
+   "end": 283.67,
+   "en": "be lost until now. Seven handwritten",
    "words": 6,
-   "zh": "质疑如此年轻的人是否具备",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
+   "zh": "直到现在才找到。七份手写",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
   },
   {
-   "start": 475.84,
-   "end": 478.71,
-   "en": "the experience. Ma, he argues that he",
-   "words": 7,
-   "zh": "经验。马，他辩称自己",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
-  },
-  {
-   "start": 478.72,
-   "end": 480.71,
-   "en": "has fresh ideas and he's ready to learn.",
+   "start": 283.68,
+   "end": 286.629,
+   "en": "pages in blue ink on yellow legal paper",
    "words": 8,
-   "zh": "有新鲜的想法，并且准备好学习。",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
-  },
-  {
-   "start": 480.72,
-   "end": 482.71,
-   "en": "I understand that it's very scary to",
-   "words": 7,
-   "zh": "我理解这非常可怕，",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
-  },
-  {
-   "start": 482.72,
-   "end": 484.79,
-   "en": "have a 19-year-old be your boss, but I'm",
-   "words": 8,
-   "zh": "让一个19岁的人当你的老板，但我",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
-  },
-  {
-   "start": 484.8,
-   "end": 486.23,
-   "en": "not just any 19-year-old.",
-   "words": 4,
-   "zh": "可不是普通的19岁。",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
-  },
-  {
-   "start": 486.24,
-   "end": 487.83,
-   "en": "Now comes the real test. Turning",
-   "words": 6,
-   "zh": "现在真正的考验来了。把",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
-  },
-  {
-   "start": 487.84,
-   "end": 490.39,
-   "en": "campaign promises into public service.",
-   "words": 5,
-   "zh": "竞选承诺转化为公共服务。",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
-  },
-  {
-   "start": 490.4,
-   "end": 492.71,
-   "en": "19 years old, college homework, and a",
-   "words": 7,
-   "zh": "19岁，大学作业，还有一座",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
-  },
-  {
-   "start": 492.72,
-   "end": 494.39,
-   "en": "county courthouse. Imagine your",
-   "words": 4,
-   "zh": "县法院。想象一下你的",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
-  },
-  {
-   "start": 494.4,
-   "end": 495.909,
-   "en": "professor asking, \"Uh, why didn't you",
-   "words": 6,
-   "zh": "教授问：“呃，你为什么没",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
-  },
-  {
-   "start": 495.919,
-   "end": 497.589,
-   "en": "finish the assignment?\" Uh, sorry,",
-   "words": 5,
-   "zh": "完成作业？”呃，抱歉，",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 497.599,
-   "end": 499.909,
-   "en": "professor. I was running the government.",
-   "words": 6,
-   "zh": "教授。我当时在管理政府。",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 499.919,
-   "end": 502.15,
-   "en": "All right. We are very excited here at",
-   "words": 8,
-   "zh": "好了。我们在这里非常兴奋",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 502.16,
-   "end": 503.909,
-   "en": "CNN headquarters today. I want to",
-   "words": 6,
-   "zh": "今天在CNN总部。我想向你们",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 503.919,
-   "end": 505.83,
-   "en": "introduce you to Amaya, our news",
-   "words": 6,
-   "zh": "介绍我们的新闻助理阿玛雅。",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 505.84,
-   "end": 507.43,
-   "en": "associate. We're announcing something",
-   "words": 4,
-   "zh": "我们要宣布一件非常特别的事。",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 507.44,
-   "end": 509.27,
-   "en": "very special. This was Amaya's idea.",
-   "words": 6,
-   "zh": "这是阿玛雅的主意。",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 509.28,
-   "end": 511.51,
-   "en": "This holiday season, CNN 10 is launching",
-   "words": 7,
-   "zh": "这个节日季，CNN 10 将推出",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 511.52,
-   "end": 514.31,
-   "en": "10 days of giving. This time, you are",
-   "words": 8,
-   "zh": "10天给予活动。这一次，你们",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 514.32,
-   "end": 516.389,
-   "en": "the headlines. We want to see your acts",
-   "words": 8,
-   "zh": "就是头条。我们想看到你们的",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 516.399,
-   "end": 518.149,
-   "en": "of kindness, big or small, serving",
-   "words": 6,
-   "zh": "善举，无论大小，比如供应",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 518.159,
-   "end": 520.07,
-   "en": "meals, donating clothes, helping a",
-   "words": 5,
-   "zh": "餐食、捐赠衣物、帮助",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 520.08,
-   "end": 521.99,
-   "en": "neighbor, collecting toys, or simply",
-   "words": 5,
-   "zh": "邻居、收集玩具，或者只是",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 522.0,
-   "end": 523.829,
-   "en": "doing something that makes someone",
-   "words": 5,
-   "zh": "做一件让别人",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 523.839,
-   "end": 525.99,
-   "en": "else's day brighter. So send us your",
-   "words": 7,
-   "zh": "一天更美好的事。所以请把你们的",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 526.0,
-   "end": 527.75,
-   "en": "photos and videos showing how you are",
-   "words": 7,
-   "zh": "照片和视频发给我们，展示你们如何",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 527.76,
-   "end": 530.79,
-   "en": "making a difference to CNN10@cn.com",
-   "words": 5,
-   "zh": "带来改变，发送至CNN10@cn.com",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 530.8,
-   "end": 532.63,
-   "en": "and tell us your name, your school,",
-   "words": 7,
-   "zh": "并告诉我们你的名字、学校、",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 532.64,
-   "end": 534.55,
-   "en": "city, and state, and we may feature your",
-   "words": 8,
-   "zh": "城市和州，我们可能会在“10天",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 534.56,
-   "end": 536.47,
-   "en": "acts of kindness during our 10 days of",
-   "words": 8,
-   "zh": "给予”活动中展示你的",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 536.48,
-   "end": 537.269,
-   "en": "giving.",
-   "words": 1,
-   "zh": "善举。",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 537.279,
-   "end": 538.87,
-   "en": "Thanks, Amaya. You better go tell the",
-   "words": 7,
-   "zh": "谢谢，Amaya。你最好去告诉",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 538.88,
-   "end": 540.15,
-   "en": "team to get ready cuz they're going to",
-   "words": 8,
-   "zh": "团队做好准备，因为他们要",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 540.16,
-   "end": 541.91,
-   "en": "be coming in hot. You know, kindness",
-   "words": 7,
-   "zh": "来势汹汹。你知道，善意",
-   "segIndex": 5,
-   "section": "06 · 新闻片段"
-  },
-  {
-   "start": 541.92,
-   "end": 543.43,
-   "en": "isn't about the size of the gesture,",
-   "words": 7,
-   "zh": "不在于举动的大小，",
-   "segIndex": 5,
-   "section": "06 · 新闻片段"
-  },
-  {
-   "start": 543.44,
-   "end": 545.35,
-   "en": "it's about the size of the heart behind",
-   "words": 8,
-   "zh": "而在于背后的心意",
-   "segIndex": 5,
-   "section": "06 · 新闻片段"
-  },
-  {
-   "start": 545.36,
-   "end": 547.67,
-   "en": "it. Speaking of heart, it is shout out",
-   "words": 8,
-   "zh": "有多大。说到心意，又到了",
-   "segIndex": 5,
-   "section": "06 · 新闻片段"
-  },
-  {
-   "start": 547.68,
-   "end": 549.11,
-   "en": "time. This first one's going up to",
-   "words": 7,
-   "zh": "致敬时间。第一条要送给",
-   "segIndex": 5,
-   "section": "06 · 新闻片段"
-  },
-  {
-   "start": 549.12,
-   "end": 551.19,
-   "en": "Chicago, Illinois. Miss Katie and",
-   "words": 5,
-   "zh": "伊利诺伊州芝加哥。凯蒂小姐和",
-   "segIndex": 5,
-   "section": "06 · 新闻片段"
-  },
-  {
-   "start": 551.2,
-   "end": 553.99,
-   "en": "friends at Everson Day School,",
-   "words": 5,
-   "zh": "埃弗森走读学校的朋友们，",
-   "segIndex": 5,
-   "section": "06 · 新闻片段"
-  },
-  {
-   "start": 554.0,
-   "end": 556.139,
-   "en": "thank you so much for the kind words and",
-   "words": 9,
-   "zh": "非常感谢你们的善意之言和",
-   "segIndex": 5,
-   "section": "06 · 新闻片段"
-  }
- ],
- "2026-11-05": [
-  {
-   "start": 30.179,
-   "end": 31.669,
-   "en": "from going hungry. But first, our top",
-   "words": 7,
-   "zh": "免于挨饿。但首先，我们的头条",
+   "zh": "黄色法律用纸上的蓝色墨水书页",
    "segIndex": 0,
    "section": "01 · 新闻片段"
   },
   {
-   "start": 31.679,
-   "end": 34.389,
-   "en": "story. This year's US midterm election",
-   "words": 6,
-   "zh": "今年的美国中期选举",
-   "segIndex": 0,
-   "section": "01 · 新闻片段"
-  },
-  {
-   "start": 34.399,
-   "end": 36.47,
-   "en": "results, which featured a wave of",
-   "words": 6,
-   "zh": "结果，其中出现了一波",
-   "segIndex": 0,
-   "section": "01 · 新闻片段"
-  },
-  {
-   "start": 36.48,
-   "end": 39.19,
-   "en": "historic firsts. It was a big night for",
-   "words": 8,
-   "zh": "历史性的首次。对……来说，这是一个重要的夜晚",
-   "segIndex": 0,
-   "section": "01 · 新闻片段"
-  },
-  {
-   "start": 39.2,
-   "end": 41.19,
-   "en": "Democrats who won back the majority in",
+   "start": 286.639,
+   "end": 288.55,
+   "en": "were rediscovered in a desk belonging to",
    "words": 7,
-   "zh": "重新赢得多数席位的民主党人",
+   "zh": "在一张属于……的书桌中被重新发现",
    "segIndex": 0,
    "section": "01 · 新闻片段"
   },
   {
-   "start": 41.2,
-   "end": 42.709,
-   "en": "both the Senate and House of",
+   "start": 288.56,
+   "end": 290.95,
+   "en": "King's longtime aid, Edward T. Clayton.",
    "words": 6,
-   "zh": "参议院和众议院都",
+   "zh": "国王的长期助手爱德华·T·克莱顿。",
    "segIndex": 0,
    "section": "01 · 新闻片段"
   },
   {
-   "start": 42.719,
-   "end": 45.19,
-   "en": "Representatives, which means in January,",
-   "words": 5,
-   "zh": "代表们，这意味着在一月份，",
-   "segIndex": 0,
-   "section": "01 · 新闻片段"
-  },
-  {
-   "start": 45.2,
-   "end": 47.19,
-   "en": "Democrats will have full control of",
+   "start": 290.96,
+   "end": 293.749,
+   "en": "His widow, civil rights leader Zernona",
    "words": 6,
-   "zh": "民主党将完全控制",
+   "zh": "他的遗孀、民权领袖泽尔诺娜",
    "segIndex": 0,
    "section": "01 · 新闻片段"
   },
   {
-   "start": 47.2,
-   "end": 48.79,
-   "en": "Congress for the second half of",
-   "words": 6,
-   "zh": "国会下半年",
+   "start": 293.759,
+   "end": 296.15,
+   "en": "Clayton, first found them years ago, but",
+   "words": 7,
+   "zh": "克莱顿多年前首次发现了它们，但是",
    "segIndex": 0,
    "section": "01 · 新闻片段"
   },
   {
-   "start": 48.8,
-   "end": 51.029,
-   "en": "President Donald Trump's term. While",
-   "words": 5,
-   "zh": "唐纳德·特朗普总统的任期。而",
-   "segIndex": 0,
-   "section": "01 · 新闻片段"
-  },
-  {
-   "start": 51.039,
-   "end": 53.35,
-   "en": "some races are still too close to call,",
+   "start": 296.16,
+   "end": 298.629,
+   "en": "didn't realize it was the only copy in",
    "words": 8,
-   "zh": "一些选情仍难分胜负，",
+   "zh": "没意识到这是唯一的一份",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
+  },
+  {
+   "start": 298.639,
+   "end": 300.629,
+   "en": "existence. The handwritten draft gives",
+   "words": 5,
+   "zh": "存在。这份手写草稿让我们",
    "segIndex": 1,
    "section": "02 · 新闻片段"
   },
   {
-   "start": 53.36,
-   "end": 55.83,
-   "en": "history has already been made on both",
-   "words": 7,
-   "zh": "选票两边都已创造历史。",
-   "segIndex": 1,
-   "section": "02 · 新闻片段"
-  },
-  {
-   "start": 55.84,
-   "end": 57.43,
-   "en": "sides of the ballot. New York",
+   "start": 300.639,
+   "end": 303.11,
+   "en": "an unprecedented look into King's mind",
    "words": 6,
-   "zh": "纽约州众议员哈基姆·杰弗里斯",
+   "zh": "前所未有地窥见金的思想",
    "segIndex": 1,
    "section": "02 · 新闻片段"
   },
   {
-   "start": 57.44,
-   "end": 59.67,
-   "en": "Congressman Hakee Jeff is now on track",
-   "words": 7,
-   "zh": "如今有望成为我国历史上",
-   "segIndex": 1,
-   "section": "02 · 新闻片段"
-  },
-  {
-   "start": 59.68,
-   "end": 61.91,
-   "en": "to become the first black speaker of the",
+   "start": 303.12,
+   "end": 305.189,
+   "en": "as he wrestled with the final edits the",
    "words": 8,
-   "zh": "首位黑人众议院议长。",
+   "zh": "当时他正为最后的修改而纠结",
    "segIndex": 1,
    "section": "02 · 新闻片段"
   },
   {
-   "start": 61.92,
-   "end": 64.469,
-   "en": "House in our nation's history. He would",
+   "start": 305.199,
+   "end": 307.35,
+   "en": "night before he would stand on the steps",
+   "words": 8,
+   "zh": "就在他站上林肯纪念堂",
+   "segIndex": 1,
+   "section": "02 · 新闻片段"
+  },
+  {
+   "start": 307.36,
+   "end": 309.51,
+   "en": "of the Lincoln Memorial and deliver it",
    "words": 7,
-   "zh": "在总统继任顺序中，他将仅次于",
+   "zh": "台阶向超过25万人发表演讲的",
    "segIndex": 1,
    "section": "02 · 新闻片段"
   },
   {
-   "start": 64.479,
-   "end": 66.63,
-   "en": "be second only to Vice President JD",
-   "words": 7,
-   "zh": "副总统JD·万斯。",
+   "start": 309.52,
+   "end": 312.469,
+   "en": "to a crowd of more than 250,000 people.",
+   "words": 8,
+   "zh": "前一夜。这份珍贵手稿将",
    "segIndex": 1,
    "section": "02 · 新闻片段"
   },
   {
-   "start": 66.64,
-   "end": 68.07,
-   "en": "Vance in the line of presidential",
+   "start": 312.479,
+   "end": 314.55,
+   "en": "This invaluable manuscript will be on",
    "words": 6,
-   "zh": "在参议院，密歇根州的",
+   "zh": "于下周在亚特兰大首次展出，",
    "segIndex": 1,
    "section": "02 · 新闻片段"
   },
   {
-   "start": 68.08,
-   "end": 70.23,
-   "en": "succession. In the Senate, Michigan's",
-   "words": 5,
-   "zh": "阿卜杜勒·阿拉伊德预计将成为",
+   "start": 314.56,
+   "end": 316.469,
+   "en": "display for the first time next week in",
+   "words": 8,
+   "zh": "随后将被拍卖用于慈善。",
    "segIndex": 1,
    "section": "02 · 新闻片段"
   },
   {
-   "start": 70.24,
-   "end": 72.63,
-   "en": "Abdul Alaied is projected to become the",
+   "start": 316.479,
+   "end": 318.629,
+   "en": "Atlanta before being auctioned off for",
+   "words": 6,
+   "zh": "预计成交价将高达",
+   "segIndex": 1,
+   "section": "02 · 新闻片段"
+  },
+  {
+   "start": 318.639,
+   "end": 320.79,
+   "en": "charity. is expected to fetch upward of",
    "words": 7,
    "zh": "",
    "segIndex": 1,
    "section": "02 · 新闻片段"
   },
   {
-   "start": 72.64,
-   "end": 74.789,
-   "en": "nation's first Muslim senator, and",
-   "words": 5,
-   "zh": "全国首位穆斯林参议员，以及",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
-  },
-  {
-   "start": 74.799,
-   "end": 76.87,
-   "en": "Minnesota Lieutenant Governor Peggy",
-   "words": 4,
-   "zh": "明尼苏达州副州长佩吉",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
-  },
-  {
-   "start": 76.88,
-   "end": 78.789,
-   "en": "Flanigan is expected to become the first",
-   "words": 7,
-   "zh": "弗拉尼根预计将成为首位",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
-  },
-  {
-   "start": 78.799,
-   "end": 81.03,
-   "en": "female Native American senator. South",
-   "words": 5,
-   "zh": "女性美洲原住民参议员。南",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
-  },
-  {
-   "start": 81.04,
-   "end": 82.87,
-   "en": "Carolina's Annie Andrews will become the",
+   "start": 320.8,
+   "end": 323.189,
+   "en": "$10 million. And here's the incredible",
    "words": 6,
-   "zh": "卡罗来纳州的安妮·安德鲁斯将成为",
+   "zh": "1000万美元。而令人难以置信的",
    "segIndex": 2,
    "section": "03 · 新闻片段"
+  },
+  {
+   "start": 323.199,
+   "end": 326.15,
+   "en": "part. The famous I have a dream passage",
+   "words": 8,
+   "zh": "是，著名的“我有一个梦想”段落",
+   "segIndex": 2,
+   "section": "03 · 新闻片段"
+  },
+  {
+   "start": 326.16,
+   "end": 328.15,
+   "en": "isn't even in that handwritten draft.",
+   "words": 6,
+   "zh": "甚至不在那份手稿里。",
+   "segIndex": 2,
+   "section": "03 · 新闻片段"
+  },
+  {
+   "start": 328.16,
+   "end": 330.71,
+   "en": "King added those unforgettable words as",
+   "words": 6,
+   "zh": "金是在演讲时即兴加上了那些",
+   "segIndex": 2,
+   "section": "03 · 新闻片段"
+  },
+  {
+   "start": 330.72,
+   "end": 332.55,
+   "en": "he was speaking. Talk about an epic",
+   "words": 7,
+   "zh": "令人难忘的话。真是史诗级的",
+   "segIndex": 2,
+   "section": "03 · 新闻片段"
+  },
+  {
+   "start": 332.56,
+   "end": 334.55,
+   "en": "freestyle. Think about that. One of",
+   "words": 6,
+   "zh": "即兴发挥。想想看，历史上",
+   "segIndex": 2,
+   "section": "03 · 新闻片段"
+  },
+  {
+   "start": 334.56,
+   "end": 336.87,
+   "en": "history's most memorable messages wasn't",
+   "words": 5,
+   "zh": "最令人难忘的讯息之一并非",
+   "segIndex": 2,
+   "section": "03 · 新闻片段"
+  },
+  {
+   "start": 336.88,
+   "end": 339.029,
+   "en": "entirely on paper. It came from the",
+   "words": 7,
+   "zh": "完全写在纸上。它来自",
+   "segIndex": 2,
+   "section": "03 · 新闻片段"
+  },
+  {
+   "start": 339.039,
+   "end": 340.79,
+   "en": "moment. Sometimes the words that change",
+   "words": 6,
+   "zh": "那一刻。有时改变世界的",
+   "segIndex": 2,
+   "section": "03 · 新闻片段"
+  },
+  {
+   "start": 340.8,
+   "end": 342.39,
+   "en": "the world are the ones that come",
+   "words": 7,
+   "zh": "话语，正是那些脱口而出的",
+   "segIndex": 2,
+   "section": "03 · 新闻片段"
+  },
+  {
+   "start": 342.4,
+   "end": 344.469,
+   "en": "straight from the heart. Let's go now to",
+   "words": 8,
+   "zh": "发自内心。现在让我们转向",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 344.479,
+   "end": 346.71,
+   "en": "Australia, where a six-day disappearance",
+   "words": 5,
+   "zh": "澳大利亚，一名失踪六天者",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 346.72,
+   "end": 348.95,
+   "en": "has ended with an incredible rescue and",
+   "words": 7,
+   "zh": "以一次令人难以置信的救援告终，并且",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 348.96,
+   "end": 351.59,
+   "en": "one very relieved mom. Last week,",
+   "words": 6,
+   "zh": "一位如释重负的母亲。上周，",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 351.6,
+   "end": 353.909,
+   "en": "17-year-old William vanished during a",
+   "words": 5,
+   "zh": "17岁的威廉在一个……期间失踪了",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 353.919,
+   "end": 355.35,
+   "en": "camping trip in dense",
+   "words": 4,
+   "zh": "在茂密森林中的露营之旅",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 355.36,
+   "end": 357.749,
+   "en": "wilderness east of Melbourne. For 6",
+   "words": 6,
+   "zh": "墨尔本以东的荒野。6日",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 357.759,
+   "end": 360.23,
+   "en": "days, rescuers searched rugged terrain",
+   "words": 5,
+   "zh": "数日来，救援人员在崎岖地形中搜寻。",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 360.24,
+   "end": 362.31,
+   "en": "until a police helicopter spotted him",
+   "words": 6,
+   "zh": "直到一架警用直升机发现了他",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 362.32,
+   "end": 364.79,
+   "en": "near a creek. He was lifted to safety",
+   "words": 8,
+   "zh": "在小溪附近。他被转移到安全地带",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 364.8,
+   "end": 367.43,
+   "en": "and reunited with mom, who joked, \"He's",
+   "words": 7,
+   "zh": "与妈妈团聚，妈妈开玩笑说：“他",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 367.44,
+   "end": 369.35,
+   "en": "never leaving the house again.\" His",
+   "words": 6,
+   "zh": "再也不出门了。”他的",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 369.36,
+   "end": 371.43,
+   "en": "family says he is doing fine. Just some",
+   "words": 8,
+   "zh": "家人说他情况良好，只是有些",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 371.44,
+   "end": 374.15,
+   "en": "minor bumps and bruises and one nasty",
+   "words": 7,
+   "zh": "轻微磕碰和淤伤，还有一处严重的",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 374.16,
+   "end": 376.71,
+   "en": "sunburn. William's first meal post",
+   "words": 5,
+   "zh": "晒伤。威廉获救后的第一餐，",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 376.72,
+   "end": 379.749,
+   "en": "rescue, a donut and some water. Six days",
+   "words": 8,
+   "zh": "是一个甜甜圈和一些水。在荒野中待了六天，",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 379.759,
+   "end": 381.35,
+   "en": "in the wilderness that probably tasted",
+   "words": 6,
+   "zh": "那大概尝起来",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 381.36,
+   "end": 382.79,
+   "en": "like a million bucks. Moral of the",
+   "words": 7,
+   "zh": "美味无比。这个故事的寓意是，",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 382.8,
+   "end": 384.309,
+   "en": "story, if you're ever feeling lost,",
+   "words": 6,
+   "zh": "如果你感到迷茫，",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 384.319,
+   "end": 388.409,
+   "en": "donut ever stop believing.",
+   "words": 4,
+   "zh": "永远不要停止相信。",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 391.84,
+   "end": 393.749,
+   "en": "Today's story getting a 10 out of 10 is",
+   "words": 9,
+   "zh": "今天的故事获得满分十分的是",
+   "segIndex": 5,
+   "section": "06 · 新闻片段"
+  },
+  {
+   "start": 393.759,
+   "end": 396.23,
+   "en": "deep. Like really, really deep.",
+   "words": 5,
+   "zh": "深。真的非常非常深。",
+   "segIndex": 5,
+   "section": "06 · 新闻片段"
+  },
+  {
+   "start": 396.24,
+   "end": 399.029,
+   "en": "Ukrainian free diver Katarina Sedorska",
+   "words": 5,
+   "zh": "乌克兰自由潜水员卡塔琳娜·塞多尔斯卡",
+   "segIndex": 5,
+   "section": "06 · 新闻片段"
+  },
+  {
+   "start": 399.039,
+   "end": 400.38,
+   "en": "just made history, setting a new world",
+   "words": 7,
+   "zh": "刚刚创造了历史，刷新了一项世界",
+   "segIndex": 5,
+   "section": "06 · 新闻片段"
+  }
+ ],
+ "2026-11-12": [
+  {
+   "start": 48.18,
+   "end": 49.67,
+   "en": "Fatalities here in the US have fallen to",
+   "words": 8,
+   "zh": "美国这里的死亡人数已降至",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
+  },
+  {
+   "start": 49.68,
+   "end": 51.59,
+   "en": "their lowest rate for the first half of",
+   "words": 8,
+   "zh": "十余年来上半年",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
+  },
+  {
+   "start": 51.6,
+   "end": 53.75,
+   "en": "a year in more than a decade. An",
+   "words": 8,
+   "zh": "的最低水平。据估计，",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
+  },
+  {
+   "start": 53.76,
+   "end": 56.069,
+   "en": "estimated 16,750",
+   "words": 2,
+   "zh": "有16,750人",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
+  },
+  {
+   "start": 56.079,
+   "end": 58.31,
+   "en": "people died in crashes during the first",
+   "words": 7,
+   "zh": "在2026年上半年的",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
+  },
+  {
+   "start": 58.32,
+   "end": 62.15,
+   "en": "half of 2026. That's down 2.5% from last",
+   "words": 8,
+   "zh": "车祸中丧生。这比去年",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
+  },
+  {
+   "start": 62.16,
+   "end": 64.63,
+   "en": "year, even though Americans drove more",
+   "words": 6,
+   "zh": "下降了2.5%，尽管美国人开车",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
+  },
+  {
+   "start": 64.64,
+   "end": 66.55,
+   "en": "miles. It's actually the lowest number",
+   "words": 6,
+   "zh": "的里程更多了。这实际上是",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
+  },
+  {
+   "start": 66.56,
+   "end": 68.87,
+   "en": "recorded since 2014 and the fifth",
+   "words": 6,
+   "zh": "自2014年有记录以来的最低数字，也是",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
+  },
+  {
+   "start": 68.88,
+   "end": 71.03,
+   "en": "straight year the number has decreased",
+   "words": 6,
+   "zh": "该数字连续第五年下降",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
+  },
+  {
+   "start": 71.04,
+   "end": 73.429,
+   "en": "after a spike during the CO 19 pandemic",
+   "words": 8,
+   "zh": "在新冠疫情（CO 19）期间出现激增之后",
+   "segIndex": 1,
+   "section": "02 · 新闻片段"
+  },
+  {
+   "start": 73.439,
+   "end": 76.71,
+   "en": "when traffic deaths rose more than 10%.",
+   "words": 7,
+   "zh": "当时交通事故死亡人数上升了超过10%。",
+   "segIndex": 1,
+   "section": "02 · 新闻片段"
+  },
+  {
+   "start": 76.72,
+   "end": 79.59,
+   "en": "Now listen to this. Bicyclist deaths",
+   "words": 6,
+   "zh": "现在听听这个。骑自行车者的死亡人数",
+   "segIndex": 1,
+   "section": "02 · 新闻片段"
+  },
+  {
+   "start": 79.6,
+   "end": 82.87,
+   "en": "actually rose 4% in 2025 following a",
+   "words": 7,
+   "zh": "实际上在2025年上升了4%，此前",
+   "segIndex": 1,
+   "section": "02 · 新闻片段"
   },
   {
    "start": 82.88,
-   "end": 85.35,
-   "en": "Palmetto State's first ever elected",
-   "words": 5,
-   "zh": "棕榈州首位当选的",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
+   "end": 86.149,
+   "en": "more than 40-year high in 2023 and",
+   "words": 7,
+   "zh": "在2023年创下40多年来的新高，而",
+   "segIndex": 1,
+   "section": "02 · 新闻片段"
   },
   {
-   "start": 85.36,
+   "start": 86.159,
    "end": 87.83,
-   "en": "woman senator. Iowa State Representative",
+   "en": "recent tragedies are reminders that",
    "words": 5,
-   "zh": "女性参议员。爱荷华州众议员",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
+   "zh": "近期的悲剧提醒人们",
+   "segIndex": 1,
+   "section": "02 · 新闻片段"
   },
   {
    "start": 87.84,
-   "end": 90.149,
-   "en": "Josh Turk, who was born with spinoipida",
-   "words": 7,
-   "zh": "乔什·特克，天生患有脊柱裂",
+   "end": 89.83,
+   "en": "cyclists remain especially vulnerable.",
+   "words": 4,
+   "zh": "骑行者仍然尤其脆弱。",
+   "segIndex": 1,
+   "section": "02 · 新闻片段"
+  },
+  {
+   "start": 89.84,
+   "end": 91.91,
+   "en": "In August, two Milligan University",
+   "words": 5,
+   "zh": "8月，两名米利根大学的",
+   "segIndex": 1,
+   "section": "02 · 新闻片段"
+  },
+  {
+   "start": 91.92,
+   "end": 94.069,
+   "en": "cyclists were killed and seven others",
+   "words": 6,
+   "zh": "骑行者遇难，另有七人",
    "segIndex": 2,
    "section": "03 · 新闻片段"
   },
   {
-   "start": 90.159,
-   "end": 92.149,
-   "en": "and has used a wheelchair his entire",
-   "words": 7,
-   "zh": "一生都使用轮椅，",
+   "start": 94.079,
+   "end": 95.749,
+   "en": "were seriously injured during a team",
+   "words": 6,
+   "zh": "在一次团队（骑行）中受重伤",
    "segIndex": 2,
    "section": "03 · 新闻片段"
   },
   {
-   "start": 92.159,
-   "end": 94.149,
-   "en": "life, will become the Hawkeye State's",
-   "words": 6,
-   "zh": "将成为鹰眼州的",
+   "start": 95.759,
+   "end": 98.069,
+   "en": "training ride. And last week in North",
+   "words": 7,
+   "zh": "训练骑行。上周在北部",
    "segIndex": 2,
    "section": "03 · 新闻片段"
   },
   {
-   "start": 94.159,
-   "end": 95.67,
-   "en": "first senator with a permanent",
-   "words": 5,
-   "zh": "首位拥有永久",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 95.68,
-   "end": 98.71,
-   "en": "disability. And history wasn't just made",
-   "words": 6,
-   "zh": "残疾的参议员。历史不仅",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 98.72,
-   "end": 101.27,
-   "en": "on Capitol Hill, but in governor races",
+   "start": 98.079,
+   "end": 100.469,
+   "en": "Carolina, an SUV crossed the center line",
    "words": 7,
-   "zh": "在国会山被创造，也在全国",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
+   "zh": "卡罗来纳，一辆SUV越过了中心线",
+   "segIndex": 2,
+   "section": "03 · 新闻片段"
   },
   {
-   "start": 101.28,
-   "end": 103.91,
-   "en": "across the country. Former Atlanta Mayor",
-   "words": 6,
-   "zh": "各地的州长竞选中被创造。前亚特兰大市长",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 103.92,
-   "end": 105.83,
-   "en": "Kesha Lance Bottoms is projected to",
-   "words": 6,
-   "zh": "凯莎·兰斯·博顿斯预计将",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 105.84,
-   "end": 107.83,
-   "en": "become the first female black governor",
-   "words": 6,
-   "zh": "成为美国历史上首位",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 107.84,
-   "end": 110.469,
-   "en": "in US history. Florida Republican",
-   "words": 5,
-   "zh": "黑人女性州长。佛罗里达州共和党",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 110.479,
-   "end": 112.87,
-   "en": "Congressman Byron Donald will become the",
-   "words": 6,
-   "zh": "众议员拜伦·唐纳德将成为",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 112.88,
-   "end": 115.35,
-   "en": "Sunshine State's first black governor.",
-   "words": 5,
-   "zh": "阳光州首位黑人州长。",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 115.36,
-   "end": 117.749,
-   "en": "Texas State Representative Gina Enahosa",
-   "words": 5,
-   "zh": "得克萨斯州众议员吉娜·埃纳霍萨",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 117.759,
-   "end": 119.429,
-   "en": "will become the state's first Hispanic",
-   "words": 6,
-   "zh": "将成为该州首位西班牙裔",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 119.439,
-   "end": 122.55,
-   "en": "governor. Ohio, California, New Mexico,",
-   "words": 5,
-   "zh": "州长。俄亥俄州、加利福尼亚州、新墨西哥州、",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 122.56,
-   "end": 125.27,
-   "en": "Tennessee, Nevada, and Wisconsin all",
-   "words": 5,
-   "zh": "田纳西州、内华达州和威斯康星州也都",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 125.28,
-   "end": 127.749,
-   "en": "made history as well, electing black,",
-   "words": 6,
-   "zh": "创造了历史，首次选出了黑人、",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 127.759,
-   "end": 129.99,
-   "en": "Latino, Native American, or women",
-   "words": 5,
-   "zh": "拉丁裔、美洲原住民或女性",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 130.0,
-   "end": 132.79,
-   "en": "governors for the first time. So, you",
+   "start": 100.479,
+   "end": 102.469,
+   "en": "and struck a group of cyclists, killing",
    "words": 7,
-   "zh": "州长。所以，你",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
+   "zh": "并撞上一群骑行者，导致死亡",
+   "segIndex": 2,
+   "section": "03 · 新闻片段"
   },
   {
-   "start": 132.8,
-   "end": 135.19,
-   "en": "may have heard of a mail-in ballot, but",
-   "words": 8,
-   "zh": "可能听说过邮寄选票，但",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
+   "start": 102.479,
+   "end": 104.789,
+   "en": "one person and injuring nearly two",
+   "words": 6,
+   "zh": "一人受伤，近两人",
+   "segIndex": 2,
+   "section": "03 · 新闻片段"
   },
   {
-   "start": 135.2,
-   "end": 137.43,
-   "en": "did you know astronauts can cast their",
+   "start": 104.799,
+   "end": 107.429,
+   "en": "dozen. So, what do you think? What's",
    "words": 7,
-   "zh": "你知道宇航员可以从太空",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
+   "zh": "几十个。那么，你觉得呢？是什么",
+   "segIndex": 2,
+   "section": "03 · 新闻片段"
   },
   {
-   "start": 137.44,
-   "end": 140.229,
-   "en": "ballots from the stars? NASA astronaut",
-   "words": 6,
-   "zh": "投票吗？NASA宇航员",
-   "segIndex": 5,
-   "section": "06 · 新闻片段"
+   "start": 107.439,
+   "end": 109.749,
+   "en": "helping make our roads safer? And what",
+   "words": 7,
+   "zh": "帮助让我们的道路更安全？还有什么",
+   "segIndex": 2,
+   "section": "03 · 新闻片段"
   },
   {
-   "start": 140.239,
-   "end": 142.949,
-   "en": "Anneil Manan showed us how he voted in",
-   "words": 8,
-   "zh": "安妮尔·马南向我们展示了他如何投票",
-   "segIndex": 5,
-   "section": "06 · 新闻片段"
+   "start": 109.759,
+   "end": 111.749,
+   "en": "more could we do to protect everybody",
+   "words": 7,
+   "zh": "我们还能做些什么来保护大家",
+   "segIndex": 2,
+   "section": "03 · 新闻片段"
   },
   {
-   "start": 142.959,
-   "end": 144.71,
-   "en": "this year's midterm elections at the",
-   "words": 6,
-   "zh": "今年的中期选举在",
-   "segIndex": 5,
-   "section": "06 · 新闻片段"
+   "start": 111.759,
+   "end": 113.59,
+   "en": "who shares them? Drivers, cyclists,",
+   "words": 5,
+   "zh": "谁分享它们？司机、骑行者，",
+   "segIndex": 2,
+   "section": "03 · 新闻片段"
   },
   {
-   "start": 144.72,
-   "end": 146.79,
-   "en": "International Space Station.",
+   "start": 113.6,
+   "end": 115.99,
+   "en": "pedestrians, all of us. Hit pause and",
+   "words": 7,
+   "zh": "行人，我们所有人。暂停一下，然后",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 116.0,
+   "end": 118.63,
+   "en": "have a think.",
    "words": 3,
-   "zh": "国际空间站。",
-   "segIndex": 5,
-   "section": "06 · 新闻片段"
+   "zh": "想一想。",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
   },
   {
-   "start": 146.8,
-   "end": 149.75,
-   "en": "Welcome to Space Station where today we",
+   "start": 118.64,
+   "end": 120.95,
+   "en": "Pop quiz hot shot. What country invented",
    "words": 7,
-   "zh": "欢迎来到空间站，今天我们有幸",
-   "segIndex": 5,
-   "section": "06 · 新闻片段"
+   "zh": "突击测验，高手。哪个国家发明了",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
   },
   {
-   "start": 149.76,
-   "end": 151.75,
-   "en": "have the privilege of being able to",
-   "words": 7,
-   "zh": "能够投票。",
-   "segIndex": 5,
-   "section": "06 · 新闻片段"
+   "start": 120.96,
+   "end": 123.429,
+   "en": "modern golf? France, Scotland, Ireland,",
+   "words": 5,
+   "zh": "现代高尔夫？法国、苏格兰、爱尔兰，",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
   },
   {
-   "start": 151.76,
-   "end": 155.03,
-   "en": "vote. Here as well, just like you on the",
-   "words": 9,
-   "zh": "在这里也一样，就像你们在地面上一样，",
-   "segIndex": 5,
-   "section": "06 · 新闻片段"
+   "start": 123.439,
+   "end": 131.99,
+   "en": "or Netherlands?",
+   "words": 2,
+   "zh": "还是荷兰？",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
   },
   {
-   "start": 155.04,
-   "end": 155.179,
-   "en": "ground, this is my room that doubles as",
+   "start": 132.0,
+   "end": 134.869,
+   "en": "If you said Scotland, Terrific. Modern",
+   "words": 6,
+   "zh": "如果你说是苏格兰，太棒了。现代",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 134.879,
+   "end": 137.35,
+   "en": "golf was invented in the 15th century in",
    "words": 8,
-   "zh": "这是我的房间，兼作",
+   "zh": "高尔夫于15世纪在",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 137.36,
+   "end": 139.51,
+   "en": "Scotland. But here's the wild part. King",
+   "words": 7,
+   "zh": "苏格兰发明。但疯狂的是，国王",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 139.52,
+   "end": 142.55,
+   "en": "James II in 1457 banned it because",
+   "words": 7,
+   "zh": "詹姆斯二世在1457年禁止了它，因为",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 142.56,
+   "end": 143.75,
+   "en": "people were playing instead of",
+   "words": 5,
+   "zh": "人们打球而不",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 143.76,
+   "end": 145.83,
+   "en": "practicing archery. King wanted fewer",
+   "words": 5,
+   "zh": "练习射箭。国王想要更少",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 145.84,
+   "end": 148.229,
+   "en": "birdies, more bullse eyes for the sake",
+   "words": 7,
+   "zh": "小鸟球，更多靶心，为了",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 148.239,
+   "end": 151.19,
+   "en": "of national defense. Next story is about",
+   "words": 7,
+   "zh": "国防方面。下一条新闻是关于",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 151.2,
+   "end": 153.75,
+   "en": "someone named Blades Brown who at 19",
+   "words": 7,
+   "zh": "一个叫布莱兹·布朗的人，他19岁",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 153.76,
+   "end": 155.589,
+   "en": "years old just became the youngest PGA",
+   "words": 7,
+   "zh": "刚成为95年来最年轻的PGA",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 155.599,
+   "end": 158.79,
+   "en": "Tour winner in 95 years. Blades started",
+   "words": 7,
+   "zh": "巡回赛冠军。布莱兹周日",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 158.8,
+   "end": 160.949,
+   "en": "Sunday in Los Cabos, Mexico, seven shots",
+   "words": 7,
+   "zh": "在墨西哥洛斯卡沃斯开赛时落后七杆。",
+   "segIndex": 5,
+   "section": "06 · 新闻片段"
+  },
+  {
+   "start": 160.959,
+   "end": 164.229,
+   "en": "back. Then he shot a 9 under 63, sent",
+   "words": 9,
+   "zh": "随后他打出低于标准杆9杆的63杆，将",
+   "segIndex": 5,
+   "section": "06 · 新闻片段"
+  },
+  {
+   "start": 164.239,
+   "end": 166.229,
+   "en": "the final round to a playoff, and sank a",
+   "words": 9,
+   "zh": "决赛轮拖入加洞赛，并推入",
+   "segIndex": 5,
+   "section": "06 · 新闻片段"
+  },
+  {
+   "start": 166.239,
+   "end": 168.229,
+   "en": "birdie putt for the title. The last time",
+   "words": 8,
+   "zh": "一记小鸟推夺冠。上一次",
+   "segIndex": 5,
+   "section": "06 · 新闻片段"
+  },
+  {
+   "start": 168.239,
+   "end": 170.869,
+   "en": "someone this young won a PGA Tour event,",
+   "words": 8,
+   "zh": "如此年轻的人赢得PGA巡回赛赛事，",
+   "segIndex": 5,
+   "section": "06 · 新闻片段"
+  },
+  {
+   "start": 170.879,
+   "end": 173.18,
+   "en": "1931. Blades was still in high school",
+   "words": 7,
+   "zh": "还是1931年。布莱兹当时还在读高中",
    "segIndex": 5,
    "section": "06 · 新闻片段"
   }
  ],
- "2026-11-04": [
+ "2026-11-11": [
   {
-   "start": 214.18,
-   "end": 215.67,
-   "en": "researchers are turning to drones",
-   "words": 5,
-   "zh": "研究人员正转向无人机",
+   "start": 199.94,
+   "end": 201.43,
+   "en": "one of America's most iconic luxury",
+   "words": 6,
+   "zh": "美国最具标志性的奢侈品之一",
    "segIndex": 0,
    "section": "01 · 新闻片段"
   },
   {
-   "start": 215.68,
-   "end": 218.07,
-   "en": "adapted from tools used to track sharks",
+   "start": 201.44,
+   "end": 203.43,
+   "en": "ocean liners, which is about to make its",
+   "words": 8,
+   "zh": "远洋客轮，即将使其",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
+  },
+  {
+   "start": 203.44,
+   "end": 205.35,
+   "en": "final voyage straight to the bottom of",
    "words": 7,
-   "zh": "改编自追踪鲨鱼的工具",
+   "zh": "最终航程直沉海底",
    "segIndex": 0,
    "section": "01 · 新闻片段"
   },
   {
-   "start": 218.08,
-   "end": 220.63,
-   "en": "to find the nation's fragile endangered",
-   "words": 6,
-   "zh": "以寻找该国脆弱的濒危",
-   "segIndex": 0,
-   "section": "01 · 新闻片段"
-  },
-  {
-   "start": 220.64,
-   "end": 222.229,
-   "en": "species. You can't protect what you",
-   "words": 6,
-   "zh": "物种。你无法保护你",
-   "segIndex": 0,
-   "section": "01 · 新闻片段"
-  },
-  {
-   "start": 222.239,
-   "end": 224.07,
-   "en": "can't find. More now from our Linda",
+   "start": 205.36,
+   "end": 207.589,
+   "en": "the ocean. The SS United States is",
    "words": 7,
-   "zh": "找不到的东西。接下来由琳达",
+   "zh": "海洋。SS United States 是",
    "segIndex": 0,
    "section": "01 · 新闻片段"
   },
   {
-   "start": 224.08,
-   "end": 225.99,
-   "en": "Concaid for CNN's Call to Earth",
-   "words": 6,
-   "zh": "康凯德为CNN《地球的呼唤》报道",
-   "segIndex": 0,
-   "section": "01 · 新闻片段"
-  },
-  {
-   "start": 226.0,
-   "end": 228.229,
-   "en": "supported by the Rolex Perpetual Planet",
-   "words": 6,
-   "zh": "由劳力士恒动地球",
-   "segIndex": 0,
-   "section": "01 · 新闻片段"
-  },
-  {
-   "start": 228.239,
-   "end": 232.869,
-   "en": "Initiative.",
-   "words": 1,
-   "zh": "倡议支持。",
-   "segIndex": 0,
-   "section": "01 · 新闻片段"
-  },
-  {
-   "start": 232.879,
-   "end": 235.19,
-   "en": "In Australia's Northeast on Magnetic",
-   "words": 5,
-   "zh": "在澳大利亚东北部的磁",
-   "segIndex": 0,
-   "section": "01 · 新闻片段"
-  },
-  {
-   "start": 235.2,
-   "end": 237.27,
-   "en": "Island, a team of drone pilots",
-   "words": 6,
-   "zh": "岛，一队无人机飞行员",
-   "segIndex": 1,
-   "section": "02 · 新闻片段"
-  },
-  {
-   "start": 237.28,
-   "end": 239.509,
-   "en": "take to the sky as part of a pioneering",
-   "words": 9,
-   "zh": "作为一项开创性计划的一部分飞上天空。",
-   "segIndex": 1,
-   "section": "02 · 新闻片段"
-  },
-  {
-   "start": 239.519,
-   "end": 241.429,
-   "en": "initiative.",
-   "words": 1,
-   "zh": "计划。",
-   "segIndex": 1,
-   "section": "02 · 新闻片段"
-  },
-  {
-   "start": 241.439,
-   "end": 242.63,
-   "en": "They're searching for one of the",
-   "words": 6,
-   "zh": "他们正在寻找该国最具标志性、",
-   "segIndex": 1,
-   "section": "02 · 新闻片段"
-  },
-  {
-   "start": 242.64,
-   "end": 244.869,
-   "en": "country's most iconic and elusive",
-   "words": 5,
-   "zh": "最难寻觅的物种之一。",
-   "segIndex": 1,
-   "section": "02 · 新闻片段"
-  },
-  {
-   "start": 244.879,
-   "end": 245.67,
-   "en": "species.",
-   "words": 1,
-   "zh": "所以，没花多长时间。是啊。哇。",
-   "segIndex": 1,
-   "section": "02 · 新闻片段"
-  },
-  {
-   "start": 245.68,
-   "end": 248.47,
-   "en": "So, that didn't take long. Yeah. Wow.",
+   "start": 207.599,
+   "end": 210.149,
+   "en": "bigger than the Titanic and now is",
    "words": 7,
-   "zh": "利用配备尖端成像技术的无人机，",
-   "segIndex": 1,
-   "section": "02 · 新闻片段"
-  },
-  {
-   "start": 248.48,
-   "end": 250.47,
-   "en": "Using drones equipped with cuttingedge",
-   "words": 5,
-   "zh": "大磁岛考拉计数旨在",
-   "segIndex": 1,
-   "section": "02 · 新闻片段"
-  },
-  {
-   "start": 250.48,
-   "end": 252.309,
-   "en": "imaging technology, the Great",
-   "words": 4,
-   "zh": "完成最全面的调查。",
-   "segIndex": 1,
-   "section": "02 · 新闻片段"
-  },
-  {
-   "start": 252.319,
-   "end": 254.63,
-   "en": "Magnetic Island Koala Count aims to",
-   "words": 6,
    "zh": "",
-   "segIndex": 1,
-   "section": "02 · 新闻片段"
-  },
-  {
-   "start": 254.64,
-   "end": 256.949,
-   "en": "complete the most comprehensive survey",
-   "words": 5,
-   "zh": "",
-   "segIndex": 1,
-   "section": "02 · 新闻片段"
-  },
-  {
-   "start": 256.959,
-   "end": 259.43,
-   "en": "of the island's koala population ever",
-   "words": 6,
-   "zh": "岛上考拉种群的",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
-  },
-  {
-   "start": 259.44,
-   "end": 260.39,
-   "en": "undertaken.",
-   "words": 1,
-   "zh": "调查。",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
-  },
-  {
-   "start": 260.4,
-   "end": 262.39,
-   "en": "We've now completed phase one of that",
-   "words": 7,
-   "zh": "我们现在已完成该项目的",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
-  },
-  {
-   "start": 262.4,
-   "end": 266.629,
-   "en": "project uh and detected 46 koalas um in",
-   "words": 8,
-   "zh": "第一阶段，在特定区域检测到46只考拉，",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
-  },
-  {
-   "start": 266.639,
-   "end": 269.27,
-   "en": "a specific area and a really um",
-   "words": 7,
-   "zh": "这是一个对研究而言非常",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
-  },
-  {
-   "start": 269.28,
-   "end": 271.909,
-   "en": "important area for the research. Ripper",
-   "words": 6,
-   "zh": "重要的区域。Ripper",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
-  },
-  {
-   "start": 271.919,
-   "end": 273.749,
-   "en": "Corp originally designed their drones",
-   "words": 5,
-   "zh": "Corp最初设计无人机",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
-  },
-  {
-   "start": 273.759,
-   "end": 275.748,
-   "en": "for identifying threats to swimmers",
-   "words": 5,
-   "zh": "是为了识别游泳者面临的威胁，",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
-  },
-  {
-   "start": 275.758,
-   "end": 277.43,
-   "en": "as well as for search and rescue",
-   "words": 7,
-   "zh": "以及用于海上搜救",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
-  },
-  {
-   "start": 277.44,
-   "end": 279.83,
-   "en": "efforts at sea. As their technology",
-   "words": 6,
-   "zh": "行动。随着他们的技术",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
-  },
-  {
-   "start": 279.84,
-   "end": 282.15,
-   "en": "advanced, so too did their opportunity",
-   "words": 6,
-   "zh": "先进，他们的机会也随之增加",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 282.16,
-   "end": 284.39,
-   "en": "to aid conservation efforts.",
-   "words": 4,
-   "zh": "以助力保护工作。",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 284.4,
-   "end": 286.55,
-   "en": "We started out in in looking for sharks",
-   "words": 8,
-   "zh": "我们最初是在寻找鲨鱼",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 286.56,
-   "end": 288.87,
-   "en": "and and crocodiles uh and use that",
-   "words": 7,
-   "zh": "和鳄鱼，呃，并利用那项",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 288.88,
-   "end": 291.35,
-   "en": "technology to move into the bush. So",
-   "words": 7,
-   "zh": "技术进入丛林。所以",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 291.36,
-   "end": 293.189,
-   "en": "looking for endangered species,",
-   "words": 4,
-   "zh": "寻找濒危物种，",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 293.199,
-   "end": 295.11,
-   "en": "especially koalas.",
-   "words": 2,
-   "zh": "尤其是考拉。",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 295.12,
-   "end": 296.79,
-   "en": "In Queensland, the Australian government",
-   "words": 5,
-   "zh": "在昆士兰州，澳大利亚政府",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 296.8,
-   "end": 299.27,
-   "en": "has listed koalas as endangered since",
-   "words": 6,
-   "zh": "自2022年起已将考拉列为",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 299.28,
-   "end": 300.87,
-   "en": "2022.",
-   "words": 1,
-   "zh": "濒危物种。",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 300.88,
-   "end": 303.51,
-   "en": "Oh wow, little Joey on its back.",
-   "words": 7,
-   "zh": "哇，小乔伊四脚朝天了。",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 303.52,
-   "end": 305.67,
-   "en": "The koalas that roam these canopies were",
-   "words": 7,
-   "zh": "在这些树冠间活动的考拉们",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 305.68,
-   "end": 307.59,
-   "en": "introduced to the island back in the",
-   "words": 7,
-   "zh": "早在当年被引入该岛",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 307.6,
-   "end": 310.07,
-   "en": "early 20th century to protect them from",
-   "words": 7,
-   "zh": "20世纪初以保护他们免受",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 310.08,
-   "end": 311.83,
-   "en": "threats on the mainland. But the",
-   "words": 6,
-   "zh": "对大陆的威胁。但是",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 311.84,
-   "end": 313.51,
-   "en": "island's terrain, combined with the",
-   "words": 5,
-   "zh": "岛屿的地形，结合了",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 313.52,
-   "end": 315.27,
-   "en": "difficulty in spotting individuals from",
-   "words": 5,
-   "zh": "难以从中辨认出个人",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 315.28,
-   "end": 317.51,
-   "en": "the ground, can make population counts",
-   "words": 6,
-   "zh": "地面，可以进行人口统计",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 317.52,
-   "end": 318.23,
-   "en": "challenging",
-   "words": 1,
-   "zh": "具有挑战性的",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 318.24,
-   "end": 319.35,
-   "en": "and expensive.",
-   "words": 2,
-   "zh": "且昂贵。",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 319.36,
-   "end": 320.71,
-   "en": "People often say, \"Oh, there's a couple",
-   "words": 7,
-   "zh": "人们常说：“哦，山上有一对",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 320.72,
-   "end": 323.27,
-   "en": "of koalas up in the hill or there's a",
-   "words": 9,
-   "zh": "考拉，或者那里有",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 323.28,
-   "end": 325.99,
-   "en": "few koalas there.\" Uh but yeah, with our",
-   "words": 8,
-   "zh": "几只考拉。”呃，但没错，用我们的",
-   "segIndex": 5,
-   "section": "06 · 新闻片段"
-  },
-  {
-   "start": 326.0,
-   "end": 328.39,
-   "en": "drones, we're able to really count how",
-   "words": 7,
-   "zh": "无人机，我们能够真正数清那里",
-   "segIndex": 5,
-   "section": "06 · 新闻片段"
-  },
-  {
-   "start": 328.4,
-   "end": 331.029,
-   "en": "many are there, provide their exact GPS",
-   "words": 7,
-   "zh": "有多少只，提供它们精确的GPS",
-   "segIndex": 5,
-   "section": "06 · 新闻片段"
-  },
-  {
-   "start": 331.039,
-   "end": 334.71,
-   "en": "location, um and take some great imagery",
-   "words": 7,
-   "zh": "位置，嗯，并拍摄一些考拉的",
-   "segIndex": 5,
-   "section": "06 · 新闻片段"
-  },
-  {
-   "start": 334.72,
-   "end": 336.79,
-   "en": "of the koalas without disturbing them in",
-   "words": 7,
-   "zh": "精彩图像，而不会以",
-   "segIndex": 5,
-   "section": "06 · 新闻片段"
-  },
-  {
-   "start": 336.8,
-   "end": 339.18,
-   "en": "any way.",
-   "words": 2,
-   "zh": "任何方式打扰它们。",
-   "segIndex": 5,
-   "section": "06 · 新闻片段"
-  }
- ],
- "2026-11-03": [
-  {
-   "start": 192.42,
-   "end": 193.91,
-   "en": "occupied it. Well, a temporary local",
-   "words": 6,
-   "zh": "占领了它。嗯，一个临时的当地",
    "segIndex": 0,
    "section": "01 · 新闻片段"
   },
   {
-   "start": 193.92,
-   "end": 196.229,
-   "en": "ceasefire, which Pope Leo called for,",
-   "words": 6,
-   "zh": "停火协议，教皇利奥曾呼吁达成，",
-   "segIndex": 0,
-   "section": "01 · 新闻片段"
-  },
-  {
-   "start": 196.239,
-   "end": 198.309,
-   "en": "and First Lady Melania Trump helped",
-   "words": 6,
-   "zh": "第一夫人梅拉尼娅·特朗普协助",
-   "segIndex": 0,
-   "section": "01 · 新闻片段"
-  },
-  {
-   "start": 198.319,
-   "end": 200.63,
-   "en": "negotiate, allowed the couple and",
-   "words": 5,
-   "zh": "谈判，使这对夫妇和",
-   "segIndex": 0,
-   "section": "01 · 新闻片段"
-  },
-  {
-   "start": 200.64,
-   "end": 203.03,
-   "en": "hundreds of civilians and their pets to",
+   "start": 210.159,
+   "end": 212.869,
+   "en": "scheduled to be sunk on purpose today",
    "words": 7,
-   "zh": "数百名平民及其宠物得以",
+   "zh": "计划于今日被故意沉没",
    "segIndex": 0,
    "section": "01 · 新闻片段"
   },
   {
-   "start": 203.04,
-   "end": 205.589,
-   "en": "escape Russian occupied Alleski.",
-   "words": 4,
-   "zh": "逃离俄罗斯占领的阿列斯基。",
+   "start": 212.879,
+   "end": 215.75,
+   "en": "about 25 miles off Florida's Gulf Coast.",
+   "words": 7,
+   "zh": "距佛罗里达州墨西哥湾海岸约25英里。",
    "segIndex": 0,
    "section": "01 · 新闻片段"
   },
   {
-   "start": 205.599,
-   "end": 207.67,
-   "en": "Ukrainian officials said Russia honored",
-   "words": 5,
-   "zh": "乌克兰官员表示，俄罗斯在停火期间",
-   "segIndex": 0,
-   "section": "01 · 新闻片段"
-  },
-  {
-   "start": 207.68,
-   "end": 209.509,
-   "en": "their commitments during the ceasefire,",
-   "words": 5,
-   "zh": "履行了他们的承诺，",
-   "segIndex": 0,
-   "section": "01 · 新闻片段"
-  },
-  {
-   "start": 209.519,
-   "end": 211.11,
-   "en": "adding that it's important to maintain",
-   "words": 6,
-   "zh": "并补充说，重要的是维持",
-   "segIndex": 0,
-   "section": "01 · 新闻片段"
-  },
-  {
-   "start": 211.12,
-   "end": 213.27,
-   "en": "this mechanism of cooperation to",
-   "words": 5,
-   "zh": "这种合作机制以",
-   "segIndex": 0,
-   "section": "01 · 新闻片段"
-  },
-  {
-   "start": 213.28,
-   "end": 215.19,
-   "en": "continue helping people and saving",
-   "words": 5,
-   "zh": "继续帮助人们并拯救生命",
-   "segIndex": 1,
-   "section": "02 · 新闻片段"
-  },
-  {
-   "start": 215.2,
+   "start": 215.76,
    "end": 217.43,
-   "en": "lives. The broader war continues now,",
-   "words": 6,
-   "zh": "生活。更广泛的战争仍在继续，",
-   "segIndex": 1,
-   "section": "02 · 新闻片段"
+   "en": "Soon it will become the world's largest",
+   "words": 7,
+   "zh": "很快它将成为世界最大",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
   },
   {
    "start": 217.44,
-   "end": 219.35,
-   "en": "but for these families, the temporary",
+   "end": 219.83,
+   "en": "artificial reef and hopefully for marine",
    "words": 6,
-   "zh": "但对这些家庭而言，临时的",
-   "segIndex": 1,
-   "section": "02 · 新闻片段"
+   "zh": "人工鱼礁，并希望能为海洋生物",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
   },
   {
-   "start": 219.36,
-   "end": 221.589,
-   "en": "pause meant something extraordinary. Our",
+   "start": 219.84,
+   "end": 222.71,
+   "en": "biologists, a new abode for corals,",
+   "words": 6,
+   "zh": "生物学家，珊瑚的新居所。",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
+  },
+  {
+   "start": 222.72,
+   "end": 225.03,
+   "en": "fish, and seaggrasses. The legendary",
    "words": 5,
-   "zh": "",
+   "zh": "鱼类和海草。这艘传奇",
    "segIndex": 1,
    "section": "02 · 新闻片段"
   },
   {
-   "start": 221.599,
-   "end": 224.789,
-   "en": "Seb Shuckla has more.",
-   "words": 4,
-   "zh": "塞布·舒克拉带来更多报道。",
+   "start": 225.04,
+   "end": 227.35,
+   "en": "ship made history on its maiden voyage",
+   "words": 7,
+   "zh": "船在1952年的首航中创造了历史",
    "segIndex": 1,
    "section": "02 · 新闻片段"
   },
   {
-   "start": 224.799,
-   "end": 227.43,
-   "en": "The first sight of loved ones as 4 and a",
-   "words": 10,
-   "zh": "初次见到亲人，当4和a",
+   "start": 227.36,
+   "end": 230.309,
+   "en": "in 1952 when it crossed from New York to",
+   "words": 9,
+   "zh": "当时它从纽约横渡到",
    "segIndex": 1,
    "section": "02 · 新闻片段"
   },
   {
-   "start": 227.44,
-   "end": 229.19,
-   "en": "half years living under Russian",
+   "start": 230.319,
+   "end": 232.55,
+   "en": "Europe in just under three days and 11",
+   "words": 8,
+   "zh": "欧洲仅用了不到三天零11",
+   "segIndex": 1,
+   "section": "02 · 新闻片段"
+  },
+  {
+   "start": 232.56,
+   "end": 234.949,
+   "en": "hours. A record that still stands to",
+   "words": 7,
+   "zh": "小时。这一纪录至今",
+   "segIndex": 1,
+   "section": "02 · 新闻片段"
+  },
+  {
+   "start": 234.959,
+   "end": 238.149,
+   "en": "this day. It will come to rest 180 ft",
+   "words": 9,
+   "zh": "仍然保持。它现在将安息在水下",
+   "segIndex": 1,
+   "section": "02 · 新闻片段"
+  },
+  {
+   "start": 238.159,
+   "end": 240.63,
+   "en": "below the surface of the water now as",
+   "words": 8,
+   "zh": "180英尺处，成为佛罗里达",
+   "segIndex": 1,
+   "section": "02 · 新闻片段"
+  },
+  {
+   "start": 240.64,
+   "end": 242.789,
+   "en": "the newest attraction on Florida's",
    "words": 5,
-   "zh": "在俄罗斯统治下生活了半年",
+   "zh": "沉船步道的最新景点。已有20艘其他船只",
    "segIndex": 1,
    "section": "02 · 新闻片段"
   },
   {
-   "start": 229.2,
-   "end": 232.229,
-   "en": "occupation ends. reunited with their",
-   "words": 5,
-   "zh": "占领结束。与他们的重聚",
+   "start": 242.799,
+   "end": 245.429,
+   "en": "shipwreck trail. 20 other ships already",
+   "words": 6,
+   "zh": "点缀着从彭萨科拉到",
    "segIndex": 1,
    "section": "02 · 新闻片段"
   },
   {
-   "start": 232.239,
-   "end": 234.63,
-   "en": "families",
-   "words": 1,
-   "zh": "家庭",
-   "segIndex": 1,
-   "section": "02 · 新闻片段"
-  },
-  {
-   "start": 234.64,
-   "end": 236.949,
-   "en": "and relieved that their ordeal is now",
-   "words": 7,
-   "zh": "并对他们现在的磨难结束感到宽慰",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
-  },
-  {
-   "start": 236.959,
-   "end": 238.869,
-   "en": "over.",
-   "words": 1,
-   "zh": "结束了。",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
-  },
-  {
-   "start": 238.879,
-   "end": 241.03,
-   "en": "\"It was like I'd escaped from hell,\"",
-   "words": 7,
-   "zh": "“就像我从地狱逃了出来，”",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
-  },
-  {
-   "start": 241.04,
-   "end": 243.429,
-   "en": "says Alexander. \"I don't know. I've",
+   "start": 245.439,
+   "end": 247.67,
+   "en": "dot that coastline from Pensacola to",
    "words": 6,
-   "zh": "亚历山大说。“我不知道。我",
+   "zh": "的海岸线",
    "segIndex": 2,
    "section": "03 · 新闻片段"
   },
   {
-   "start": 243.439,
-   "end": 245.83,
-   "en": "never felt better in my life.\" Their",
-   "words": 7,
-   "zh": "这辈子从没感觉这么好。”他们",
+   "start": 247.68,
+   "end": 250.55,
+   "en": "Port St. Joe. The SS United States has",
+   "words": 8,
+   "zh": "圣乔港。SS United States号已",
    "segIndex": 2,
    "section": "03 · 新闻片段"
   },
   {
-   "start": 245.84,
-   "end": 248.149,
-   "en": "journey out through occupied Crimea to",
+   "start": 250.56,
+   "end": 252.309,
+   "en": "been stripped of any hazardous materials",
    "words": 6,
-   "zh": "穿过被占领的克里米亚前往",
+   "zh": "清除所有危险材料",
    "segIndex": 2,
    "section": "03 · 新闻片段"
   },
   {
-   "start": 248.159,
-   "end": 250.229,
-   "en": "Russia, a flight to Bellarus, and",
+   "start": 252.319,
+   "end": 254.229,
+   "en": "to protect the marine environment, and",
    "words": 6,
-   "zh": "俄罗斯，飞往白俄罗斯，",
+   "zh": "以保护海洋环境，",
    "segIndex": 2,
    "section": "03 · 新闻片段"
   },
   {
-   "start": 250.239,
-   "end": 253.35,
-   "en": "eventually back into Ukraine by bus.",
-   "words": 6,
-   "zh": "最终乘巴士回到乌克兰。",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
-  },
-  {
-   "start": 253.36,
+   "start": 254.239,
    "end": 256.15,
-   "en": "Some, like Ola, deeply scarred and",
-   "words": 6,
-   "zh": "有些人，像奥拉，深受创伤，",
+   "en": "divers could be exploring the ship as",
+   "words": 7,
+   "zh": "潜水员最早可能于周四",
    "segIndex": 2,
    "section": "03 · 新闻片段"
   },
   {
    "start": 256.16,
-   "end": 260.069,
-   "en": "frightened of what could still go wrong.",
+   "end": 258.629,
+   "en": "early as Thursday. From ocean liner to",
    "words": 7,
-   "zh": "害怕还可能出什么差错。",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
+   "zh": "探索这艘船。从远洋邮轮到",
+   "segIndex": 2,
+   "section": "03 · 新闻片段"
   },
   {
-   "start": 260.079,
-   "end": 262.069,
-   "en": "I hadn't eaten bread for over a year",
-   "words": 8,
-   "zh": "我已经一年多没吃过面包了",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 262.079,
-   "end": 264.469,
-   "en": "until today. She said I was really",
+   "start": 258.639,
+   "end": 260.87,
+   "en": "ocean life, a remarkable second act for",
    "words": 7,
-   "zh": "直到今天。她说我真的很",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
+   "zh": "海洋生物，一艘传奇邮轮的",
+   "segIndex": 2,
+   "section": "03 · 新闻片段"
   },
   {
-   "start": 264.479,
-   "end": 266.87,
-   "en": "scared to get on a plane. My feet went",
-   "words": 9,
-   "zh": "害怕坐飞机。我临阵退缩了",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 266.88,
-   "end": 269.27,
-   "en": "cold because I just kept thinking, \"What",
-   "words": 7,
-   "zh": "因为我一直想，“如果",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 269.28,
-   "end": 272.87,
-   "en": "if some idiot presses the wrong button?\"",
-   "words": 7,
-   "zh": "哪个白痴按错按钮怎么办？”",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 272.88,
-   "end": 274.79,
-   "en": "Alleski has been occupied since the",
-   "words": 6,
-   "zh": "阿列斯基自俄罗斯入侵",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 274.8,
-   "end": 277.11,
-   "en": "early days of Russia's invasion. Since",
-   "words": 6,
-   "zh": "初期以来一直被占领。自那以后，",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 277.12,
-   "end": 279.59,
-   "en": "then, it's been brutalized. Ukrainian",
-   "words": 5,
-   "zh": "它饱受摧残。乌克兰",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 279.6,
-   "end": 281.749,
-   "en": "officials put the population at around",
-   "words": 6,
-   "zh": "官员称人口约为",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 281.759,
-   "end": 285.67,
-   "en": "2,000, down from the original 24,000.",
-   "words": 6,
-   "zh": "2000人，低于最初的24000人。",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 285.68,
-   "end": 288.31,
-   "en": "With little to no water, no gas, and no",
-   "words": 9,
-   "zh": "几乎没有水、没有燃气，也没有",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 288.32,
-   "end": 290.39,
-   "en": "electricity, some residents were",
-   "words": 4,
-   "zh": "电力，一些居民被",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 290.4,
-   "end": 293.51,
-   "en": "reported to be eating grass.",
-   "words": 5,
-   "zh": "报道称在吃草。",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 293.52,
-   "end": 295.909,
-   "en": "Both Keev and Moscow credit the US first",
-   "words": 8,
-   "zh": "基辅和莫斯科都归功于美国第一",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 295.919,
-   "end": 297.99,
-   "en": "lady, Melania Trump, for securing a",
-   "words": 6,
-   "zh": "夫人梅拉尼娅·特朗普，促成了",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 298.0,
-   "end": 299.749,
-   "en": "short ceasefire and ensuring the",
-   "words": 5,
-   "zh": "短暂停火并确保了",
-   "segIndex": 5,
-   "section": "06 · 新闻片段"
-  },
-  {
-   "start": 299.759,
-   "end": 301.909,
-   "en": "evacuation after learning of the",
-   "words": 5,
-   "zh": "在得知",
-   "segIndex": 5,
-   "section": "06 · 新闻片段"
-  },
-  {
-   "start": 301.919,
-   "end": 304.71,
-   "en": "humanitarian catastrophe. Ukrainian",
+   "start": 260.88,
+   "end": 267.43,
+   "en": "a legendary ship.",
    "words": 3,
-   "zh": "人道主义灾难后的撤离。乌克兰",
-   "segIndex": 5,
-   "section": "06 · 新闻片段"
+   "zh": "非凡第二幕。",
+   "segIndex": 2,
+   "section": "03 · 新闻片段"
   },
   {
-   "start": 304.72,
-   "end": 306.39,
-   "en": "officials calling it the biggest",
+   "start": 267.44,
+   "end": 269.189,
+   "en": "Today's story getting a 10 out of 10.",
+   "words": 8,
+   "zh": "今日故事评分10分满分。",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 269.199,
+   "end": 271.189,
+   "en": "Two long lost sisters meeting each other",
+   "words": 7,
+   "zh": "两位失散多年的姐妹首次相见",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 271.199,
+   "end": 273.11,
+   "en": "for the first time while playing against",
+   "words": 7,
+   "zh": "在比赛对阵时",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 273.12,
+   "end": 275.67,
+   "en": "each other on opposing softball teams.",
+   "words": 6,
+   "zh": "在互为对手的垒球队中。",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 275.68,
+   "end": 278.71,
+   "en": "Samantha Rensvald and Cayenne Dean were",
+   "words": 6,
+   "zh": "萨曼莎·伦斯瓦尔德和卡宴·迪恩都",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 278.72,
+   "end": 281.43,
+   "en": "both adopted and they knew they both had",
+   "words": 8,
+   "zh": "是被收养的，她们知道自己都有",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 281.44,
+   "end": 283.99,
+   "en": "biological sisters, but Samantha told us",
+   "words": 6,
+   "zh": "亲生姐妹，但萨曼莎告诉我们",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 284.0,
+   "end": 286.07,
+   "en": "she never imagined they'd actually meet.",
+   "words": 6,
+   "zh": "她从没想过她们真的会见面。",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 286.08,
+   "end": 287.83,
+   "en": "Well, last August at a softball",
+   "words": 6,
+   "zh": "去年八月在蒙大拿州的一场垒球",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 287.84,
+   "end": 289.909,
+   "en": "tournament in Montana, a teammate",
    "words": 5,
-   "zh": "官员称这是自2022年以来",
-   "segIndex": 5,
-   "section": "06 · 新闻片段"
+   "zh": "锦标赛上，一名队友",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
   },
   {
-   "start": 306.4,
-   "end": 309.189,
-   "en": "deescalation since 2022.",
-   "words": 3,
-   "zh": "最大规模的降级。",
-   "segIndex": 5,
-   "section": "06 · 新闻片段"
+   "start": 289.919,
+   "end": 291.749,
+   "en": "pointed out that a girl on the other",
+   "words": 8,
+   "zh": "指出对方球队的一个女孩",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
   },
   {
-   "start": 309.199,
-   "end": 314.39,
-   "en": "We have uh unique uh positive experience",
+   "start": 291.759,
+   "end": 294.95,
+   "en": "team looked just like Samantha.",
+   "words": 5,
+   "zh": "长得和萨曼莎一模一样。",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 294.96,
+   "end": 296.55,
+   "en": "One of the girls I was playing with for",
+   "words": 9,
+   "zh": "和我一起打球的一个女孩",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 296.56,
+   "end": 298.31,
+   "en": "the weekend had played high school with",
    "words": 7,
-   "zh": "我们有呃独特的呃积极经验",
+   "zh": "周末曾和Cayenne一起上高中。",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 298.32,
+   "end": 299.59,
+   "en": "Cayenne.",
+   "words": 1,
+   "zh": "Cayenne。",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 299.6,
+   "end": 302.07,
+   "en": "So, she pointed because we had we were",
+   "words": 8,
+   "zh": "所以她指了出来，因为我们当时在",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 302.08,
+   "end": 304.469,
+   "en": "playing Cayenne that game. So, there was",
+   "words": 7,
+   "zh": "玩Cayenne那个游戏。所以，那场",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 304.479,
+   "end": 306.79,
+   "en": "at least a couple innings of the game",
+   "words": 8,
+   "zh": "比赛里至少有几局",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 306.8,
+   "end": 308.79,
+   "en": "where I had no idea that Cayenne was",
+   "words": 8,
+   "zh": "我完全不知道Cayenne",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 308.8,
+   "end": 311.27,
+   "en": "even on the other team, but she pointed",
+   "words": 8,
+   "zh": "就在对方队里，但她指出了",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 311.28,
+   "end": 314.15,
+   "en": "Cayenne out and was like, \"I think you",
+   "words": 8,
+   "zh": "Cayenne，还说：“我觉得你",
    "segIndex": 5,
    "section": "06 · 新闻片段"
   },
   {
-   "start": 314.4,
-   "end": 317.42,
-   "en": "how to negotiate with Russian side with",
+   "start": 314.16,
+   "end": 315.51,
+   "en": "look a lot like her and I play high",
+   "words": 9,
+   "zh": "长得很像她，我和她一起上",
+   "segIndex": 5,
+   "section": "06 · 新闻片段"
+  },
+  {
+   "start": 315.52,
+   "end": 316.55,
+   "en": "school with her.\" And I kind of was",
+   "words": 8,
+   "zh": "高中。”我有点",
+   "segIndex": 5,
+   "section": "06 · 新闻片段"
+  },
+  {
+   "start": 316.56,
+   "end": 318.23,
+   "en": "like, \"Oh, that's funny. Like, I look",
    "words": 7,
-   "zh": "如何与俄方进行谈判",
+   "zh": "比如，“哦，那真好笑。就像，我看起来",
+   "segIndex": 5,
+   "section": "06 · 新闻片段"
+  },
+  {
+   "start": 318.24,
+   "end": 320.15,
+   "en": "like someone on the other team.\" She was",
+   "words": 8,
+   "zh": "像对方队里的人。”她",
+   "segIndex": 5,
+   "section": "06 · 新闻片段"
+  },
+  {
+   "start": 320.16,
+   "end": 322.31,
+   "en": "like, \"Are you adopted?\" And I was like,",
+   "words": 8,
+   "zh": "说，“你是被收养的吗？”我就说，",
+   "segIndex": 5,
+   "section": "06 · 新闻片段"
+  },
+  {
+   "start": 322.32,
+   "end": 323.99,
+   "en": "\"Yes.\" Like, it's a weird question to",
+   "words": 7,
+   "zh": "“是的。”问这种问题有点奇怪，",
+   "segIndex": 5,
+   "section": "06 · 新闻片段"
+  },
+  {
+   "start": 324.0,
+   "end": 324.94,
+   "en": "ask, but yes, I am. And she starts",
+   "words": 8,
+   "zh": "但没错，我是。然后她开始",
    "segIndex": 5,
    "section": "06 · 新闻片段"
   }
  ],
- "2026-11-02": [
+ "2026-11-10": [
   {
-   "start": 236.739,
-   "end": 238.229,
-   "en": "shattering the record for largest bank",
+   "start": 215.14,
+   "end": 216.63,
+   "en": "chance to share scientific knowledge.",
+   "words": 5,
+   "zh": "分享科学知识的机会。",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
+  },
+  {
+   "start": 216.64,
+   "end": 218.47,
+   "en": "Now to North Korea, where the government",
+   "words": 7,
+   "zh": "现在转向朝鲜，该国政府",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
+  },
+  {
+   "start": 218.48,
+   "end": 220.71,
+   "en": "is serving up something unusual, a wave",
+   "words": 7,
+   "zh": "正推出不同寻常的东西，一波",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
+  },
+  {
+   "start": 220.72,
+   "end": 223.27,
+   "en": "of new barbecue restaurants. More than a",
+   "words": 7,
+   "zh": "新烧烤餐厅。超过",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
+  },
+  {
+   "start": 223.28,
+   "end": 225.589,
+   "en": "dozen state-run bulgogi restaurants have",
+   "words": 5,
+   "zh": "十几家国营烤肉餐厅已",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
+  },
+  {
+   "start": 225.599,
+   "end": 227.19,
+   "en": "opened across the country, serving",
+   "words": 5,
+   "zh": "在全国各地开业，供应",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
+  },
+  {
+   "start": 227.2,
+   "end": 229.509,
+   "en": "grilled meat, a food many North Koreans",
+   "words": 7,
+   "zh": "烤肉，这是许多朝鲜人",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
+  },
+  {
+   "start": 229.519,
+   "end": 231.67,
+   "en": "struggle to afford regularly. State",
+   "words": 5,
+   "zh": "难以经常负担的食物。官方",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
+  },
+  {
+   "start": 231.68,
+   "end": 233.509,
+   "en": "media have highlighted the openings as",
    "words": 6,
-   "zh": "打破了最大银行抢劫案的纪录。",
+   "zh": "媒体强调了这些开业，作为",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
+  },
+  {
+   "start": 233.519,
+   "end": 235.75,
+   "en": "evidence that leader Kim Jong-un is",
+   "words": 6,
+   "zh": "领导人金正恩正在",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
+  },
+  {
+   "start": 235.76,
+   "end": 238.229,
+   "en": "improving living standards. CNN's Will",
+   "words": 5,
+   "zh": "改善生活水平。CNN的威尔",
    "segIndex": 0,
    "section": "01 · 新闻片段"
   },
   {
    "start": 238.239,
-   "end": 241.11,
-   "en": "heist. The FBI says North Korean hackers",
-   "words": 7,
-   "zh": "联邦调查局称朝鲜黑客",
-   "segIndex": 0,
-   "section": "01 · 新闻片段"
-  },
-  {
-   "start": 241.12,
-   "end": 243.429,
-   "en": "were responsible. According to Binance,",
-   "words": 5,
-   "zh": "是幕后黑手。据币安称，",
-   "segIndex": 0,
-   "section": "01 · 新闻片段"
-  },
-  {
-   "start": 243.439,
-   "end": 245.83,
-   "en": "attackers compromised an engineer's",
-   "words": 4,
-   "zh": "攻击者入侵了一名工程师的",
-   "segIndex": 0,
-   "section": "01 · 新闻片段"
-  },
-  {
-   "start": 245.84,
-   "end": 248.309,
-   "en": "laptop, Argo Company Systems, which",
-   "words": 5,
-   "zh": "笔记本电脑，Argo Company Systems，这",
-   "segIndex": 0,
-   "section": "01 · 新闻片段"
-  },
-  {
-   "start": 248.319,
-   "end": 250.949,
-   "en": "quote allowed an attacker to gain access",
-   "words": 7,
-   "zh": "（引述）使攻击者得以访问",
-   "segIndex": 0,
-   "section": "01 · 新闻片段"
-  },
-  {
-   "start": 250.959,
-   "end": 252.869,
-   "en": "to a service container and submit",
-   "words": 6,
-   "zh": "一个服务容器并提交",
-   "segIndex": 0,
-   "section": "01 · 新闻片段"
-  },
-  {
-   "start": 252.879,
-   "end": 255.429,
-   "en": "unauthorized withdrawal transactions.",
-   "words": 3,
-   "zh": "未经授权的提款交易。",
-   "segIndex": 0,
-   "section": "01 · 新闻片段"
-  },
-  {
-   "start": 255.439,
-   "end": 257.189,
-   "en": "Think about that. Not someone cracking",
-   "words": 6,
-   "zh": "想想看。不是有人撬开",
-   "segIndex": 0,
-   "section": "01 · 新闻片段"
-  },
-  {
-   "start": 257.199,
-   "end": 259.67,
-   "en": "open a bank vault, but someone getting",
-   "words": 7,
-   "zh": "银行金库，而是有人获取",
-   "segIndex": 0,
-   "section": "01 · 新闻片段"
-  },
-  {
-   "start": 259.68,
-   "end": 261.67,
-   "en": "through a digital door. A team of",
-   "words": 7,
-   "zh": "通过一扇数字之门。一个",
+   "end": 240.377,
+   "en": "Ripley reports.",
+   "words": 2,
+   "zh": "里普利报道。",
    "segIndex": 1,
    "section": "02 · 新闻片段"
   },
   {
-   "start": 261.68,
-   "end": 263.749,
-   "en": "cryptocurrency firms managed to freeze",
-   "words": 5,
-   "zh": "加密货币公司团队成功冻结了",
+   "start": 242.239,
+   "end": 244.309,
+   "en": "North Korean leader Kim Jong-un is",
+   "words": 6,
+   "zh": "朝鲜领导人金正恩正在",
    "segIndex": 1,
    "section": "02 · 新闻片段"
   },
   {
-   "start": 263.759,
-   "end": 266.07,
-   "en": "about half of the stolen assets and have",
+   "start": 244.319,
+   "end": 247.27,
+   "en": "serving up a new image of prosperity.",
+   "words": 7,
+   "zh": "展现繁荣的新形象。",
+   "segIndex": 1,
+   "section": "02 · 新闻片段"
+  },
+  {
+   "start": 247.28,
+   "end": 249.67,
+   "en": "Promising to put more meat on the table,",
    "words": 8,
-   "zh": "约一半的被盗资产，并",
+   "zh": "承诺让餐桌上多些肉，",
    "segIndex": 1,
    "section": "02 · 新闻片段"
   },
   {
-   "start": 266.08,
-   "end": 267.749,
-   "en": "continued battling the hackers for",
-   "words": 5,
-   "zh": "继续与黑客争夺",
-   "segIndex": 1,
-   "section": "02 · 新闻片段"
-  },
-  {
-   "start": 267.759,
-   "end": 270.07,
-   "en": "control of the rest of it. Binance",
-   "words": 7,
-   "zh": "其余资产的控制权。币安",
-   "segIndex": 1,
-   "section": "02 · 新闻片段"
-  },
-  {
-   "start": 270.08,
-   "end": 271.909,
-   "en": "temporarily suspended withdrawals",
-   "words": 3,
-   "zh": "在遭黑客攻击后暂时",
-   "segIndex": 1,
-   "section": "02 · 新闻片段"
-  },
-  {
-   "start": 271.919,
-   "end": 273.749,
-   "en": "following the hack and as of this",
-   "words": 7,
-   "zh": "暂停了提款，截至本",
-   "segIndex": 1,
-   "section": "02 · 新闻片段"
-  },
-  {
-   "start": 273.759,
-   "end": 276.07,
-   "en": "taping, the company says it has replaced",
-   "words": 7,
-   "zh": "次录制，该公司表示已补回",
-   "segIndex": 1,
-   "section": "02 · 新闻片段"
-  },
-  {
-   "start": 276.08,
-   "end": 279.27,
-   "en": "90% of the stolen funds. North Korea has",
-   "words": 8,
-   "zh": "90%的被盗资金。朝鲜此前",
-   "segIndex": 1,
-   "section": "02 · 新闻片段"
-  },
-  {
-   "start": 279.28,
-   "end": 282.07,
-   "en": "previously denied hacking allegations.",
+   "start": 249.68,
+   "end": 252.229,
+   "en": "at least for some.",
    "words": 4,
-   "zh": "曾否认黑客指控。",
+   "zh": "至少对部分人而言。",
    "segIndex": 1,
    "section": "02 · 新闻片段"
   },
   {
-   "start": 282.08,
-   "end": 283.909,
-   "en": "CNN has reached out to North Korea's",
+   "start": 252.239,
+   "end": 254.63,
+   "en": "With plenty of fanfare over the past two",
+   "words": 8,
+   "zh": "过去两个月里大张旗鼓地，",
+   "segIndex": 1,
+   "section": "02 · 新闻片段"
+  },
+  {
+   "start": 254.64,
+   "end": 256.55,
+   "en": "months, North Korean state media",
+   "words": 5,
+   "zh": "朝鲜官方媒体",
+   "segIndex": 1,
+   "section": "02 · 新闻片段"
+  },
+  {
+   "start": 256.56,
+   "end": 258.39,
+   "en": "announced more than a dozen new",
+   "words": 6,
+   "zh": "宣布了十多家新的",
+   "segIndex": 1,
+   "section": "02 · 新闻片段"
+  },
+  {
+   "start": 258.4,
+   "end": 261.59,
+   "en": "Koreanstyle bulgogi barbecue restaurants",
+   "words": 4,
+   "zh": "韩式烤肉餐厅",
+   "segIndex": 1,
+   "section": "02 · 新闻片段"
+  },
+  {
+   "start": 261.6,
+   "end": 264.39,
+   "en": "with beef, pork, and even ostrich on the",
+   "words": 8,
+   "zh": "菜单上有牛肉、猪肉，甚至鸵鸟肉",
+   "segIndex": 2,
+   "section": "03 · 新闻片段"
+  },
+  {
+   "start": 264.4,
+   "end": 267.11,
+   "en": "menu at brand new multi-story buildings",
+   "words": 6,
+   "zh": "在崭新的多层建筑中",
+   "segIndex": 2,
+   "section": "03 · 新闻片段"
+  },
+  {
+   "start": 267.12,
+   "end": 271.51,
+   "en": "featuring tables with inlaid grills.",
+   "words": 5,
+   "zh": "配有嵌入式烤炉的餐桌。",
+   "segIndex": 2,
+   "section": "03 · 新闻片段"
+  },
+  {
+   "start": 271.52,
+   "end": 273.51,
+   "en": "From Kim Jong-un's perspective, it's",
+   "words": 5,
+   "zh": "从金正恩的角度来看，",
+   "segIndex": 2,
+   "section": "03 · 新闻片段"
+  },
+  {
+   "start": 273.52,
+   "end": 274.87,
+   "en": "important to show that he's doing",
+   "words": 6,
+   "zh": "重要的是展示他正在",
+   "segIndex": 2,
+   "section": "03 · 新闻片段"
+  },
+  {
+   "start": 274.88,
+   "end": 277.03,
+   "en": "something for the people. One of the key",
+   "words": 8,
+   "zh": "为人民做实事。其中的关键",
+   "segIndex": 2,
+   "section": "03 · 新闻片段"
+  },
+  {
+   "start": 277.04,
+   "end": 278.95,
+   "en": "principles behind that is the idea of",
    "words": 7,
-   "zh": "CNN已联系朝鲜的",
+   "zh": "原则之一就是",
    "segIndex": 2,
    "section": "03 · 新闻片段"
   },
   {
-   "start": 283.919,
-   "end": 285.749,
-   "en": "mission at the United Nations for",
-   "words": 6,
-   "zh": "驻联合国代表团",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
-  },
-  {
-   "start": 285.759,
-   "end": 288.39,
-   "en": "comment. Door Dash is coming through",
-   "words": 6,
-   "zh": "Door Dash 正在赶来。",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
-  },
-  {
-   "start": 288.4,
-   "end": 290.95,
-   "en": "with one supersized order. The food",
-   "words": 6,
-   "zh": "凭借一份超大订单。食物",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
-  },
-  {
-   "start": 290.96,
-   "end": 293.03,
-   "en": "delivery company just announced plans to",
-   "words": 6,
-   "zh": "快递公司刚刚宣布计划",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
-  },
-  {
-   "start": 293.04,
-   "end": 295.67,
-   "en": "buy rival company Instacart in a deal",
+   "start": 278.96,
+   "end": 281.03,
+   "en": "putting the people first. So the growing",
    "words": 7,
-   "zh": "收购竞争对手Instacart",
+   "zh": "以人民为先的理念。因此，",
    "segIndex": 2,
    "section": "03 · 新闻片段"
   },
   {
-   "start": 295.68,
-   "end": 299.11,
-   "en": "valued at roughly $17 billion, tip not",
-   "words": 7,
-   "zh": "估值约170亿美元，小费除外",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
-  },
-  {
-   "start": 299.12,
-   "end": 301.749,
-   "en": "included. The goal, combine two delivery",
+   "start": 281.04,
+   "end": 282.87,
+   "en": "number of bulgogi restaurants can serve",
    "words": 6,
-   "zh": "目标是将两次交付合并。",
+   "zh": "越来越多的烤肉餐厅可以",
    "segIndex": 2,
    "section": "03 · 新闻片段"
   },
   {
-   "start": 301.759,
-   "end": 303.59,
-   "en": "giants to better compete with companies",
+   "start": 282.88,
+   "end": 285.03,
+   "en": "as a powerful propaganda tool, showing",
    "words": 6,
-   "zh": "巨头为更好地与公司竞争",
-   "segIndex": 2,
-   "section": "03 · 新闻片段"
-  },
-  {
-   "start": 303.6,
-   "end": 306.31,
-   "en": "like Amazon, Walmart, and Uber. Door",
-   "words": 6,
-   "zh": "像亚马逊、沃尔玛和优步。Door",
+   "zh": "作为强有力的宣传工具，展示",
    "segIndex": 3,
    "section": "04 · 新闻片段"
+  },
+  {
+   "start": 285.04,
+   "end": 286.469,
+   "en": "that the state is providing something",
+   "words": 6,
+   "zh": "国家正在为其人民提供一些东西。",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 286.479,
+   "end": 287.59,
+   "en": "for its people.",
+   "words": 3,
+   "zh": "为其人民。",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 287.6,
+   "end": 289.749,
+   "en": "Meat has always been a luxury for most",
+   "words": 8,
+   "zh": "对大多数朝鲜人来说，肉类一直是奢侈品。",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 289.759,
+   "end": 292.15,
+   "en": "North Koreans. In its latest report from",
+   "words": 7,
+   "zh": "在其2022年的最新报告中，",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 292.16,
+   "end": 294.95,
+   "en": "2022, the UN World Food Program",
+   "words": 6,
+   "zh": "联合国世界粮食计划署估计，",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 294.96,
+   "end": 297.43,
+   "en": "estimated more than two out of five",
+   "words": 7,
+   "zh": "超过五分之二的朝鲜人",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 297.44,
+   "end": 299.59,
+   "en": "North Koreans were undernourished.",
+   "words": 4,
+   "zh": "营养不良。",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 299.6,
+   "end": 302.55,
+   "en": "For North Koreans where they're still",
+   "words": 6,
+   "zh": "对于朝鲜人来说，他们仍然",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 302.56,
+   "end": 304.39,
+   "en": "pretty much near start having to worry",
+   "words": 7,
+   "zh": "几乎从一开始就不得不担心",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 304.4,
+   "end": 306.31,
+   "en": "about literally about starvation every",
+   "words": 5,
+   "zh": "几乎每天都要担心饥饿。",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
   },
   {
    "start": 306.32,
-   "end": 308.15,
-   "en": "Dash says customers could see lower",
-   "words": 6,
-   "zh": "Dash表示，如果交易达成，客户可能会看到更低",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
+   "end": 309.27,
+   "en": "year, meat is a luxury in the diet. It's",
+   "words": 9,
+   "zh": "如今，肉类在饮食中是奢侈品。它是",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
   },
   {
-   "start": 308.16,
-   "end": 310.39,
-   "en": "prices if the deal goes through. Not",
-   "words": 7,
-   "zh": "的价格。并非",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
+   "start": 309.28,
+   "end": 312.71,
+   "en": "a real luxury in a diet. Um, so those",
+   "words": 9,
+   "zh": "饮食中真正的奢侈品。嗯，所以那些",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
   },
   {
-   "start": 310.4,
-   "end": 312.629,
-   "en": "everyone is sold on this. Critics worry",
-   "words": 7,
-   "zh": "所有人都对此买账。批评者担心",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 312.639,
+   "start": 312.72,
    "end": 314.629,
-   "en": "the deal could reduce competition,",
-   "words": 5,
-   "zh": "该交易可能减少竞争，",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
+   "en": "benefiting, which of course is good that",
+   "words": 7,
+   "zh": "受益的人，当然这是好事，",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
   },
   {
    "start": 314.639,
-   "end": 317.67,
-   "en": "potentially driving prices up. An anti-",
-   "words": 6,
-   "zh": "从而可能推高价格。一个反",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
+   "end": 316.71,
+   "en": "people get access to more meat. It will",
+   "words": 8,
+   "zh": "人们能获得更多肉类。将会",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
   },
   {
-   "start": 317.68,
-   "end": 320.07,
-   "en": "monopoly group is urging regulators to",
+   "start": 316.72,
+   "end": 318.79,
+   "en": "be people associated with the trading",
    "words": 6,
-   "zh": "垄断组织正敦促监管机构",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
+   "zh": "是与贸易网络相关的人，",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
   },
   {
-   "start": 320.08,
-   "end": 321.99,
-   "en": "block the deal, warning the combined",
-   "words": 6,
-   "zh": "阻止该交易，警告合并后的",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
+   "start": 318.8,
+   "end": 321.029,
+   "en": "networks, their families.",
+   "words": 3,
+   "zh": "以及他们的家人。",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
   },
   {
-   "start": 322.0,
-   "end": 324.469,
-   "en": "company could control nearly 60% of the",
+   "start": 321.039,
+   "end": 323.83,
+   "en": "The bulgogi eaters, she says, are likely",
    "words": 7,
-   "zh": "公司可能控制近60%的",
-   "segIndex": 3,
-   "section": "04 · 新闻片段"
-  },
-  {
-   "start": 324.479,
-   "end": 327.11,
-   "en": "third-party grocery delivery market.",
-   "words": 4,
-   "zh": "第三方杂货配送市场。",
+   "zh": "她说，吃烤肉的人很可能是",
    "segIndex": 4,
    "section": "05 · 新闻片段"
   },
   {
-   "start": 327.12,
-   "end": 329.43,
-   "en": "Let's go to India now, where engineering",
-   "words": 7,
-   "zh": "现在让我们转到印度，那里工程",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 329.44,
-   "end": 331.51,
-   "en": "students are taking innovation to new",
-   "words": 6,
-   "zh": "学生们正将创新推向新",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 331.52,
-   "end": 333.99,
-   "en": "heights. They've just developed a 3D",
-   "words": 6,
-   "zh": "高度。他们刚刚研发出一架3D",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 334.0,
-   "end": 336.629,
-   "en": "printed aircraft capable of flying",
+   "start": 323.84,
+   "end": 326.15,
+   "en": "North Koreans benefiting from increased",
    "words": 5,
-   "zh": "打印的飞机，能够自主",
+   "zh": "受益于与俄罗斯和中国贸易增加的",
    "segIndex": 4,
    "section": "05 · 新闻片段"
   },
   {
-   "start": 336.639,
-   "end": 339.67,
-   "en": "autonomously. Our Christyl Stout got to",
+   "start": 326.16,
+   "end": 329.11,
+   "en": "trade with Russia and China, which just",
+   "words": 7,
+   "zh": "朝鲜人，而这两国刚刚",
+   "segIndex": 5,
+   "section": "06 · 新闻片段"
+  },
+  {
+   "start": 329.12,
+   "end": 330.87,
+   "en": "opened a new friendship bridge,",
+   "words": 5,
+   "zh": "开通了一座新的友谊桥，",
+   "segIndex": 5,
+   "section": "06 · 新闻片段"
+  },
+  {
+   "start": 330.88,
+   "end": 333.59,
+   "en": "potentially deepening economic ties. But",
+   "words": 5,
+   "zh": "可能加深经济联系。但是",
+   "segIndex": 5,
+   "section": "06 · 新闻片段"
+  },
+  {
+   "start": 333.6,
+   "end": 335.35,
+   "en": "will showing off all these restaurants",
    "words": 6,
-   "zh": "飞行。我们的Christyl Stout得以",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 339.68,
-   "end": 341.59,
-   "en": "join the team as they put it to the",
-   "words": 9,
-   "zh": "加入团队，一同对它进行",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 341.6,
-   "end": 343.59,
-   "en": "test.",
-   "words": 1,
-   "zh": "测试。",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 343.6,
-   "end": 345.83,
-   "en": "This drone didn't come off a production",
-   "words": 7,
-   "zh": "这架无人机并非来自生产",
-   "segIndex": 4,
-   "section": "05 · 新闻片段"
-  },
-  {
-   "start": 345.84,
-   "end": 348.95,
-   "en": "line. It came out of a printer.",
-   "words": 7,
-   "zh": "线，而是出自一台打印机。",
+   "zh": "在国营电视上展示所有这些餐厅",
    "segIndex": 5,
    "section": "06 · 新闻片段"
   },
   {
-   "start": 348.96,
-   "end": 351.749,
-   "en": "It was developed by team SUS at IIT",
+   "start": 335.36,
+   "end": 338.15,
+   "en": "on state TV make most North Koreans feel",
    "words": 8,
-   "zh": "它由印度理工学院马德拉斯分校的SUS团队研发。",
+   "zh": "会让大多数朝鲜人感到",
    "segIndex": 5,
    "section": "06 · 新闻片段"
   },
   {
-   "start": 351.759,
-   "end": 353.27,
-   "en": "Madras.",
-   "words": 1,
-   "zh": "",
+   "start": 338.16,
+   "end": 339.35,
+   "en": "more prosperous?",
+   "words": 2,
+   "zh": "更加富裕吗？",
    "segIndex": 5,
    "section": "06 · 新闻片段"
   },
   {
-   "start": 353.28,
-   "end": 355.35,
-   "en": "Can you show me?",
+   "start": 339.36,
+   "end": 340.14,
+   "en": "Every North Korean knows that quite a",
+   "words": 7,
+   "zh": "每个朝鲜人都知道，相当",
+   "segIndex": 5,
+   "section": "06 · 新闻片段"
+  }
+ ],
+ "2026-11-09": [
+  {
+   "start": 25.46,
+   "end": 26.95,
+   "en": "holidays in the world, Diwali. Known as",
+   "words": 7,
+   "zh": "世界各地的节日——排灯节。被称为",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
+  },
+  {
+   "start": 26.96,
+   "end": 29.109,
+   "en": "the festival of lights, Diwali is one of",
+   "words": 8,
+   "zh": "光之节，排灯节是",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
+  },
+  {
+   "start": 29.119,
+   "end": 31.669,
+   "en": "the most important holidays in Hinduism.",
+   "words": 6,
+   "zh": "印度教最重要的节日之一。",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
+  },
+  {
+   "start": 31.679,
+   "end": 33.83,
+   "en": "It's also celebrated by people in other",
+   "words": 7,
+   "zh": "其他信仰的人也会庆祝它，",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
+  },
+  {
+   "start": 33.84,
+   "end": 36.31,
+   "en": "faiths including Janism, Sikism, and",
+   "words": 5,
+   "zh": "包括耆那教、锡克教和",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
+  },
+  {
+   "start": 36.32,
+   "end": 39.03,
+   "en": "some Buddhists. The five-day celebration",
+   "words": 5,
+   "zh": "一些佛教徒。为期五天的庆祝活动",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
+  },
+  {
+   "start": 39.04,
+   "end": 41.11,
+   "en": "symbolizes the victory of light over",
+   "words": 6,
+   "zh": "象征着光明战胜",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
+  },
+  {
+   "start": 41.12,
+   "end": 43.67,
+   "en": "darkness and good over evil. Now,",
+   "words": 6,
+   "zh": "黑暗、善战胜恶。如今，",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
+  },
+  {
+   "start": 43.68,
+   "end": 45.43,
+   "en": "families will decorate their homes with",
+   "words": 6,
+   "zh": "家家户户会用",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
+  },
+  {
+   "start": 45.44,
+   "end": 48.069,
+   "en": "colorful lights, light small oil lamps",
+   "words": 6,
+   "zh": "彩灯装饰房屋，点燃小油灯",
+   "segIndex": 0,
+   "section": "01 · 新闻片段"
+  },
+  {
+   "start": 48.079,
+   "end": 50.709,
+   "en": "called Diaz, share sweets, exchange",
+   "words": 5,
+   "zh": "叫迪亚兹，分享糖果，交换",
+   "segIndex": 1,
+   "section": "02 · 新闻片段"
+  },
+  {
+   "start": 50.719,
+   "end": 53.189,
+   "en": "gifts, and even enjoy some fireworks.",
+   "words": 6,
+   "zh": "礼物，甚至欣赏一些烟花。",
+   "segIndex": 1,
+   "section": "02 · 新闻片段"
+  },
+  {
+   "start": 53.199,
+   "end": 55.91,
+   "en": "Now over the weekend, a brilliant scene",
+   "words": 7,
+   "zh": "现在到了周末，一个绚丽的场景",
+   "segIndex": 1,
+   "section": "02 · 新闻片段"
+  },
+  {
+   "start": 55.92,
+   "end": 58.869,
+   "en": "as more than three million oil lamps",
+   "words": 7,
+   "zh": "超过三百万盏油灯",
+   "segIndex": 1,
+   "section": "02 · 新闻片段"
+  },
+  {
+   "start": 58.879,
+   "end": 61.43,
+   "en": "light up an Indian holy city in",
+   "words": 7,
+   "zh": "点亮了一座印度圣城，",
+   "segIndex": 1,
+   "section": "02 · 新闻片段"
+  },
+  {
+   "start": 61.44,
+   "end": 63.59,
+   "en": "anticipation of the Hindu festival of",
+   "words": 6,
+   "zh": "迎接印度教灯节的到来。",
+   "segIndex": 1,
+   "section": "02 · 新闻片段"
+  },
+  {
+   "start": 63.6,
+   "end": 65.99,
+   "en": "lights. The colorful celebrations",
    "words": 4,
-   "zh": "你能演示给我看吗？",
-   "segIndex": 5,
-   "section": "06 · 新闻片段"
+   "zh": "丰富多彩的庆祝活动",
+   "segIndex": 1,
+   "section": "02 · 新闻片段"
   },
   {
-   "start": 355.36,
-   "end": 357.83,
-   "en": "They 3D print their own components to",
-   "words": 7,
-   "zh": "他们3D打印自己的部件，",
-   "segIndex": 5,
-   "section": "06 · 新闻片段"
-  },
-  {
-   "start": 357.84,
-   "end": 360.31,
-   "en": "fit the aircraft to the job instead of",
+   "start": 66.0,
+   "end": 68.789,
+   "en": "featured a drone show of scenes from the",
    "words": 8,
-   "zh": "让飞机适应任务，而不是",
+   "zh": "包括一场无人机表演，展现",
+   "segIndex": 1,
+   "section": "02 · 新闻片段"
+  },
+  {
+   "start": 68.799,
+   "end": 71.19,
+   "en": "ancient story of Prince Rama who is",
+   "words": 7,
+   "zh": "罗摩王子古老故事中的场景，他被",
+   "segIndex": 1,
+   "section": "02 · 新闻片段"
+  },
+  {
+   "start": 71.2,
+   "end": 73.67,
+   "en": "believed to be an incarnation of the",
+   "words": 7,
+   "zh": "认为是……的化身",
+   "segIndex": 2,
+   "section": "03 · 新闻片段"
+  },
+  {
+   "start": 73.68,
+   "end": 76.87,
+   "en": "Hindu god Deatti Vishnu. Now Diwali is",
+   "words": 7,
+   "zh": "印度教神毗湿奴。现在排灯节是",
+   "segIndex": 2,
+   "section": "03 · 新闻片段"
+  },
+  {
+   "start": 76.88,
+   "end": 79.83,
+   "en": "also a time for new beginnings, hope and",
+   "words": 8,
+   "zh": "也是新的开始、希望与",
+   "segIndex": 2,
+   "section": "03 · 新闻片段"
+  },
+  {
+   "start": 79.84,
+   "end": 81.429,
+   "en": "happiness.",
+   "words": 1,
+   "zh": "幸福。",
+   "segIndex": 2,
+   "section": "03 · 新闻片段"
+  },
+  {
+   "start": 81.439,
+   "end": 84.07,
+   "en": "to Indonesia now where NASA's Neil",
+   "words": 6,
+   "zh": "现在转向印度尼西亚，NASA的尼尔",
+   "segIndex": 2,
+   "section": "03 · 新闻片段"
+  },
+  {
+   "start": 84.08,
+   "end": 87.429,
+   "en": "Geral's Swift telescope has re-entered",
+   "words": 5,
+   "zh": "Geral的Swift望远镜已重新进入",
+   "segIndex": 2,
+   "section": "03 · 新闻片段"
+  },
+  {
+   "start": 87.439,
+   "end": 91.03,
+   "en": "Earth's atmosphere almost 22 years after",
+   "words": 6,
+   "zh": "地球大气层在约22年后",
+   "segIndex": 2,
+   "section": "03 · 新闻片段"
+  },
+  {
+   "start": 91.04,
+   "end": 93.19,
+   "en": "its launch. Now, even though the",
+   "words": 6,
+   "zh": "它的发射。现在，尽管",
+   "segIndex": 2,
+   "section": "03 · 新闻片段"
+  },
+  {
+   "start": 93.2,
+   "end": 95.35,
+   "en": "telescope orbited hundreds of miles",
+   "words": 5,
+   "zh": "望远镜在数百英里高空轨道运行",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 95.36,
+   "end": 97.27,
+   "en": "above Earth, the thin layer of",
+   "words": 6,
+   "zh": "在地球上方，薄薄的一层",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 97.28,
+   "end": 99.67,
+   "en": "atmosphere creates friction or drag,",
+   "words": 5,
+   "zh": "大气产生摩擦或阻力，",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 99.68,
+   "end": 102.149,
+   "en": "which gradually lowers a satellite's",
+   "words": 5,
+   "zh": "这会逐渐降低卫星的",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 102.159,
+   "end": 105.429,
+   "en": "orbit over time. Swift descended too low",
+   "words": 7,
+   "zh": "轨道高度。Swift降得太低",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 105.439,
+   "end": 107.749,
+   "en": "to continue operating, and NASA ended",
+   "words": 6,
+   "zh": "无法继续运行，NASA于",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 107.759,
+   "end": 110.149,
+   "en": "its science mission on October 20th.",
+   "words": 6,
+   "zh": "10月20日结束了其科学任务。",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 110.159,
+   "end": 112.149,
+   "en": "Now, the spacecraft then fell back into",
+   "words": 7,
+   "zh": "随后，该航天器于11月",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 112.159,
+   "end": 114.95,
+   "en": "the ocean near North Sumatra on November",
+   "words": 7,
+   "zh": "4日坠入北苏门答腊附近",
+   "segIndex": 3,
+   "section": "04 · 新闻片段"
+  },
+  {
+   "start": 114.96,
+   "end": 118.389,
+   "en": "4th. Launched back in 2004 for what was",
+   "words": 8,
+   "zh": "的海域。它于2004年发射，",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 118.399,
+   "end": 120.63,
+   "en": "supposed to be just a two-year mission,",
+   "words": 7,
+   "zh": "原定任务仅两年，",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 120.64,
+   "end": 123.19,
+   "en": "the telescope studied black holes,",
+   "words": 5,
+   "zh": "该望远镜研究了黑洞、",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 123.2,
+   "end": 126.149,
+   "en": "exploding stars, and gamma ray bursts,",
+   "words": 6,
+   "zh": "爆炸恒星和伽马射线暴，",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 126.159,
+   "end": 128.63,
+   "en": "the most powerful explosions in the",
+   "words": 6,
+   "zh": "宇宙中最强大的爆炸。",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 128.64,
+   "end": 131.67,
+   "en": "cosmos. Now, most of the spacecraft was",
+   "words": 7,
+   "zh": "现在，航天器的大部分预计",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 131.68,
+   "end": 134.229,
+   "en": "expected to burn up during re-entry, but",
+   "words": 7,
+   "zh": "会在重返大气层时烧毁，但",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 134.239,
+   "end": 137.35,
+   "en": "some components still remain intact. In",
+   "words": 6,
+   "zh": "一些部件仍然完好无损。",
+   "segIndex": 4,
+   "section": "05 · 新闻片段"
+  },
+  {
+   "start": 137.36,
+   "end": 140.309,
+   "en": "the past, NASA has been able to recover",
+   "words": 8,
+   "zh": "过去，NASA曾能够回收",
    "segIndex": 5,
    "section": "06 · 新闻片段"
   },
   {
-   "start": 360.32,
-   "end": 361.739,
-   "en": "the other way around. This drone is",
+   "start": 140.319,
+   "end": 142.71,
+   "en": "pieces of spacecraft for further",
+   "words": 5,
+   "zh": "航天器碎片以进行进一步",
+   "segIndex": 5,
+   "section": "06 · 新闻片段"
+  },
+  {
+   "start": 142.72,
+   "end": 144.39,
+   "en": "observation.",
+   "words": 1,
+   "zh": "观察。",
+   "segIndex": 5,
+   "section": "06 · 新闻片段"
+  },
+  {
+   "start": 144.4,
+   "end": 147.19,
+   "en": "It is time for 10 second trivia. What is",
+   "words": 9,
+   "zh": "现在是10秒问答时间。",
+   "segIndex": 5,
+   "section": "06 · 新闻片段"
+  },
+  {
+   "start": 147.2,
+   "end": 150.07,
+   "en": "the name of the filtering structure gray",
    "words": 7,
-   "zh": "反过来。这架无人机是",
+   "zh": "灰鲸用来代替牙齿的过滤结构",
+   "segIndex": 5,
+   "section": "06 · 新闻片段"
+  },
+  {
+   "start": 150.08,
+   "end": 150.46,
+   "en": "whales use instead of teeth? Is it",
+   "words": 7,
+   "zh": "叫什么名字？是",
    "segIndex": 5,
    "section": "06 · 新闻片段"
   }
